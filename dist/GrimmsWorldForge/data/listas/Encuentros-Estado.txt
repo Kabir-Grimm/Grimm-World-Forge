@@ -1,9 +1,0 @@
-Sano
-Herido
-Gravemente herido
-Agotado
-Traumatizado
-Corrupto
-Capturado
-Desaparecido
-Muerto

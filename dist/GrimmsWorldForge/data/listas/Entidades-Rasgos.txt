@@ -1,9 +1,0 @@
-Bendecido por guerra|combat:+4|risk:+3
-Bendecido por fuego|arcane:+3|resistance:+1|risk:+1
-Bendecido por sombras|stealth:+3|social:-1
-Maldito por sangre|combat:+2|risk:+4|social:-3
-Marcado por oscuridad|arcane:+3|social:-2|risk:+3
-Famoso|social:+3|influence:+3
-Infame|influence:+2|social:-2|risk:+2
-Elegido|arcane:+3|influence:+2|risk:+2
-Veterano|combat:+2|knowledge:+1|resistance:+2

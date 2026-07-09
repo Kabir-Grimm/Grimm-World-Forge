@@ -1,7 +1,0 @@
-Frágil (Cae con el más leve golpe)|.4
-Débil (Se fatiga fácilmente)|.8
-Normal (Puede resistir un combate estándar)|1
-Duro (Aguanta más que el promedio)|.8
-Resistente (Tolera el dolor y sigue de pie)|.08
-Inquebrantable (Soporta castigos brutales sin caer)|.05
-Indestructible (Parece incapaz de morir o rendirse)|.01

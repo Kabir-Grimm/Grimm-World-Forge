@@ -1,7 +1,0 @@
-Ruidoso (Imposible que no lo detecten)|.4
-Torpe (Hace ruido al moverse)|.8
-Común (Pasa desapercibido en la multitud)|1
-Sigiloso (Puede moverse en la sombra sin ser visto)|.8
-Experto en infiltración (Evita ser detectado incluso en zonas vigiladas)|.08
-Maestro del sigilo (Solo una habilidad extrema puede notarlo)|.05
-Fantasma (Nadie sabe que estuvo ahí hasta que es demasiado tarde)|.01

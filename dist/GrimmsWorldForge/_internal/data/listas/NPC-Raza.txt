@@ -1,6 +1,0 @@
-Humano
-Elfo
-Enano
-Orco
-Tiefling
-Autómata
