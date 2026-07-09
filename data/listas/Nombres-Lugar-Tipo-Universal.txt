@@ -1,0 +1,50 @@
+Ciudad|10
+Villa|10
+Pueblo|10
+Aldea|9
+Capital|9
+Fortaleza|9
+Bastión|8
+Santuario|8
+Templo|8
+Ruina|8
+Puerto|8
+Refugio|7
+Campamento|7
+Colonia|7
+Distrito|7
+Provincia|7
+Región|6
+Territorio|6
+Dominio|6
+Frontera|6
+Torre|6
+Archivo|5
+Biblioteca|5
+Monasterio|5
+Academia|5
+Caverna|5
+Mina|5
+Bosque|5
+Valle|5
+Montaña|5
+Isla|5
+Archipiélago|4
+Desierto|4
+Pantano|4
+Llanura|4
+Bosque antiguo|4
+Ciudadela|4
+Enclave|4
+Puesto avanzado|4
+Camino|3
+Ruta|3
+Portal|3
+Nexo|3
+Cámara|3
+Santuario perdido|3
+Jardín|3
+Necrópolis|2
+Zona prohibida|2
+Lugar sagrado|2
+Tierra olvidada|2

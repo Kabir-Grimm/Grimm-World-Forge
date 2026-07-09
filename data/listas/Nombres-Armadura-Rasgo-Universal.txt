@@ -1,0 +1,9 @@
+Antigua|10
+Sellada|8
+Carmesí|8
+Dorada|7
+Negra|7
+Rota|6
+Sagrada|5
+Prohibida|5
+Viviente|3

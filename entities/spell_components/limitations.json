@@ -1,0 +1,652 @@
+[
+    {
+        "id": "limitation_1",
+        "name": "Requiere línea de visión",
+        "description": "Componente de hechizo asociado a requiere línea de visión.",
+        "tags": [
+            "limitation",
+            "requiere_línea_de_visión"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_2",
+        "name": "Requiere nombre verdadero",
+        "description": "Componente de hechizo asociado a requiere nombre verdadero.",
+        "tags": [
+            "limitation",
+            "requiere_nombre_verdadero"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_3",
+        "name": "Requiere contacto",
+        "description": "Componente de hechizo asociado a requiere contacto.",
+        "tags": [
+            "limitation",
+            "requiere_contacto"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_4",
+        "name": "Requiere símbolo",
+        "description": "Componente de hechizo asociado a requiere símbolo.",
+        "tags": [
+            "limitation",
+            "requiere_símbolo"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_5",
+        "name": "Requiere concentración",
+        "description": "Componente de hechizo asociado a requiere concentración.",
+        "tags": [
+            "limitation",
+            "requiere_concentración"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_6",
+        "name": "Requiere silencio",
+        "description": "Componente de hechizo asociado a requiere silencio.",
+        "tags": [
+            "limitation",
+            "requiere_silencio"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_7",
+        "name": "Requiere emoción específica",
+        "description": "Componente de hechizo asociado a requiere emoción específica.",
+        "tags": [
+            "limitation",
+            "requiere_emoción_específica"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_8",
+        "name": "Solo de noche",
+        "description": "Componente de hechizo asociado a solo de noche.",
+        "tags": [
+            "limitation",
+            "solo_de_noche"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_9",
+        "name": "Solo en zona preparada",
+        "description": "Componente de hechizo asociado a solo en zona preparada.",
+        "tags": [
+            "limitation",
+            "solo_en_zona_preparada"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_10",
+        "name": "No distingue aliados",
+        "description": "Componente de hechizo asociado a no distingue aliados.",
+        "tags": [
+            "limitation",
+            "no_distingue_aliados"
+        ],
+        "effects": {},
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_11",
+        "name": "Efecto breve",
+        "description": "Componente de hechizo asociado a efecto breve.",
+        "tags": [
+            "limitation",
+            "efecto_breve"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_12",
+        "name": "Uso único",
+        "description": "Componente de hechizo asociado a uso único.",
+        "tags": [
+            "limitation",
+            "uso_único"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_13",
+        "name": "Escala limitada",
+        "description": "Componente de hechizo asociado a escala limitada.",
+        "tags": [
+            "limitation",
+            "escala_limitada"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_14",
+        "name": "Rebote posible",
+        "description": "Componente de hechizo asociado a rebote posible.",
+        "tags": [
+            "limitation",
+            "rebote_posible"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_15",
+        "name": "Depende del entorno",
+        "description": "Componente de hechizo asociado a depende del entorno.",
+        "tags": [
+            "limitation",
+            "depende_del_entorno"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_16",
+        "name": "Requiere catalizador",
+        "description": "Componente de hechizo asociado a requiere catalizador.",
+        "tags": [
+            "limitation",
+            "requiere_catalizador"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_17",
+        "name": "Requiere sangre del objetivo",
+        "description": "Componente de hechizo asociado a requiere sangre del objetivo.",
+        "tags": [
+            "limitation",
+            "requiere_sangre_del_objetivo"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_18",
+        "name": "Requiere recuerdo claro",
+        "description": "Componente de hechizo asociado a requiere recuerdo claro.",
+        "tags": [
+            "limitation",
+            "requiere_recuerdo_claro"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_19",
+        "name": "Requiere permiso",
+        "description": "Componente de hechizo asociado a requiere permiso.",
+        "tags": [
+            "limitation",
+            "requiere_permiso"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_20",
+        "name": "No funciona bajo luz directa",
+        "description": "Componente de hechizo asociado a no funciona bajo luz directa.",
+        "tags": [
+            "limitation",
+            "no_funciona_bajo_luz_directa"
+        ],
+        "effects": {},
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_21",
+        "name": "No funciona en agua",
+        "description": "Componente de hechizo asociado a no funciona en agua.",
+        "tags": [
+            "limitation",
+            "no_funciona_en_agua"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_22",
+        "name": "No funciona en metal",
+        "description": "Componente de hechizo asociado a no funciona en metal.",
+        "tags": [
+            "limitation",
+            "no_funciona_en_metal"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_23",
+        "name": "No atraviesa barreras",
+        "description": "Componente de hechizo asociado a no atraviesa barreras.",
+        "tags": [
+            "limitation",
+            "no_atraviesa_barreras"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_24",
+        "name": "Requiere respiración estable",
+        "description": "Componente de hechizo asociado a requiere respiración estable.",
+        "tags": [
+            "limitation",
+            "requiere_respiración_estable"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_25",
+        "name": "Requiere ambas manos libres",
+        "description": "Componente de hechizo asociado a requiere ambas manos libres.",
+        "tags": [
+            "limitation",
+            "requiere_ambas_manos_libres"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_26",
+        "name": "Requiere voz",
+        "description": "Componente de hechizo asociado a requiere voz.",
+        "tags": [
+            "limitation",
+            "requiere_voz"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_27",
+        "name": "Requiere música o ritmo",
+        "description": "Componente de hechizo asociado a requiere música o ritmo.",
+        "tags": [
+            "limitation",
+            "requiere_música_o_ritmo"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_28",
+        "name": "Requiere oscuridad parcial",
+        "description": "Componente de hechizo asociado a requiere oscuridad parcial.",
+        "tags": [
+            "limitation",
+            "requiere_oscuridad_parcial"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_29",
+        "name": "Requiere fuego cercano",
+        "description": "Componente de hechizo asociado a requiere fuego cercano.",
+        "tags": [
+            "limitation",
+            "requiere_fuego_cercano"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_30",
+        "name": "Requiere tierra natural",
+        "description": "Componente de hechizo asociado a requiere tierra natural.",
+        "tags": [
+            "limitation",
+            "requiere_tierra_natural"
+        ],
+        "effects": {},
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_31",
+        "name": "Requiere lluvia o humedad",
+        "description": "Componente de hechizo asociado a requiere lluvia o humedad.",
+        "tags": [
+            "limitation",
+            "requiere_lluvia_o_humedad"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_32",
+        "name": "Requiere altura",
+        "description": "Componente de hechizo asociado a requiere altura.",
+        "tags": [
+            "limitation",
+            "requiere_altura"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_33",
+        "name": "Requiere dolor reciente",
+        "description": "Componente de hechizo asociado a requiere dolor reciente.",
+        "tags": [
+            "limitation",
+            "requiere_dolor_reciente"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_34",
+        "name": "Requiere deuda previa",
+        "description": "Componente de hechizo asociado a requiere deuda previa.",
+        "tags": [
+            "limitation",
+            "requiere_deuda_previa"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_35",
+        "name": "Requiere enemigo declarado",
+        "description": "Componente de hechizo asociado a requiere enemigo declarado.",
+        "tags": [
+            "limitation",
+            "requiere_enemigo_declarado"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_36",
+        "name": "Requiere vínculo afectivo",
+        "description": "Componente de hechizo asociado a requiere vínculo afectivo.",
+        "tags": [
+            "limitation",
+            "requiere_vínculo_afectivo"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_37",
+        "name": "Solo afecta vivos",
+        "description": "Componente de hechizo asociado a solo afecta vivos.",
+        "tags": [
+            "limitation",
+            "solo_afecta_vivos"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_38",
+        "name": "Solo afecta muertos",
+        "description": "Componente de hechizo asociado a solo afecta muertos.",
+        "tags": [
+            "limitation",
+            "solo_afecta_muertos"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_39",
+        "name": "Solo afecta objetos pequeños",
+        "description": "Componente de hechizo asociado a solo afecta objetos pequeños.",
+        "tags": [
+            "limitation",
+            "solo_afecta_objetos_pequeños"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_40",
+        "name": "Solo afecta una emoción",
+        "description": "Componente de hechizo asociado a solo afecta una emoción.",
+        "tags": [
+            "limitation",
+            "solo_afecta_una_emoción"
+        ],
+        "effects": {},
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_41",
+        "name": "No puede matar directamente",
+        "description": "Componente de hechizo asociado a no puede matar directamente.",
+        "tags": [
+            "limitation",
+            "no_puede_matar_directamente"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_42",
+        "name": "No puede curar por completo",
+        "description": "Componente de hechizo asociado a no puede curar por completo.",
+        "tags": [
+            "limitation",
+            "no_puede_curar_por_completo"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_43",
+        "name": "Dura hasta el amanecer",
+        "description": "Componente de hechizo asociado a dura hasta el amanecer.",
+        "tags": [
+            "limitation",
+            "dura_hasta_el_amanecer"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_44",
+        "name": "Dura hasta romper el símbolo",
+        "description": "Componente de hechizo asociado a dura hasta romper el símbolo.",
+        "tags": [
+            "limitation",
+            "dura_hasta_romper_el_símbolo"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_45",
+        "name": "Se rompe con nombre verdadero",
+        "description": "Componente de hechizo asociado a se rompe con nombre verdadero.",
+        "tags": [
+            "limitation",
+            "se_rompe_con_nombre_verdadero"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_46",
+        "name": "Se rompe con risa",
+        "description": "Componente de hechizo asociado a se rompe con risa.",
+        "tags": [
+            "limitation",
+            "se_rompe_con_risa"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_47",
+        "name": "Se rompe con silencio",
+        "description": "Componente de hechizo asociado a se rompe con silencio.",
+        "tags": [
+            "limitation",
+            "se_rompe_con_silencio"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_48",
+        "name": "Requiere orientación exacta",
+        "description": "Componente de hechizo asociado a requiere orientación exacta.",
+        "tags": [
+            "limitation",
+            "requiere_orientación_exacta"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_49",
+        "name": "Requiere sacrificio menor",
+        "description": "Componente de hechizo asociado a requiere sacrificio menor.",
+        "tags": [
+            "limitation",
+            "requiere_sacrificio_menor"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "limitation_50",
+        "name": "Falla ante resistencia emocional",
+        "description": "Componente de hechizo asociado a falla ante resistencia emocional.",
+        "tags": [
+            "limitation",
+            "falla_ante_resistencia_emocional"
+        ],
+        "effects": {},
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    }
+]

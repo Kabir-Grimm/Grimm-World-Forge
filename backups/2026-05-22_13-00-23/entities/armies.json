@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Luz sagrada",
+        "type": "armies",
+        "data": {
+            "Comandante": "Campeón imperial",
+            "Debilidad": "Dependencia tecnológica",
+            "Disciplina": "Estrategas veteranos",
+            "Especialidad": "Defensa de fortalezas",
+            "Estado Actual": "Asediando una ciudad",
+            "Moral": "Manipulados ideológicamente",
+            "Tamaño": "Ejército nacional",
+            "Tipo": "Ejército arcano",
+            "Rareza": "Raro"
+        },
+        "rarity": "Raro",
+        "effects": {
+            "risk": 2
+        },
+        "created_at": "2026-05-18T11:47:04.844753",
+        "id": "armies_1"
+    },
+    {
+        "name": "Nightkey",
+        "type": "armies",
+        "data": {
+            "Comandante": "Líder desconocido",
+            "Debilidad": "Escasez de comida",
+            "Disciplina": "Jerarquía rígida",
+            "Especialidad": "Purga de herejes",
+            "Estado Actual": "Bajo ocupación enemiga",
+            "Moral": "Esperanzados",
+            "Tamaño": "Ejército ancestral",
+            "Tipo": "Autómatas de guerra",
+            "Rareza": "Épico"
+        },
+        "rarity": "Épico",
+        "effects": {
+            "stealth": 2,
+            "risk": 12,
+            "resistance": -1,
+            "control": -2,
+            "initiative": -1,
+            "combat": 9,
+            "damage": 5,
+            "social": -6,
+            "arcane": 2,
+            "influence": 2,
+            "defense": 5
+        },
+        "created_at": "2026-05-18T12:21:22.131347",
+        "id": "armies_2"
+    },
+    {
+        "name": "Makle'it",
+        "type": "armies",
+        "data": {
+            "Comandante": "Veterano traumatizado",
+            "Debilidad": "Problemas logísticos",
+            "Disciplina": "Improvisados",
+            "Especialidad": "Defensa religiosa",
+            "Estado Actual": "En expansión militar",
+            "Moral": "Convencidos de su superioridad",
+            "Tamaño": "Marea interminable",
+            "Tipo": "Legión imperial",
+            "Rareza": "Poco común"
+        },
+        "rarity": "Poco común",
+        "effects": {
+            "combat": 16,
+            "knowledge": 1,
+            "control": -5,
+            "risk": 16,
+            "initiative": -1,
+            "resistance": 5,
+            "defense": 4,
+            "arcane": 2,
+            "influence": 4
+        },
+        "created_at": "2026-05-18T12:21:32.989236",
+        "id": "armies_3"
+    }
+]

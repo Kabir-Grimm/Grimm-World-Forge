@@ -1,0 +1,20 @@
+Indisciplinados|combat:-2|control:-3|risk:+3
+Improvisados|combat:-1|initiative:+1|risk:+2
+Rebeldes|initiative:+2|control:-2|risk:+2
+Organizados|combat:+1|control:+1
+Entrenados|combat:+2|control:+1
+Muy disciplinados|combat:+2|defense:+2|control:+2
+Fanáticamente disciplinados|combat:+3|control:+3|social:-2|risk:+2
+Obediencia absoluta|control:+4|initiative:+1|social:-3
+Mercenarios pragmáticos|combat:+2|knowledge:+1|influence:-1
+Jerarquía rígida|control:+3|initiative:-1
+Autónomos|initiative:+2|control:-1
+Caóticos|initiative:+2|combat:+1|control:-3|risk:+3
+Desmoralizados|combat:-3|resistance:-2|risk:+3
+Estrategas veteranos|knowledge:+3|initiative:+2|combat:+1
+Veteranos endurecidos|combat:+2|resistance:+3|knowledge:+1
+Unidad perfecta|combat:+4|defense:+3|control:+4
+Brutales pero eficientes|damage:+3|combat:+2|social:-3|risk:+2
+Rivales internos constantes|control:-3|risk:+3|influence:-1
+Devoción militar extrema|combat:+2|resistance:+2|risk:+2
+Lealtad inquebrantable|resistance:+3|control:+2|influence:+1

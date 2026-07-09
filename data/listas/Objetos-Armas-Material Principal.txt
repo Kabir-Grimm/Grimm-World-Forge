@@ -1,0 +1,10 @@
+Hierro o acero forjado|1
+Bronce o cobre antiguo|1
+Madera reforzada|1
+Piedra pulida o cristalina|1
+Hueso o marfil endurecido|1
+Energía pura o etérea|1
+Metal alienígena o desconocido|1
+Algún organismo vivo o mutante|1
+Arcano, compuesto por magia sólida|1
+Material indestructible o fuera de la realidad|.5

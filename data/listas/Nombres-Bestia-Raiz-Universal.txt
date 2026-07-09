@@ -1,0 +1,10 @@
+Varg|10
+Morok|8
+Tharn|8
+Karesh|7
+Umbra|7
+Drak|6
+Nhar|6
+Gorath|5
+Zhul|5
+Ekir|4

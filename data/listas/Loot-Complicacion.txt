@@ -1,0 +1,50 @@
+Alguien más lo está buscando|10
+Tiene un dueño legítimo|8
+Su propiedad está disputada|5
+Fue obtenido ilegalmente|4
+Está relacionado con un enemigo|4
+Está relacionado con una deuda|4
+Está relacionado con una promesa pendiente|3
+Alguien quiere destruirlo|4
+Alguien quiere protegerlo|4
+Alguien pagaría mucho por él|5
+Es difícil venderlo|5
+Es difícil transportarlo|5
+Es difícil esconderlo|4
+Es difícil utilizarlo correctamente|5
+Requiere conocimiento especial|5
+Requiere entrenamiento|5
+Requiere reparación|6
+Requiere mantenimiento constante|4
+Requiere otro componente|5
+Requiere una condición específica|4
+Su uso puede tener consecuencias|5
+Su uso puede atraer problemas|4
+Su uso puede cambiar al usuario|2
+Puede generar dependencia|2
+Puede ser peligroso para cualquiera|3
+Puede dañar accidentalmente algo|4
+Puede revelar información no deseada|4
+Puede provocar conflictos|5
+Puede cambiar relaciones existentes|3
+Puede perder valor rápidamente|4
+Puede volverse inútil sin cuidado|4
+Puede ser falso o una copia|3
+Puede haber sido alterado|4
+Puede contener algo inesperado|4
+Puede esconder un secreto|4
+No funciona como debería|5
+No hace lo que parece hacer|3
+Tiene limitaciones desconocidas|4
+Tiene efectos secundarios|3
+Tiene una reputación problemática|4
+Su historia atrae curiosos|4
+Su existencia causa miedo|3
+Su existencia causa ambición|3
+Su importancia está exagerada|4
+Su importancia está subestimada|4
+Está conectado con algo peligroso|3
+Está conectado con algo desconocido|3
+Puede iniciar una cadena de eventos|2
+Puede cambiar el destino de alguien|2
+Nadie sabe qué ocurrirá después|1

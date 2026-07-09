@@ -1,0 +1,4246 @@
+[
+    {
+        "id": "default_weapon_1",
+        "name": "Cuchillo de caza",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Cuchillo pequeño usado para supervivencia, rastreo y defensa rápida.",
+            "tags": [
+                "melee",
+                "light",
+                "survival",
+                "stealth"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 1,
+            "initiative": 3
+        }
+    },
+    {
+        "id": "default_weapon_2",
+        "name": "Daga",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Hoja corta fácil de ocultar y rápida de usar.",
+            "tags": [
+                "melee",
+                "light",
+                "stealth"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 1,
+            "initiative": 3
+        }
+    },
+    {
+        "id": "default_weapon_3",
+        "name": "Puñal ceremonial",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Hoja ritual útil como arma secundaria o símbolo de autoridad.",
+            "tags": [
+                "melee",
+                "light",
+                "ritual",
+                "noble"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 1,
+            "social": 1,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_weapon_4",
+        "name": "Cuchillo arrojadizo",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Hoja balanceada para ataques rápidos a corta distancia.",
+            "tags": [
+                "melee",
+                "throwing",
+                "light",
+                "stealth"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 1,
+            "initiative": 3,
+            "stealth": 1
+        }
+    },
+    {
+        "id": "default_weapon_5",
+        "name": "Espada corta",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Espada ligera y equilibrada, común entre guardias y aventureros.",
+            "tags": [
+                "melee",
+                "light",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 2,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_weapon_6",
+        "name": "Espada larga",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma versátil usada por combatientes entrenados.",
+            "tags": [
+                "melee",
+                "medium",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 3
+        }
+    },
+    {
+        "id": "default_weapon_7",
+        "name": "Mandoble",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Gran espada de dos manos, lenta pero devastadora.",
+            "tags": [
+                "melee",
+                "heavy",
+                "warrior"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 5,
+            "initiative": -2
+        }
+    },
+    {
+        "id": "default_weapon_8",
+        "name": "Estoque",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Espada delgada orientada a precisión, duelos y velocidad.",
+            "tags": [
+                "melee",
+                "light",
+                "duelist",
+                "noble"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 2,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_weapon_9",
+        "name": "Sable",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Hoja curva para cortes veloces y combate móvil.",
+            "tags": [
+                "melee",
+                "medium",
+                "duelist",
+                "cavalry"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 2,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_10",
+        "name": "Cimitarra",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Espada curva de corte fluido y agresivo.",
+            "tags": [
+                "melee",
+                "medium",
+                "exotic"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 3,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_11",
+        "name": "Katana",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Hoja curva de gran filo, asociada a disciplina marcial.",
+            "tags": [
+                "melee",
+                "medium",
+                "duelist",
+                "exotic"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 3,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_12",
+        "name": "Wakizashi",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Espada corta de apoyo, rápida y fácil de portar.",
+            "tags": [
+                "melee",
+                "light",
+                "duelist",
+                "stealth"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 2,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_weapon_13",
+        "name": "Hacha corta",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Hacha manejable usada para combate cercano y utilidad diaria.",
+            "tags": [
+                "melee",
+                "light",
+                "survival"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 3
+        }
+    },
+    {
+        "id": "default_weapon_14",
+        "name": "Hacha de batalla",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma diseñada para golpes devastadores.",
+            "tags": [
+                "melee",
+                "heavy",
+                "warrior"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 4,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_weapon_15",
+        "name": "Hacha doble",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma intimidante de doble filo, difícil de manejar.",
+            "tags": [
+                "melee",
+                "heavy",
+                "warrior"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 5,
+            "initiative": -2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_16",
+        "name": "Maza",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma contundente simple y fiable.",
+            "tags": [
+                "melee",
+                "medium",
+                "blunt"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 3,
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_weapon_17",
+        "name": "Mangual",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma articulada capaz de sortear defensas simples.",
+            "tags": [
+                "melee",
+                "medium",
+                "blunt",
+                "risky"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 3,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_18",
+        "name": "Martillo de guerra",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma contundente efectiva contra protección pesada.",
+            "tags": [
+                "melee",
+                "heavy",
+                "blunt"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 5,
+            "initiative": -2
+        }
+    },
+    {
+        "id": "default_weapon_19",
+        "name": "Garrote reforzado",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma simple, barata y contundente.",
+            "tags": [
+                "melee",
+                "improvised",
+                "blunt",
+                "common"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 2
+        }
+    },
+    {
+        "id": "default_weapon_20",
+        "name": "Bastón de combate",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Bastón resistente usado para defensa, control y golpes precisos.",
+            "tags": [
+                "melee",
+                "staff",
+                "monk",
+                "defensive"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 1,
+            "defense": 1,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_21",
+        "name": "Lanza",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma de asta simple con gran alcance.",
+            "tags": [
+                "melee",
+                "polearm",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 2,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_22",
+        "name": "Pica",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Lanza larga útil para formaciones defensivas.",
+            "tags": [
+                "melee",
+                "polearm",
+                "soldier",
+                "formation"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 3,
+            "defense": 1,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_weapon_23",
+        "name": "Alabarda",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Combinación de lanza y hacha usada por soldados entrenados.",
+            "tags": [
+                "melee",
+                "polearm",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 4,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_weapon_24",
+        "name": "Guja",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma de asta con hoja amplia, útil para cortes de alcance.",
+            "tags": [
+                "melee",
+                "polearm",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 4,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_weapon_25",
+        "name": "Tridente",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma de tres puntas útil para control y empuje.",
+            "tags": [
+                "melee",
+                "polearm",
+                "control"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 2,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_weapon_26",
+        "name": "Guadaña de guerra",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Hoja curva adaptada al combate, peligrosa y aparatosa.",
+            "tags": [
+                "melee",
+                "polearm",
+                "heavy",
+                "risky"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 5,
+            "initiative": -2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_27",
+        "name": "Látigo",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma flexible para desarmar, hostigar o controlar distancia.",
+            "tags": [
+                "melee",
+                "control",
+                "light",
+                "exotic"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 1,
+            "control": 2,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_weapon_28",
+        "name": "Cadena con peso",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Cadena usada para atrapar, golpear y desequilibrar.",
+            "tags": [
+                "melee",
+                "control",
+                "exotic"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 2,
+            "control": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_29",
+        "name": "Nudillos metálicos",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Refuerzo para golpes cuerpo a cuerpo.",
+            "tags": [
+                "melee",
+                "light",
+                "brawler",
+                "stealth"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 1,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_weapon_30",
+        "name": "Guantelete con púas",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Guante pesado para golpes brutales a corta distancia.",
+            "tags": [
+                "melee",
+                "brawler",
+                "medium"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 2,
+            "defense": 1
+        }
+    },
+    {
+        "id": "default_weapon_31",
+        "name": "Garras de combate",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Cuchillas sujetas a la mano para ataques rápidos.",
+            "tags": [
+                "melee",
+                "light",
+                "stealth",
+                "exotic"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 2,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_weapon_32",
+        "name": "Tonfas",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Par de armas cortas defensivas.",
+            "tags": [
+                "melee",
+                "light",
+                "monk",
+                "defensive"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 1,
+            "defense": 2,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_33",
+        "name": "Nunchaku",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma articulada rápida, difícil de dominar.",
+            "tags": [
+                "melee",
+                "light",
+                "monk",
+                "risky"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 2,
+            "initiative": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_34",
+        "name": "Sai",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Par de dagas defensivas para bloqueo y desarme.",
+            "tags": [
+                "melee",
+                "light",
+                "duelist",
+                "defensive"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 1,
+            "defense": 1,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_weapon_35",
+        "name": "Espadón oxidado",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma grande y deteriorada, aún peligrosa.",
+            "tags": [
+                "melee",
+                "heavy",
+                "worn"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 4,
+            "initiative": -2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_36",
+        "name": "Hoja de bronce",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma antigua de filo modesto pero resistente.",
+            "tags": [
+                "melee",
+                "medium",
+                "ancient"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 2,
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_weapon_37",
+        "name": "Macuahuitl",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma de madera con filos cortantes incrustados.",
+            "tags": [
+                "melee",
+                "medium",
+                "tribal",
+                "exotic"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 3
+        }
+    },
+    {
+        "id": "default_weapon_38",
+        "name": "Lanza tribal",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Lanza sencilla fabricada con materiales naturales.",
+            "tags": [
+                "melee",
+                "polearm",
+                "tribal",
+                "survival"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 2,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_39",
+        "name": "Hoz de combate",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Herramienta adaptada como arma curva.",
+            "tags": [
+                "melee",
+                "improvised",
+                "light"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 2,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_40",
+        "name": "Pala reforzada",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Herramienta pesada usada como arma improvisada.",
+            "tags": [
+                "melee",
+                "improvised",
+                "blunt",
+                "tool"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 2,
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_weapon_41",
+        "name": "Pico de minero",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Herramienta capaz de perforar protección y hueso.",
+            "tags": [
+                "melee",
+                "improvised",
+                "tool"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 3,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_42",
+        "name": "Martillo de herrero",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Herramienta pesada de gran impacto.",
+            "tags": [
+                "melee",
+                "improvised",
+                "tool",
+                "blunt"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 3,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_weapon_43",
+        "name": "Horca",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Herramienta campesina útil para mantener distancia.",
+            "tags": [
+                "melee",
+                "improvised",
+                "polearm",
+                "common"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 2,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_44",
+        "name": "Antorcha",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Fuente de luz que también puede intimidar o quemar.",
+            "tags": [
+                "melee",
+                "improvised",
+                "fire",
+                "utility"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 1,
+            "control": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_45",
+        "name": "Escudo ofensivo",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Escudo reforzado usado para embestir.",
+            "tags": [
+                "melee",
+                "shield",
+                "defensive"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 1,
+            "defense": 2,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_weapon_46",
+        "name": "Maza ceremonial",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Símbolo de autoridad que también sirve como arma contundente.",
+            "tags": [
+                "melee",
+                "blunt",
+                "noble",
+                "ritual"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 2,
+            "social": 1
+        }
+    },
+    {
+        "id": "default_weapon_47",
+        "name": "Cetro pesado",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Cetro sólido usado por líderes o sacerdotes en defensa propia.",
+            "tags": [
+                "melee",
+                "blunt",
+                "ritual",
+                "noble"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 2,
+            "influence": 1
+        }
+    },
+    {
+        "id": "default_weapon_48",
+        "name": "Espada bastarda",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Espada entre una mano y dos manos, adaptable y fiable.",
+            "tags": [
+                "melee",
+                "medium",
+                "warrior"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 3
+        }
+    },
+    {
+        "id": "default_weapon_49",
+        "name": "Daga curva",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Hoja curva útil para cortes rápidos y emboscadas.",
+            "tags": [
+                "melee",
+                "light",
+                "stealth"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 2,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_weapon_50",
+        "name": "Clava de hueso",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma primitiva hecha con restos duros.",
+            "tags": [
+                "melee",
+                "tribal",
+                "blunt"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_51",
+        "name": "Arco corto",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arco compacto para caza y defensa ligera.",
+            "tags": [
+                "ranged",
+                "bow",
+                "light",
+                "survival"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 1,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_weapon_52",
+        "name": "Arco largo",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arco potente que requiere fuerza y entrenamiento.",
+            "tags": [
+                "ranged",
+                "bow",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 3,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_weapon_53",
+        "name": "Arco compuesto",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arco avanzado de buena potencia y precisión.",
+            "tags": [
+                "ranged",
+                "bow",
+                "advanced"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 3
+        }
+    },
+    {
+        "id": "default_weapon_54",
+        "name": "Ballesta ligera",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma a distancia fácil de usar y lenta de recargar.",
+            "tags": [
+                "ranged",
+                "crossbow",
+                "light"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 3,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_weapon_55",
+        "name": "Ballesta pesada",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Ballesta de gran penetración, lenta pero letal.",
+            "tags": [
+                "ranged",
+                "crossbow",
+                "heavy"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 5,
+            "initiative": -2
+        }
+    },
+    {
+        "id": "default_weapon_56",
+        "name": "Honda",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma simple de proyectiles pequeños.",
+            "tags": [
+                "ranged",
+                "primitive",
+                "light"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 1,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_weapon_57",
+        "name": "Jabalinas",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Conjunto de lanzas ligeras para arrojar.",
+            "tags": [
+                "ranged",
+                "throwing",
+                "polearm"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 2,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_58",
+        "name": "Cerbatana",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma silenciosa para dardos o venenos.",
+            "tags": [
+                "ranged",
+                "stealth",
+                "primitive"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 1,
+            "stealth": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_59",
+        "name": "Pistola simple",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma de fuego corta y fácil de portar.",
+            "tags": [
+                "ranged",
+                "firearm",
+                "light",
+                "modern"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 3,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_weapon_60",
+        "name": "Revólver",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma de fuego fiable con munición limitada.",
+            "tags": [
+                "ranged",
+                "firearm",
+                "modern"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 3,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_61",
+        "name": "Pistola pesada",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma corta de gran calibre.",
+            "tags": [
+                "ranged",
+                "firearm",
+                "modern",
+                "heavy"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 4
+        }
+    },
+    {
+        "id": "default_weapon_62",
+        "name": "Escopeta recortada",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma brutal a corta distancia.",
+            "tags": [
+                "ranged",
+                "firearm",
+                "modern",
+                "close"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 5,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_63",
+        "name": "Escopeta táctica",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma potente para combate cercano.",
+            "tags": [
+                "ranged",
+                "firearm",
+                "modern",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 5,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_weapon_64",
+        "name": "Rifle de caza",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Rifle preciso usado en cacería y vigilancia.",
+            "tags": [
+                "ranged",
+                "firearm",
+                "modern",
+                "survival"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 4
+        }
+    },
+    {
+        "id": "default_weapon_65",
+        "name": "Rifle militar",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma larga estándar para combate organizado.",
+            "tags": [
+                "ranged",
+                "firearm",
+                "modern",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 4
+        }
+    },
+    {
+        "id": "default_weapon_66",
+        "name": "Rifle de precisión",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma de largo alcance para disparos exactos.",
+            "tags": [
+                "ranged",
+                "firearm",
+                "sniper",
+                "modern"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 5,
+            "initiative": -2
+        }
+    },
+    {
+        "id": "default_weapon_67",
+        "name": "Subfusil",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma automática compacta para combate urbano.",
+            "tags": [
+                "ranged",
+                "firearm",
+                "automatic",
+                "modern"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 3,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_68",
+        "name": "Ametralladora ligera",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma automática de supresión.",
+            "tags": [
+                "ranged",
+                "firearm",
+                "automatic",
+                "heavy"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 5,
+            "initiative": -2,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_weapon_69",
+        "name": "Lanzagranadas",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma explosiva de área.",
+            "tags": [
+                "ranged",
+                "explosive",
+                "heavy",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 6,
+            "risk": 2
+        }
+    },
+    {
+        "id": "default_weapon_70",
+        "name": "Arpón",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma de proyectil útil contra objetivos grandes o acuáticos.",
+            "tags": [
+                "ranged",
+                "survival",
+                "tool"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 3,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_weapon_71",
+        "name": "Rifle de aire comprimido",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma silenciosa de baja potencia.",
+            "tags": [
+                "ranged",
+                "stealth",
+                "modern"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 1,
+            "stealth": 1
+        }
+    },
+    {
+        "id": "default_weapon_72",
+        "name": "Pistola inteligente",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma asistida por sistema de puntería.",
+            "tags": [
+                "ranged",
+                "firearm",
+                "smart",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 3,
+            "initiative": 2,
+            "knowledge": 1
+        }
+    },
+    {
+        "id": "default_weapon_73",
+        "name": "Rifle automático inteligente",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Rifle con asistencia balística integrada.",
+            "tags": [
+                "ranged",
+                "firearm",
+                "smart",
+                "cyberpunk",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "combat": 5,
+            "damage": 4,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_weapon_74",
+        "name": "Cuchilla monomolecular",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Hoja tecnológica de filo extremo.",
+            "tags": [
+                "melee",
+                "cyberpunk",
+                "light",
+                "advanced"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 4,
+            "initiative": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_75",
+        "name": "Katana térmica",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Hoja calentada para cortar materiales resistentes.",
+            "tags": [
+                "melee",
+                "cyberpunk",
+                "advanced"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 5,
+            "initiative": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_76",
+        "name": "Dron ofensivo",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Dron pequeño armado para apoyo táctico.",
+            "tags": [
+                "ranged",
+                "drone",
+                "cyberpunk",
+                "advanced"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 2,
+            "initiative": 2,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_weapon_77",
+        "name": "Implante armado",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Sistema ofensivo integrado al cuerpo.",
+            "tags": [
+                "melee",
+                "cybernetic",
+                "hidden",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 3,
+            "initiative": 2,
+            "stealth": 1
+        }
+    },
+    {
+        "id": "default_weapon_78",
+        "name": "Prótesis militar",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Miembro artificial reforzado para combate.",
+            "tags": [
+                "melee",
+                "cybernetic",
+                "heavy",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 4,
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_weapon_79",
+        "name": "Cañón portátil",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma pesada de energía o proyectil avanzado.",
+            "tags": [
+                "ranged",
+                "heavy",
+                "advanced",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 6,
+            "initiative": -3,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_80",
+        "name": "Lanzador electromagnético",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Dispositivo que dispara proyectiles acelerados.",
+            "tags": [
+                "ranged",
+                "advanced",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 5,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_weapon_81",
+        "name": "Pulso electromagnético",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Dispositivo usado para inutilizar sistemas.",
+            "tags": [
+                "ranged",
+                "tech",
+                "control",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 1,
+            "control": 4,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_82",
+        "name": "Virus ofensivo",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Programa diseñado para sabotear sistemas enemigos.",
+            "tags": [
+                "tech",
+                "software",
+                "cyberpunk",
+                "control"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "damage": 1,
+            "control": 4,
+            "knowledge": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_83",
+        "name": "Programa de ataque",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Herramienta digital para intrusión y daño lógico.",
+            "tags": [
+                "tech",
+                "software",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 2,
+            "control": 2,
+            "knowledge": 2
+        }
+    },
+    {
+        "id": "default_weapon_84",
+        "name": "Nanocolmena",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Contenedor de nanomáquinas agresivas.",
+            "tags": [
+                "advanced",
+                "cyberpunk",
+                "swarm",
+                "dangerous"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 4,
+            "control": 2,
+            "risk": 2
+        }
+    },
+    {
+        "id": "default_weapon_85",
+        "name": "Torreta portátil",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Sistema defensivo desplegable.",
+            "tags": [
+                "ranged",
+                "drone",
+                "defensive",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "combat": 3,
+            "damage": 3,
+            "defense": 2,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_weapon_86",
+        "name": "Dispositivo sónico",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Emisor de ondas usado para desorientar o repeler.",
+            "tags": [
+                "ranged",
+                "control",
+                "advanced"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 1,
+            "control": 3,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_87",
+        "name": "Cable cortante",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Cable fino de alta resistencia usado como arma oculta.",
+            "tags": [
+                "melee",
+                "stealth",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 3,
+            "stealth": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_weapon_88",
+        "name": "Proyector láser",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma de energía precisa.",
+            "tags": [
+                "ranged",
+                "energy",
+                "advanced",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 4
+        }
+    },
+    {
+        "id": "default_weapon_89",
+        "name": "Arma de plasma",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Arma experimental de altísima energía.",
+            "tags": [
+                "ranged",
+                "energy",
+                "advanced",
+                "dangerous"
+            ]
+        },
+        "effects": {
+            "combat": 4,
+            "damage": 6,
+            "risk": 2
+        }
+    },
+    {
+        "id": "default_weapon_90",
+        "name": "Controlador de drones",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Equipo para coordinar unidades ofensivas remotas.",
+            "tags": [
+                "tech",
+                "drone",
+                "control",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 1,
+            "control": 4,
+            "knowledge": 1
+        }
+    },
+    {
+        "id": "default_weapon_91",
+        "name": "Inyector químico",
+        "type": "weapons",
+        "data": {
+            "Categoría": "Arma",
+            "Descripción": "Dispositivo para aplicar sustancias en combate.",
+            "tags": [
+                "melee",
+                "chemical",
+                "stealth"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "damage": 2,
+            "control": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_armor_1",
+        "name": "Protección ligera flexible",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Vestimenta común con protecciones ocultas.",
+            "tags": [
+                "armor",
+                "light",
+                "hidden",
+                "common"
+            ]
+        },
+        "effects": {
+            "defense": 1,
+            "resistance": 1,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_armor_2",
+        "name": "Protección acolchada",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Armadura acolchada básica y económica.",
+            "tags": [
+                "armor",
+                "light",
+                "medieval",
+                "common"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_armor_3",
+        "name": "Protección flexible",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección ligera y flexible.",
+            "tags": [
+                "armor",
+                "light",
+                "survival"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "resistance": 1,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_armor_4",
+        "name": "Protección discreta reforzada",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Cuero reforzado con remaches metálicos.",
+            "tags": [
+                "armor",
+                "light",
+                "medium"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_armor_5",
+        "name": "Protección orgánica endurecida",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección rústica fabricada con piel tratada.",
+            "tags": [
+                "armor",
+                "light",
+                "tribal"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "resistance": 2
+        }
+    },
+    {
+        "id": "default_armor_6",
+        "name": "Protección de placas naturales",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección hecha con placas naturales de criatura.",
+            "tags": [
+                "armor",
+                "medium",
+                "organic",
+                "exotic"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "resistance": 2
+        }
+    },
+    {
+        "id": "default_armor_7",
+        "name": "Protección de material rígido orgánico",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Placas óseas endurecidas y atadas al cuerpo.",
+            "tags": [
+                "armor",
+                "medium",
+                "tribal",
+                "organic"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "resistance": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_armor_8",
+        "name": "Protección laminar ligera",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección ligera de placas tratadas.",
+            "tags": [
+                "armor",
+                "light",
+                "tribal"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "resistance": 1,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_armor_9",
+        "name": "Protección de malla",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Anillos metálicos que ofrecen buena defensa, algo pesada.",
+            "tags": [
+                "armor",
+                "medium",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "resistance": 2,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_armor_10",
+        "name": "Protección interna reforzada",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Chaleco reforzado con placas internas.",
+            "tags": [
+                "armor",
+                "medium",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "resistance": 2
+        }
+    },
+    {
+        "id": "default_armor_11",
+        "name": "Coraza rígida antigua",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Pieza rígida de metal antiguo.",
+            "tags": [
+                "armor",
+                "medium",
+                "ancient"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "resistance": 3,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_armor_12",
+        "name": "Coraza rígida",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección sólida para torso.",
+            "tags": [
+                "armor",
+                "medium",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "defense": 4,
+            "resistance": 3,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_armor_13",
+        "name": "Protección de escamas",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Placas superpuestas que distribuyen impactos.",
+            "tags": [
+                "armor",
+                "medium",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "defense": 4,
+            "resistance": 2,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_armor_14",
+        "name": "Protección laminar",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Placas pequeñas unidas entre sí, común en ejércitos organizados.",
+            "tags": [
+                "armor",
+                "medium",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "defense": 4,
+            "resistance": 2
+        }
+    },
+    {
+        "id": "default_armor_15",
+        "name": "Protección parcial pesada",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección pesada en zonas vitales.",
+            "tags": [
+                "armor",
+                "heavy",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "defense": 5,
+            "resistance": 3,
+            "initiative": -2
+        }
+    },
+    {
+        "id": "default_armor_16",
+        "name": "Protección completa pesada",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección pesada de cuerpo entero.",
+            "tags": [
+                "armor",
+                "heavy",
+                "knight"
+            ]
+        },
+        "effects": {
+            "defense": 6,
+            "resistance": 4,
+            "initiative": -3
+        }
+    },
+    {
+        "id": "default_armor_17",
+        "name": "Protección con hombros reforzados",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Armadura reforzada en hombros para absorber golpes.",
+            "tags": [
+                "armor",
+                "medium",
+                "reinforced"
+            ]
+        },
+        "effects": {
+            "defense": 4,
+            "resistance": 3,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_armor_18",
+        "name": "Protección craneal cerrada",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Casco completo que protege la cabeza y limita percepción.",
+            "tags": [
+                "armor",
+                "helmet",
+                "heavy"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "resistance": 2,
+            "initiative": -1,
+            "knowledge": -1
+        }
+    },
+    {
+        "id": "default_armor_19",
+        "name": "Defensa manual ligera",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Escudo manejable para defensa móvil.",
+            "tags": [
+                "shield",
+                "defensive",
+                "light"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_armor_20",
+        "name": "Defensa manual pesada",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Escudo grande que cubre casi todo el cuerpo.",
+            "tags": [
+                "shield",
+                "heavy",
+                "defensive"
+            ]
+        },
+        "effects": {
+            "defense": 4,
+            "resistance": 2,
+            "initiative": -2
+        }
+    },
+    {
+        "id": "default_armor_21",
+        "name": "Capa protectora",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Capa gruesa que amortigua golpes y clima.",
+            "tags": [
+                "armor",
+                "light",
+                "travel"
+            ]
+        },
+        "effects": {
+            "defense": 1,
+            "resistance": 1,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_armor_22",
+        "name": "Manto resistente",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Ropa resistente para travesías.",
+            "tags": [
+                "armor",
+                "light",
+                "travel",
+                "survival"
+            ]
+        },
+        "effects": {
+            "resistance": 1,
+            "stealth": 1
+        }
+    },
+    {
+        "id": "default_armor_23",
+        "name": "Protección facial",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Máscara contra polvo, humo o sustancias irritantes.",
+            "tags": [
+                "armor",
+                "mask",
+                "utility"
+            ]
+        },
+        "effects": {
+            "resistance": 1,
+            "defense": 1
+        }
+    },
+    {
+        "id": "default_armor_24",
+        "name": "Protección ceremonial",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección vistosa que impone autoridad, aunque no siempre práctica.",
+            "tags": [
+                "armor",
+                "medium",
+                "noble",
+                "ceremonial"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "resistance": 1,
+            "social": 2,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_armor_25",
+        "name": "Equipo de guardia",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Equipo estándar para vigilancia y patrulla.",
+            "tags": [
+                "armor",
+                "medium",
+                "guard",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "resistance": 2
+        }
+    },
+    {
+        "id": "default_armor_26",
+        "name": "Protección de duelo",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección parcial que favorece movilidad y espectáculo.",
+            "tags": [
+                "armor",
+                "medium",
+                "duelist"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "combat": 1,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_armor_27",
+        "name": "Equipo de cazador",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección ligera adaptada a terrenos difíciles.",
+            "tags": [
+                "armor",
+                "light",
+                "hunter",
+                "survival"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "resistance": 1,
+            "stealth": 1,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_armor_28",
+        "name": "Equipo de explorador",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Equipo flexible para movilidad y resistencia.",
+            "tags": [
+                "armor",
+                "light",
+                "scout"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "resistance": 1,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_armor_29",
+        "name": "Equipo de jinete o piloto",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección diseñada para combate montado.",
+            "tags": [
+                "armor",
+                "medium",
+                "cavalry"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "resistance": 2,
+            "combat": 1,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_armor_30",
+        "name": "Protección deteriorada",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección deteriorada, todavía útil pero poco confiable.",
+            "tags": [
+                "armor",
+                "medium",
+                "worn"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "resistance": 1,
+            "initiative": -1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_armor_31",
+        "name": "Protección remendada",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Conjunto de piezas reparadas muchas veces.",
+            "tags": [
+                "armor",
+                "medium",
+                "improvised"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "resistance": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_armor_32",
+        "name": "Protección contra proyectiles ligera",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Defensa ligera contra impactos rápidos o penetrantes.",
+            "tags": [
+                "armor",
+                "light",
+                "modern"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "resistance": 2,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_armor_33",
+        "name": "Protección táctica",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección moderna con bolsillos y placas.",
+            "tags": [
+                "armor",
+                "medium",
+                "modern",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "defense": 4,
+            "resistance": 3
+        }
+    },
+    {
+        "id": "default_armor_34",
+        "name": "Protección de control de masas",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección completa contra golpes y disturbios.",
+            "tags": [
+                "armor",
+                "heavy",
+                "modern",
+                "control"
+            ]
+        },
+        "effects": {
+            "defense": 5,
+            "resistance": 4,
+            "initiative": -2,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_armor_35",
+        "name": "Traje de aislamiento",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Equipo contra contaminación o agentes peligrosos.",
+            "tags": [
+                "armor",
+                "utility",
+                "modern"
+            ]
+        },
+        "effects": {
+            "resistance": 4,
+            "defense": 1,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_armor_36",
+        "name": "Traje ambiental",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Equipo para sobrevivir en ambientes hostiles.",
+            "tags": [
+                "armor",
+                "utility",
+                "survival",
+                "advanced"
+            ]
+        },
+        "effects": {
+            "resistance": 4,
+            "defense": 1,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_armor_37",
+        "name": "Armazón asistido ligero",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Sistema asistido que mejora movilidad y fuerza.",
+            "tags": [
+                "armor",
+                "advanced",
+                "cyberpunk",
+                "light"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "resistance": 2,
+            "combat": 1,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_armor_38",
+        "name": "Armazón asistido pesado",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Armadura motorizada de combate pesado.",
+            "tags": [
+                "armor",
+                "advanced",
+                "cyberpunk",
+                "heavy"
+            ]
+        },
+        "effects": {
+            "defense": 6,
+            "resistance": 5,
+            "combat": 2,
+            "initiative": -2
+        }
+    },
+    {
+        "id": "default_armor_39",
+        "name": "Traje de infiltración",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Equipo oscuro y flexible para sigilo.",
+            "tags": [
+                "armor",
+                "light",
+                "stealth",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "stealth": 4,
+            "initiative": 2
+        }
+    },
+    {
+        "id": "default_armor_40",
+        "name": "Protección balística",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección avanzada contra armas modernas.",
+            "tags": [
+                "armor",
+                "medium",
+                "modern",
+                "soldier"
+            ]
+        },
+        "effects": {
+            "defense": 5,
+            "resistance": 3,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_armor_41",
+        "name": "Placas defensivas intercambiables",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Insertos defensivos contra impactos de alta energía.",
+            "tags": [
+                "armor",
+                "component",
+                "modern"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "resistance": 2,
+            "initiative": -1
+        }
+    },
+    {
+        "id": "default_armor_42",
+        "name": "Refuerzo corporal interno",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Refuerzo subcutáneo o biológico.",
+            "tags": [
+                "armor",
+                "cybernetic",
+                "hidden",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "defense": 3,
+            "resistance": 2,
+            "stealth": 1
+        }
+    },
+    {
+        "id": "default_armor_43",
+        "name": "Cobertura sintética reforzada",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Cobertura artificial que reduce daño superficial.",
+            "tags": [
+                "armor",
+                "cybernetic",
+                "biotech"
+            ]
+        },
+        "effects": {
+            "defense": 2,
+            "resistance": 2,
+            "social": -1
+        }
+    },
+    {
+        "id": "default_armor_44",
+        "name": "Tejido reactivo",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Tejido avanzado que se endurece ante impactos.",
+            "tags": [
+                "armor",
+                "advanced",
+                "cyberpunk"
+            ]
+        },
+        "effects": {
+            "defense": 4,
+            "resistance": 3,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_armor_45",
+        "name": "Campo defensivo portátil",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Dispositivo que proyecta una barrera limitada.",
+            "tags": [
+                "armor",
+                "shield",
+                "advanced",
+                "energy"
+            ]
+        },
+        "effects": {
+            "defense": 4,
+            "resistance": 2,
+            "arcane": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_armor_46",
+        "name": "Barrera energética",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección activa contra ataques directos.",
+            "tags": [
+                "shield",
+                "advanced",
+                "energy"
+            ]
+        },
+        "effects": {
+            "defense": 5,
+            "resistance": 2,
+            "control": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_armor_47",
+        "name": "Protección cristalina",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección rara de material translúcido y resistente.",
+            "tags": [
+                "armor",
+                "medium",
+                "exotic"
+            ]
+        },
+        "effects": {
+            "defense": 4,
+            "resistance": 3,
+            "arcane": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_armor_48",
+        "name": "Protección oscura vitrificada",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Placas oscuras y frágiles, muy resistentes a ciertos daños.",
+            "tags": [
+                "armor",
+                "heavy",
+                "exotic"
+            ]
+        },
+        "effects": {
+            "defense": 5,
+            "resistance": 4,
+            "initiative": -2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_armor_49",
+        "name": "Protección orgánica reactiva",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección orgánica que reacciona al usuario.",
+            "tags": [
+                "armor",
+                "organic",
+                "rare",
+                "dangerous"
+            ]
+        },
+        "effects": {
+            "defense": 5,
+            "resistance": 3,
+            "control": 1,
+            "risk": 2
+        }
+    },
+    {
+        "id": "default_armor_50",
+        "name": "Protección consagrada",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección ritual asociada a juramentos o fe.",
+            "tags": [
+                "armor",
+                "holy",
+                "rare"
+            ]
+        },
+        "effects": {
+            "defense": 4,
+            "resistance": 4,
+            "arcane": 1,
+            "social": 1
+        }
+    },
+    {
+        "id": "default_armor_51",
+        "name": "Protección maldita",
+        "type": "armors",
+        "data": {
+            "Categoría": "Armadura",
+            "Descripción": "Protección poderosa con consecuencias oscuras.",
+            "tags": [
+                "armor",
+                "cursed",
+                "rare"
+            ]
+        },
+        "effects": {
+            "defense": 6,
+            "resistance": 4,
+            "combat": 1,
+            "risk": 3
+        }
+    },
+    {
+        "id": "default_relic_1",
+        "name": "Talismán protector",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Protege contra corrupción espiritual.",
+            "tags": [
+                "relic",
+                "amulet",
+                "spiritual",
+                "defensive"
+            ]
+        },
+        "effects": {
+            "arcane": 1,
+            "defense": 1,
+            "resistance": 2
+        }
+    },
+    {
+        "id": "default_relic_2",
+        "name": "Anillo protector",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Objeto simple asociado a protección contra fuerzas extrañas.",
+            "tags": [
+                "relic",
+                "ring",
+                "defensive"
+            ]
+        },
+        "effects": {
+            "defense": 1,
+            "resistance": 2
+        }
+    },
+    {
+        "id": "default_relic_3",
+        "name": "Recuerdo personal",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Objeto sentimental que refuerza voluntad y reputación.",
+            "tags": [
+                "relic",
+                "social",
+                "personal"
+            ]
+        },
+        "effects": {
+            "social": 1,
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_relic_4",
+        "name": "Símbolo de autoridad",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Prueba de rango, linaje o cargo.",
+            "tags": [
+                "relic",
+                "authority",
+                "social"
+            ]
+        },
+        "effects": {
+            "social": 2,
+            "influence": 2
+        }
+    },
+    {
+        "id": "default_item_1",
+        "name": "Objeto de acceso",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Abre un acceso olvidado o sirve como símbolo de entrada.",
+            "tags": [
+                "item",
+                "key",
+                "access"
+            ]
+        },
+        "effects": {
+            "knowledge": 1,
+            "influence": 1
+        }
+    },
+    {
+        "id": "default_item_2",
+        "name": "Guía incompleta",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Guía parcial hacia una región desconocida.",
+            "tags": [
+                "item",
+                "map",
+                "exploration"
+            ]
+        },
+        "effects": {
+            "knowledge": 2,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_item_3",
+        "name": "Herramienta de orientación",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Herramienta de orientación fiable, aunque antigua.",
+            "tags": [
+                "item",
+                "tool",
+                "travel"
+            ]
+        },
+        "effects": {
+            "knowledge": 1,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_item_4",
+        "name": "Registro personal",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Registro personal con pistas y secretos.",
+            "tags": [
+                "item",
+                "document",
+                "knowledge"
+            ]
+        },
+        "effects": {
+            "knowledge": 3,
+            "social": 1
+        }
+    },
+    {
+        "id": "default_item_5",
+        "name": "Documento sellado",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Documento cerrado con información importante.",
+            "tags": [
+                "item",
+                "document",
+                "sealed"
+            ]
+        },
+        "effects": {
+            "knowledge": 2,
+            "influence": 1
+        }
+    },
+    {
+        "id": "default_item_6",
+        "name": "Manual práctico",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Manual práctico con notas útiles.",
+            "tags": [
+                "item",
+                "book",
+                "knowledge"
+            ]
+        },
+        "effects": {
+            "knowledge": 2,
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_item_7",
+        "name": "Archivo antiguo",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Libro antiguo de información difícil de interpretar.",
+            "tags": [
+                "item",
+                "book",
+                "ancient"
+            ]
+        },
+        "effects": {
+            "knowledge": 3,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_item_8",
+        "name": "Kit de infiltración",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Juego de ganzúas y utensilios de infiltración.",
+            "tags": [
+                "tool",
+                "stealth",
+                "criminal"
+            ]
+        },
+        "effects": {
+            "stealth": 3,
+            "knowledge": 1
+        }
+    },
+    {
+        "id": "default_item_9",
+        "name": "Kit médico",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Vendajes, ungüentos y herramientas médicas simples.",
+            "tags": [
+                "tool",
+                "medical",
+                "support"
+            ]
+        },
+        "effects": {
+            "resistance": 2,
+            "injury_risk": -2
+        }
+    },
+    {
+        "id": "default_item_10",
+        "name": "Kit experimental",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Conjunto de frascos, polvos y reactivos.",
+            "tags": [
+                "tool",
+                "alchemy",
+                "arcane"
+            ]
+        },
+        "effects": {
+            "knowledge": 2,
+            "arcane": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_item_11",
+        "name": "Herramienta de sujeción",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Herramienta básica para escalada, rescate o sujeción.",
+            "tags": [
+                "tool",
+                "travel",
+                "survival"
+            ]
+        },
+        "effects": {
+            "control": 1,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_item_12",
+        "name": "Herramienta de ascenso",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Herramienta para trepar o cruzar obstáculos.",
+            "tags": [
+                "tool",
+                "exploration",
+                "travel"
+            ]
+        },
+        "effects": {
+            "control": 1,
+            "initiative": 1,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_item_13",
+        "name": "Fuente de luz portátil",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Fuente de luz protegida.",
+            "tags": [
+                "tool",
+                "light",
+                "travel"
+            ]
+        },
+        "effects": {
+            "knowledge": 1,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_item_14",
+        "name": "Luces consumibles",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Conjunto de luces portátiles y consumibles.",
+            "tags": [
+                "tool",
+                "light",
+                "survival"
+            ]
+        },
+        "effects": {
+            "knowledge": 1,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_item_15",
+        "name": "Suministros de viaje",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Comida conservada para viajes largos.",
+            "tags": [
+                "food",
+                "survival",
+                "common"
+            ]
+        },
+        "effects": {
+            "resistance": 1,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_item_16",
+        "name": "Reserva de agua",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Recipiente de agua potable.",
+            "tags": [
+                "food",
+                "survival",
+                "travel"
+            ]
+        },
+        "effects": {
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_item_17",
+        "name": "Sustancia tóxica menor",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Sustancia peligrosa usada para sabotaje o combate sucio.",
+            "tags": [
+                "item",
+                "poison",
+                "criminal"
+            ]
+        },
+        "effects": {
+            "damage": 2,
+            "stealth": 1,
+            "risk": 2
+        }
+    },
+    {
+        "id": "default_item_18",
+        "name": "Tratamiento antitóxico",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Tratamiento contra toxinas comunes.",
+            "tags": [
+                "item",
+                "medical",
+                "support"
+            ]
+        },
+        "effects": {
+            "resistance": 2,
+            "injury_risk": -1
+        }
+    },
+    {
+        "id": "default_item_19",
+        "name": "Sustancia distractora",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Sustancia para distraer o escapar.",
+            "tags": [
+                "item",
+                "stealth",
+                "control"
+            ]
+        },
+        "effects": {
+            "control": 2,
+            "stealth": 1,
+            "escape": 2
+        }
+    },
+    {
+        "id": "default_item_20",
+        "name": "Herramienta de mantenimiento de armas",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Herramienta para mantener armas de filo.",
+            "tags": [
+                "tool",
+                "maintenance",
+                "weapon"
+            ]
+        },
+        "effects": {
+            "damage": 1
+        }
+    },
+    {
+        "id": "default_item_21",
+        "name": "Protector de equipo",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Reduce deterioro de metal, cuero o madera.",
+            "tags": [
+                "tool",
+                "maintenance"
+            ]
+        },
+        "effects": {
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_item_22",
+        "name": "Objeto artístico",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Objeto artístico útil para socializar o inspirar.",
+            "tags": [
+                "item",
+                "social",
+                "art"
+            ]
+        },
+        "effects": {
+            "social": 2,
+            "influence": 1
+        }
+    },
+    {
+        "id": "default_relic_5",
+        "name": "Máscara simbólica",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Objeto ceremonial que impone presencia.",
+            "tags": [
+                "relic",
+                "ritual",
+                "social"
+            ]
+        },
+        "effects": {
+            "social": 2,
+            "arcane": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_relic_6",
+        "name": "Objeto espiritual",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Objeto espiritual de protección simbólica.",
+            "tags": [
+                "relic",
+                "spiritual",
+                "defensive"
+            ]
+        },
+        "effects": {
+            "resistance": 1,
+            "arcane": 1
+        }
+    },
+    {
+        "id": "default_relic_7",
+        "name": "Reliquia menor",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Objeto antiguo con importancia cultural o especial menor.",
+            "tags": [
+                "relic",
+                "ancient",
+                "arcane"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "influence": 1
+        }
+    },
+    {
+        "id": "default_item_23",
+        "name": "Material raro",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Material raro con propiedades desconocidas.",
+            "tags": [
+                "item",
+                "component",
+                "arcane"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_item_24",
+        "name": "Fuente de energía compacta",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Fuente de energía compacta e inestable.",
+            "tags": [
+                "item",
+                "energy",
+                "advanced"
+            ]
+        },
+        "effects": {
+            "arcane": 1,
+            "control": 1,
+            "risk": 2
+        }
+    },
+    {
+        "id": "default_item_25",
+        "name": "Reserva energética antigua",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Celda de energía recuperada.",
+            "tags": [
+                "item",
+                "energy",
+                "tech"
+            ]
+        },
+        "effects": {
+            "knowledge": 1,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_item_26",
+        "name": "Dispositivo de comunicación",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Objeto para enviar o recibir mensajes a distancia.",
+            "tags": [
+                "tool",
+                "communication",
+                "modern"
+            ]
+        },
+        "effects": {
+            "knowledge": 1,
+            "influence": 1
+        }
+    },
+    {
+        "id": "default_item_27",
+        "name": "Comunicador resistente",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Equipo de comunicación robusto para entornos difíciles.",
+            "tags": [
+                "tool",
+                "communication",
+                "survival"
+            ]
+        },
+        "effects": {
+            "knowledge": 1,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_item_28",
+        "name": "Dispositivo de datos",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Dispositivo con archivos, acceso o registros.",
+            "tags": [
+                "tool",
+                "tech",
+                "knowledge"
+            ]
+        },
+        "effects": {
+            "knowledge": 3,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_item_29",
+        "name": "Credencial de acceso",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Credencial física o digital para zonas restringidas.",
+            "tags": [
+                "item",
+                "access",
+                "tech"
+            ]
+        },
+        "effects": {
+            "knowledge": 1,
+            "influence": 1
+        }
+    },
+    {
+        "id": "default_item_30",
+        "name": "Dato cifrado",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Dispositivo de datos protegido.",
+            "tags": [
+                "item",
+                "tech",
+                "knowledge"
+            ]
+        },
+        "effects": {
+            "knowledge": 3,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_item_31",
+        "name": "Asistente lógico menor",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Sistema lógico con funciones limitadas.",
+            "tags": [
+                "item",
+                "tech",
+                "ai",
+                "advanced"
+            ]
+        },
+        "effects": {
+            "knowledge": 3,
+            "control": 2,
+            "risk": 2
+        }
+    },
+    {
+        "id": "default_item_32",
+        "name": "Unidad exploradora",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Unidad pequeña para reconocimiento.",
+            "tags": [
+                "tool",
+                "drone",
+                "exploration"
+            ]
+        },
+        "effects": {
+            "knowledge": 2,
+            "stealth": 1,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_item_33",
+        "name": "Sensor portátil",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Dispositivo para detectar movimiento, energía o sustancias.",
+            "tags": [
+                "tool",
+                "tech",
+                "detection"
+            ]
+        },
+        "effects": {
+            "knowledge": 2,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_item_34",
+        "name": "Kit de reparación",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Herramientas para mantenimiento mecánico o tecnológico.",
+            "tags": [
+                "tool",
+                "repair",
+                "tech"
+            ]
+        },
+        "effects": {
+            "knowledge": 1,
+            "resistance": 1,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_item_35",
+        "name": "Filtro respiratorio",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Protección contra gases o polvo.",
+            "tags": [
+                "tool",
+                "survival",
+                "medical"
+            ]
+        },
+        "effects": {
+            "resistance": 2
+        }
+    },
+    {
+        "id": "default_item_36",
+        "name": "Tratamiento de emergencia",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Tratamiento rápido para emergencias.",
+            "tags": [
+                "tool",
+                "medical",
+                "advanced"
+            ]
+        },
+        "effects": {
+            "resistance": 2,
+            "injury_risk": -2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_item_37",
+        "name": "Potenciador de combate",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Sustancia que aumenta rendimiento temporalmente.",
+            "tags": [
+                "item",
+                "drug",
+                "combat",
+                "dangerous"
+            ]
+        },
+        "effects": {
+            "combat": 2,
+            "initiative": 2,
+            "risk": 3
+        }
+    },
+    {
+        "id": "default_item_38",
+        "name": "Supresor de dolor",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Reduce penalizaciones por heridas durante poco tiempo.",
+            "tags": [
+                "item",
+                "medical",
+                "dangerous"
+            ]
+        },
+        "effects": {
+            "resistance": 2,
+            "injury_risk": -1,
+            "risk": 2
+        }
+    },
+    {
+        "id": "default_item_39",
+        "name": "Mejora corporal menor",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Mejora corporal menor.",
+            "tags": [
+                "item",
+                "cybernetic",
+                "advanced"
+            ]
+        },
+        "effects": {
+            "combat": 1,
+            "knowledge": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_item_40",
+        "name": "Interfaz de conexión",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Conexión directa a sistemas o datos.",
+            "tags": [
+                "item",
+                "cybernetic",
+                "tech"
+            ]
+        },
+        "effects": {
+            "knowledge": 3,
+            "control": 1,
+            "risk": 2
+        }
+    },
+    {
+        "id": "default_item_41",
+        "name": "Capa de ocultamiento",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Prenda diseñada para ocultamiento.",
+            "tags": [
+                "item",
+                "stealth",
+                "cloak"
+            ]
+        },
+        "effects": {
+            "stealth": 3,
+            "defense": 1
+        }
+    },
+    {
+        "id": "default_item_42",
+        "name": "Calzado reforzado",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Calzado resistente para viaje y combate.",
+            "tags": [
+                "item",
+                "travel",
+                "armor"
+            ]
+        },
+        "effects": {
+            "resistance": 1,
+            "initiative": 1
+        }
+    },
+    {
+        "id": "default_item_43",
+        "name": "Guantes de agarre",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Equipo que mejora agarre.",
+            "tags": [
+                "tool",
+                "travel",
+                "exploration"
+            ]
+        },
+        "effects": {
+            "control": 1,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_item_44",
+        "name": "Visor de baja luz",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Permiten ver en condiciones oscuras.",
+            "tags": [
+                "tool",
+                "tech",
+                "detection"
+            ]
+        },
+        "effects": {
+            "knowledge": 1,
+            "stealth": 1
+        }
+    },
+    {
+        "id": "default_item_45",
+        "name": "Protección ocular",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Protección ocular contra brillo, polvo o sustancias.",
+            "tags": [
+                "tool",
+                "protection"
+            ]
+        },
+        "effects": {
+            "resistance": 1,
+            "risk": -1
+        }
+    },
+    {
+        "id": "default_item_46",
+        "name": "Organizador de herramientas",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Organizador práctico para trabajo técnico.",
+            "tags": [
+                "tool",
+                "utility"
+            ]
+        },
+        "effects": {
+            "knowledge": 1,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_relic_8",
+        "name": "Contenedor anómalo menor",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Contenedor anómalo de capacidad superior a su tamaño.",
+            "tags": [
+                "relic",
+                "storage",
+                "arcane"
+            ]
+        },
+        "effects": {
+            "control": 1,
+            "arcane": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_item_47",
+        "name": "Objeto de valor antiguo",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Objeto de valor histórico o ritual.",
+            "tags": [
+                "item",
+                "currency",
+                "ancient"
+            ]
+        },
+        "effects": {
+            "social": 1,
+            "influence": 1
+        }
+    },
+    {
+        "id": "default_item_48",
+        "name": "Recurso valioso sin procesar",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Piedra valiosa como recurso o componente.",
+            "tags": [
+                "item",
+                "valuable",
+                "component"
+            ]
+        },
+        "effects": {
+            "influence": 1,
+            "arcane": 1
+        }
+    },
+    {
+        "id": "default_item_49",
+        "name": "Material de forja",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Material útil para forja o comercio.",
+            "tags": [
+                "item",
+                "material",
+                "crafting"
+            ]
+        },
+        "effects": {
+            "influence": 1,
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_item_50",
+        "name": "Placa de material resistente",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Material antiguo para reparación o fabricación.",
+            "tags": [
+                "item",
+                "material",
+                "crafting"
+            ]
+        },
+        "effects": {
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_item_51",
+        "name": "Material fino",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Material de calidad usado en vestimenta o comercio.",
+            "tags": [
+                "item",
+                "material",
+                "valuable"
+            ]
+        },
+        "effects": {
+            "social": 1,
+            "influence": 1
+        }
+    },
+    {
+        "id": "default_item_52",
+        "name": "Recursos medicinales naturales",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Plantas útiles para curaciones simples.",
+            "tags": [
+                "item",
+                "medical",
+                "natural"
+            ]
+        },
+        "effects": {
+            "resistance": 1,
+            "injury_risk": -1
+        }
+    },
+    {
+        "id": "default_item_53",
+        "name": "Reactivo extraño",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Sustancia útil para experimentos.",
+            "tags": [
+                "item",
+                "alchemy",
+                "component",
+                "dangerous"
+            ]
+        },
+        "effects": {
+            "arcane": 1,
+            "knowledge": 1,
+            "risk": 2
+        }
+    },
+    {
+        "id": "default_relic_9",
+        "name": "Objeto votivo",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Objeto pequeño de devoción o memoria.",
+            "tags": [
+                "relic",
+                "spiritual",
+                "social"
+            ]
+        },
+        "effects": {
+            "social": 1,
+            "arcane": 1
+        }
+    },
+    {
+        "id": "default_relic_10",
+        "name": "Objeto de acceso inquietante",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Llave inquietante asociada a puertas antiguas.",
+            "tags": [
+                "relic",
+                "key",
+                "dark"
+            ]
+        },
+        "effects": {
+            "arcane": 1,
+            "knowledge": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_item_54",
+        "name": "Herramienta reflectante",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Herramienta común para señales, inspección o engaño.",
+            "tags": [
+                "tool",
+                "utility",
+                "social"
+            ]
+        },
+        "effects": {
+            "knowledge": 1,
+            "stealth": 1
+        }
+    },
+    {
+        "id": "default_item_55",
+        "name": "Material para mensajes ocultos",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Material para mensajes ocultos.",
+            "tags": [
+                "tool",
+                "stealth",
+                "document"
+            ]
+        },
+        "effects": {
+            "stealth": 2,
+            "knowledge": 1
+        }
+    },
+    {
+        "id": "default_item_56",
+        "name": "Herramienta de autenticación",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Utensilio para autenticar cartas o documentos.",
+            "tags": [
+                "tool",
+                "social",
+                "document"
+            ]
+        },
+        "effects": {
+            "social": 1,
+            "influence": 1
+        }
+    },
+    {
+        "id": "default_item_57",
+        "name": "Acuerdo registrado",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Documento legal, político o criminal.",
+            "tags": [
+                "item",
+                "document",
+                "social"
+            ]
+        },
+        "effects": {
+            "influence": 2,
+            "social": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_item_58",
+        "name": "Prueba comprometedora",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Objeto o archivo capaz de comprometer a alguien.",
+            "tags": [
+                "item",
+                "evidence",
+                "social"
+            ]
+        },
+        "effects": {
+            "influence": 3,
+            "risk": 2
+        }
+    },
+    {
+        "id": "default_item_59",
+        "name": "Trofeo de victoria",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Objeto tomado tras una victoria.",
+            "tags": [
+                "item",
+                "trophy",
+                "social"
+            ]
+        },
+        "effects": {
+            "social": 1,
+            "influence": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_relic_11",
+        "name": "Reliquia heredada",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Objeto heredado con valor emocional o político.",
+            "tags": [
+                "relic",
+                "family",
+                "social"
+            ]
+        },
+        "effects": {
+            "social": 2,
+            "resistance": 1
+        }
+    },
+    {
+        "id": "default_relic_12",
+        "name": "Foco de canalización",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Objeto usado para canalizar poder sobrenatural.",
+            "tags": [
+                "relic",
+                "arcane",
+                "focus"
+            ]
+        },
+        "effects": {
+            "arcane": 3,
+            "control": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_relic_13",
+        "name": "Foco rudimentario",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Foco especial básico.",
+            "tags": [
+                "relic",
+                "arcane",
+                "focus"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_relic_14",
+        "name": "Foco dañado",
+        "type": "relics",
+        "data": {
+            "Categoría": "Reliquia",
+            "Descripción": "Foco arcano dañado pero funcional.",
+            "tags": [
+                "relic",
+                "arcane",
+                "focus",
+                "worn"
+            ]
+        },
+        "effects": {
+            "arcane": 3,
+            "control": 1,
+            "risk": 2
+        }
+    },
+    {
+        "id": "default_magic_1",
+        "name": "Compendio de técnicas menores",
+        "type": "magic_systems",
+        "data": {
+            "Categoría": "Conocimiento mágico",
+            "Descripción": "Compendio básico de fórmulas especiales.",
+            "tags": [
+                "magic_system",
+                "book",
+                "arcane",
+                "knowledge"
+            ]
+        },
+        "effects": {
+            "arcane": 3,
+            "knowledge": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_magic_2",
+        "name": "Rudimentos de energía ofensiva",
+        "type": "magic_systems",
+        "data": {
+            "Categoría": "Conocimiento mágico",
+            "Descripción": "Control básico del fuego.",
+            "tags": [
+                "magic_system",
+                "fire",
+                "arcane"
+            ]
+        },
+        "effects": {
+            "arcane": 3,
+            "control": 1,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_magic_3",
+        "name": "Rudimentos de restauración",
+        "type": "magic_systems",
+        "data": {
+            "Categoría": "Conocimiento mágico",
+            "Descripción": "Prácticas iniciales de curación sobrenatural.",
+            "tags": [
+                "magic_system",
+                "healing",
+                "arcane",
+                "support"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "resistance": 2,
+            "injury_risk": -1
+        }
+    },
+    {
+        "id": "default_magic_4",
+        "name": "Rudimentos de ocultamiento",
+        "type": "magic_systems",
+        "data": {
+            "Categoría": "Conocimiento mágico",
+            "Descripción": "Técnicas básicas de ocultamiento y engaño.",
+            "tags": [
+                "magic_system",
+                "shadow",
+                "arcane",
+                "stealth"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "stealth": 2,
+            "risk": 1
+        }
+    },
+    {
+        "id": "default_magic_5",
+        "name": "Rudimentos de protección",
+        "type": "magic_systems",
+        "data": {
+            "Categoría": "Conocimiento mágico",
+            "Descripción": "Conocimientos para crear barreras menores.",
+            "tags": [
+                "magic_system",
+                "protection",
+                "arcane"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "defense": 2,
+            "control": 1
+        }
+    },
+    {
+        "id": "default_item_60",
+        "name": "Manual táctico",
+        "type": "items",
+        "data": {
+            "Categoría": "Item",
+            "Descripción": "Texto sobre organización, combate y disciplina.",
+            "tags": [
+                "book",
+                "knowledge",
+                "combat"
+            ]
+        },
+        "effects": {
+            "knowledge": 2,
+            "combat": 1,
+            "control": 1
+        }
+    }
+]

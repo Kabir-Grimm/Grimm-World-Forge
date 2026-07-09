@@ -1,0 +1,10 @@
+Armadura|10
+Coraza|9
+Manto|8
+Placas|8
+Máscara|7
+Escudo|7
+Traje|6
+Capa|6
+Protección|5
+Exotraje|4

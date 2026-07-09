@@ -1,0 +1,9 @@
+Operador|10
+Runner|10
+Broker|8
+Agente|8
+Técnico|7
+Ghost|6
+Fixer|6
+Doctor|5
+Piloto|5

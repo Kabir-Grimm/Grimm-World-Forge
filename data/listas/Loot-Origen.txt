@@ -1,0 +1,50 @@
+Creación artesanal|10
+Producción común|10
+Producción especializada|8
+Producción avanzada|6
+Creado por una persona desconocida|8
+Creado por alguien famoso|5
+Creado por una organización|6
+Creado por una civilización desaparecida|3
+Creado por accidente|4
+Creado como experimento|4
+Creado como prototipo|3
+Creado como copia de algo más antiguo|4
+Encontrado en un lugar abandonado|8
+Encontrado tras un conflicto|7
+Encontrado en una zona peligrosa|6
+Encontrado en territorio desconocido|5
+Encontrado dentro de otro objeto|4
+Recuperado después de mucho tiempo|5
+Rescatado antes de ser destruido|4
+Robado a su dueño original|5
+Perdido por su dueño anterior|7
+Abandonado voluntariamente|6
+Ocultado deliberadamente|5
+Protegido durante generaciones|4
+Transmitido entre propietarios|5
+Parte de una colección mayor|5
+Parte de un conjunto incompleto|5
+Parte de algo destruido|4
+Restos de un evento importante|5
+Resultado de un gran descubrimiento|4
+Resultado de un error inesperado|4
+Resultado de una transformación|4
+Resultado de una combinación inusual|3
+Fabricado con materiales raros|5
+Fabricado con técnicas olvidadas|4
+Fabricado bajo circunstancias especiales|4
+Fabricado para una misión concreta|5
+Fabricado como símbolo de poder|3
+Regalo de una persona importante|4
+Recompensa por una hazaña|5
+Botín de una victoria|6
+Pago de una deuda antigua|3
+Intercambio entre grupos|5
+Mercancía perdida|5
+Objeto confiscado|4
+Objeto prohibido recuperado|3
+Objeto de origen falsificado|3
+Objeto sin registros conocidos|4
+Origen imposible de confirmar|3
+Origen completamente desconocido|2

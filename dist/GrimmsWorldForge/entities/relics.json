@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Chitall",
+        "type": "relics",
+        "data": {
+            "Cualidad única": "Puede corromper a su usuario",
+            "Forma": "Un tatuaje que aparece en ciertas personas",
+            "Origen o Creador": "Un dios traicionado",
+            "Propósito": "Canalización de poder divino",
+            "Rareza": "Poco común"
+        },
+        "rarity": "Poco común",
+        "effects": {
+            "arcane": 1,
+            "influence": 2,
+            "initiative": 2
+        },
+        "created_at": "2026-05-28T11:39:35.866276",
+        "id": "relics_1"
+    }
+]

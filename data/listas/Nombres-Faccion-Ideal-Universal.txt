@@ -1,0 +1,9 @@
+Dorado|10
+Negro|8
+Silencioso|8
+Roto|7
+Eterno|7
+Perdido|6
+Carmesí|6
+Sagrado|5
+Oculto|5

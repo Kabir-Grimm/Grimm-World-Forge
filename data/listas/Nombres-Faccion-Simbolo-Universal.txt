@@ -1,0 +1,10 @@
+Cuervo|10
+Sol|8
+Luna|8
+Espina|7
+Corona|7
+Serpiente|6
+Llama|6
+Ojo|5
+Máscara|5
+Llave|4

@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Gremio Fenix Force",
+        "type": "factions",
+        "data": {
+            "Actividad Actual": "Ejecutando un ritual",
+            "Lider": "Explorador veterano",
+            "Metodos": "Fanatismo",
+            "Objetivo": "Construir una ciudad ideal",
+            "Problemas internos": "Crisis de fe",
+            "Recurso Particular": "Artefactos prohibidos",
+            "Relacion General": "Creídos extintos",
+            "Secreto interno": "Una IA dirige la facción",
+            "Tipo": "Devotos de dragones"
+        },
+        "created_at": "2026-05-28T11:24:39.331778",
+        "id": "factions_1"
+    }
+]

@@ -1,0 +1,50 @@
+Tiene gran valor económico|10
+Tiene valor sentimental|8
+Tiene valor histórico|6
+Tiene valor cultural|6
+Tiene valor estratégico|5
+Tiene valor simbólico|5
+Tiene utilidad práctica inmediata|10
+Facilita una tarea específica|8
+Permite realizar algo imposible normalmente|3
+Mejora las capacidades del usuario|5
+Protege contra cierto peligro|5
+Ayuda a sobrevivir|6
+Permite acceder a un lugar|5
+Permite acceder a información|5
+Sirve como identificación|5
+Sirve como símbolo de autoridad|4
+Sirve como prueba de un hecho|5
+Puede resolver un problema actual|6
+Puede cambiar una situación futura|4
+Puede alterar relaciones entre grupos|3
+Puede iniciar un conflicto|3
+Puede terminar un conflicto|3
+Contiene información oculta|5
+Contiene conocimiento perdido|4
+Contiene instrucciones importantes|5
+Contiene recuerdos o registros|4
+Oculta su verdadera función|4
+Tiene una función secundaria desconocida|4
+Tiene múltiples usos posibles|6
+Su utilidad depende del usuario|5
+Su valor depende del contexto|5
+Solo funciona bajo ciertas condiciones|3
+Reacciona ante ciertos individuos|3
+Reacciona ante ciertos lugares|3
+Cambia con el paso del tiempo|2
+Puede mejorar con modificaciones|5
+Puede combinarse con otros objetos|5
+Forma parte de algo mayor|5
+Es necesario para completar algo|4
+Tiene información incompleta|4
+Puede revelar un secreto|4
+Puede demostrar una mentira|3
+Puede atraer aliados|3
+Puede atraer enemigos|3
+Genera curiosidad inmediata|5
+Es difícil de reemplazar|5
+Es extremadamente confiable|4
+Es impredecible|2
+Tiene propiedades inexplicables|2
+Su potencial completo es desconocido|2

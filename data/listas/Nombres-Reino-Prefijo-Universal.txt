@@ -1,0 +1,50 @@
+Reino|10
+Imperio|10
+Dominio|9
+Confederación|8
+Alianza|8
+Federación|8
+República|8
+Principado|7
+Ducado|7
+Provincia|7
+Territorio|7
+Nación|7
+Dinastía|6
+Casa|6
+Trono|6
+Corona|6
+Orden|5
+Liga|5
+Coalición|5
+Pacto|5
+Unión|5
+Colectivo|4
+Concilio|4
+Círculo|4
+Clan|4
+Tribu|4
+Colonia|4
+Sector|4
+Ciudad Estado|4
+Mandato|3
+Sultanato|3
+Califato|3
+Comunidad|3
+Protectorado|3
+Soberanía|3
+Supremacía|2
+Legión|2
+Jerarquía|2
+Conglomerado|2
+Red|2
+Colmena|2
+Dinastía eterna|2
+Dominio antiguo|2
+Imperio perdido|2
+Tierras libres|2
+Tierras unidas|2
+Reinos gemelos|1
+Siete provincias|1
+Último reino|1
+Primer imperio|1

@@ -1,0 +1,304 @@
+[Fuerza]
+Débil (No puede cargar su propio peso)|0|.4
+Baja (Fuerza de un niño o anciano)|1|.8
+Promedio (Fuerza humana normal)|2|1
+Destacado (Más fuerte que el promedio)|3|.8
+Excepcional (Capaz de romper madera con golpes)|4|.08
+Sobrehumano (Levanta enormes pesos sin esfuerzo)|5|.05
+Titánico (Fuerza monstruosa capaz de hazañas increíbles)|6|.01
+[Velocidad]
+Lento (Torpe, siempre el último en moverse)|0|.4
+Bajo promedio (Corre menos que el promedio)|1|.8
+Normal (Corre a velocidad humana estándar)|2|1
+Ágil (Corre más rápido que la mayoría)|3|.8
+Rápido (Velocidad sorprendente en combate y huida)|4|.08
+Relámpago (Es difícil seguirlo con la vista)|5|.05
+Supersónico (Movimiento tan veloz que parece desaparecer)|6|.01
+[Audacia]
+Cobarde (Evita todo peligro)|0|.4
+Tímido (Solo actúa con garantías de éxito)|1|.8
+Precavido (Evalúa bien los riesgos antes de actuar)|2|1
+Decidido (No se deja intimidar fácilmente)|3|.8
+Intrépido (Se lanza al peligro sin dudar)|4|.08
+Temerario (No teme la muerte ni el dolor)|5|.05
+Suicida (Desafía la muerte como si fuera inmortal)|6|.01
+[Resistencia]
+Frágil (Cae con el más leve golpe)|0|.4
+Débil (Se fatiga fácilmente)|1|.8
+Normal (Puede resistir un combate estándar)|2|1
+Duro (Aguanta más que el promedio)|3|.8
+Resistente (Tolera el dolor y sigue de pie)|4|.08
+Inquebrantable (Soporta castigos brutales sin caer)|5|.05
+Indestructible (Parece incapaz de morir o rendirse)|6|.01
+[Inteligencia]
+Idiota (Incapaz de comprender lo básico)|0|.4
+Limitado (Aprende con mucha dificultad)|1|.8
+Normal (Intelecto promedio)|2|1
+Ingenioso (Aprende rápido y resuelve problemas)|3|.8
+Brillante (Destaca en estrategia y lógica)|4|.08
+Genio (Capaz de grandes invenciones y tácticas)|5|.05
+Omnisciente (Sabe cosas que no debería saber)|6|.01
+[Sigilo]
+Ruidoso (Imposible que no lo detecten)|0|.4
+Torpe (Hace ruido al moverse)|1|.8
+Común (Pasa desapercibido en la multitud)|2|1
+Sigiloso (Puede moverse en la sombra sin ser visto)|3|.8
+Experto en infiltración (Evita ser detectado incluso en zonas vigiladas)|4|.08
+Maestro del sigilo (Solo una habilidad extrema puede notarlo)|5|.05
+Fantasma (Nadie sabe que estuvo ahí hasta que es demasiado tarde)|6|.01
+[Carisma]
+Repulsivo (La gente lo evita)|0|.4
+Antipático (Dificultad para hacer amigos)|1|.8
+Normal (No destaca pero tampoco repele)|2|1
+Agradable (Las personas lo encuentran simpático)|3|.8
+Encantador (Fácilmente persuade a otros)|4|.08
+Magnético (Las multitudes lo siguen sin dudar)|5|.05
+Legendario (Las palabras de este ser cambian el destino de civilizaciones)|6|.01
+[Percepción]
+Ciego al peligro (Nunca se da cuenta de lo obvio)|0|.4
+Distraído (Pierde detalles importantes)|1|.8
+Normal (Nota cosas en la media)|2|1
+Atento (Detecta mentiras y amenazas sutiles)|3|.8
+Observador (Nota hasta los más mínimos cambios)|4|.08
+Analítico (Sabe exactamente qué está pasando)|5|.05
+Clarividencia (Sabe lo que ocurrirá antes de que pase)|6|.01
+[Rasgo Dominante]
+Ambicioso
+Impulsivo
+Metódico
+Carismático
+Frío y calculador
+Apasionado
+Reservado
+Ingenuo
+Temerario
+Voluble
+[Valores y Creencias]
+Honor
+Justicia
+Poder
+Libertad
+Conocimiento
+Familia
+Riqueza
+Fe religiosa
+Venganza
+Supervivencia
+[Virtud]
+Lealtad
+Generosidad
+Sabiduría
+Coraje
+Paciencia
+Honestidad
+Responsabilidad
+Altruismo
+Disciplina
+Empatía
+[Defecto]
+Arrogancia
+Codicia
+Crueldad
+Egoísmo
+Desconfianza
+Obsesión
+Impulsividad
+Terquedad
+Desidia
+Cinismo
+[Actitud Ante el Peligro]
+Lanza la primera piedra
+Evalúa con cautela antes de actuar
+Evita el conflicto siempre que pueda
+Se deja llevar por la adrenalina
+Calcula riesgos antes de moverse
+Finge valentía para ocultar miedo
+Busca aliados antes de actuar
+No actúa sin una ventaja clara
+Se sacrifica sin dudar
+Se esconde o huye
+[Relación con Otros]
+Manipulador
+Protector
+Distante
+Sarcástico
+Encantador
+Autoritario
+Solidario
+Competitivo
+Desconfiado
+Sumiso
+[Motivación Oculta]
+Redención
+Deseo de reconocimiento
+Un amor no correspondido
+Trauma de la infancia
+Odio reprimido
+Culpa
+El deseo de probarse a sí mismo
+Un miedo que no puede superar
+Un sueño imposible
+Un secreto que nadie puede saber
+[Regalos divinos]
+Arma Sagrada: Un arma imbuida con poder divino.
+Inmortalidad: No puede morir por causas naturales.
+Visión Profética: Recibe sueños o visiones del futuro.
+Fuerza Sobrehumana: Puede levantar y destruir con facilidad.
+Velocidad Divina: Se mueve más rápido que cualquier mortal.
+Regeneración: Cura sus heridas a un ritmo acelerado.
+Invulnerabilidad Parcial: Resistente a ciertos ataques o daños.
+Bendición de la Fortuna: Suerte extrema en momentos cruciales.
+Dominio Elemental: Control sobre fuego, agua, aire o tierra.
+Voz Persuasiva: Palabras que hipnotizan o convencen.
+Compañero Animal Sagrado: Un animal divino lo acompaña.
+Armadura Indestructible: Protección que resiste todo daño.
+Dominar Criaturas Míticas: Puede comunicarse con dragones, grifos, etc.
+Resistencia Extrema: No sufre cansancio ni agotamiento.
+Conocimiento Absoluto: Entiende idiomas, tácticas y secretos ocultos.
+Arma Cambiante: Su arma se adapta a la situación.
+Manipulación de Sombras: Controla las sombras para atacar o ocultarse.
+Alas Divinas: Puede volar sin necesidad de magia.
+Invocación de Espíritus: Llama a los muertos para recibir consejo o ayuda.
+Sangre Divina: Tiene una resistencia y poder superiores a los mortales.
+Bendición de la Belleza: Su apariencia es cautivadora.
+Oído del Dios: Puede escuchar plegarias y susurros lejanos.
+Poder sobre la Muerte: Puede revivir a los caídos con límites.
+Cambio de Forma: Puede transformarse en animales o personas.
+Armonía con la Naturaleza: Puede calmar bestias y hacer florecer la vida.
+Caminante del Tiempo: Puede ver fragmentos del pasado o futuro.
+Toque Curativo: Cura enfermedades y heridas con solo tocar.
+Riqueza Ilimitada: Nunca le faltará oro o bienes materiales.
+Ocultación Divina: No puede ser detectado por magia o enemigos.
+Caminante de los Sueños: Entra en los sueños de otros.
+Criatura Guardiana: Un ser inmortal lo protege.
+Espada Fantasmal: Puede convocar un arma etérea a voluntad.
+Cuerpo Inmune: No sufre enfermedades ni envenenamientos.
+Paso Sin Huella: Se mueve sin ser detectado.
+Dominio del Caos: Controla el azar y la entropía.
+Hambre de Batalla: Se vuelve más fuerte en combate.
+Ecos del Pasado: Puede comunicarse con memorias antiguas.
+Espíritu Indomable: No puede ser controlado mentalmente.
+Instrumento Celestial: Puede tocar música que calma o domina.
+Puerta entre Mundos: Puede viajar entre dimensiones.
+Bendición del Mar: Nunca se ahoga y controla las corrientes.
+Aura de Temor: Sus enemigos tiemblan al verlo.
+Iluminación Instantánea: Obtiene conocimiento divino sobre cualquier tema.
+Maestro de las Armas: Puede manejar cualquier arma con destreza.
+Poder sobre las Estrellas: Puede invocar meteoritos o luz celestial.
+Bendición del Acero: Sus armas nunca se desgastan.
+Memoria Infinita: No olvida nada.
+Venganza Asegurada: Si es traicionado, su enemigo sufrirá.
+Despertar del Alma: Puede ver el verdadero ser de otros.
+Control del Silencio: Puede apagar cualquier sonido.
+Criatura de Sombras: Una bestia de oscuridad lo sigue y protege.
+Canto de los Dioses: Su voz puede encantar y controlar multitudes.
+Bendición de la Caza: No falla un disparo ni un rastro.
+Rayo Divino: Puede invocar rayos del cielo.
+Dominio sobre los No-Muertos: Puede comandar espectros y zombis.
+Invulnerabilidad Temporal: Durante un tiempo, nada puede dañarlo.
+Ecos de la Guerra: Puede invocar guerreros caídos.
+Sombra Andante: Puede volverse intangible en la oscuridad.
+Sello Arcano: Puede crear barreras mágicas infranqueables.
+Domador de los Vientos: Controla el aire y puede levitar.
+Crea un Don Único: Personaliza un regalo según la historia del héroe.
+[Características especiales]
+Fuerza descomunal
+Velocidad extrema
+Agilidad felina
+Resistencia inhumana
+Reflejos sobrehumanos
+Flexibilidad imposible
+Aguante sobrehumano
+Sentidos mejorados
+Capacidad de regeneración
+Inmunidad a enfermedades
+Resistencia al dolor
+Capacidad pulmonar superior
+Gran tolerancia a venenos
+Equilibrio perfecto
+Potencia explosiva
+Destreza impecable
+Visión nocturna
+Audición aguda
+Piel endurecida
+Capacidad de soportar frío o calor extremos
+Maestría en combate cuerpo a cuerpo
+Pericia con armas de filo
+Letalidad con proyectiles
+Especialista en lucha libre
+Dominio de armas improvisadas
+Capacidad de leer movimientos enemigos
+Resistencia a la fatiga en batalla
+Velocidad de reacción letal
+Conocimiento de puntos débiles
+Maestría en combate con dos armas
+Técnicas avanzadas de evasión
+Capacidad de desarmar enemigos
+Estilo de combate impredecible
+Adaptabilidad táctica en combate
+Capacidad de seguir luchando gravemente herido
+Percepción de peligro innata
+Conocimiento marcial ancestral
+Especialista en emboscadas
+Capacidad de luchar sin ver
+Reflejos hiperactivos en combate
+Inteligencia superior
+Capacidad de análisis instantáneo
+Memoria fotográfica
+Voluntad inquebrantable
+Razonamiento lógico perfecto
+Capacidad para resolver acertijos
+Estratega consumado
+Habilidad para aprender rápido
+Empatía sobrenatural
+Control absoluto de las emociones
+Percepción de intenciones ocultas
+Habilidad para influenciar a otros
+Capacidad para resistir control mental
+Astucia digna de leyendas
+Capacidad de improvisación en crisis
+Atención a los detalles minuciosa
+Capacidad de predicción de eventos
+Maestría en manipulación
+Entendimiento rápido de idiomas
+Instintos de supervivencia agudos
+Carisma irresistible
+Presencia intimidante
+Capacidad de liderazgo natural
+Habilidad para inspirar aliados
+Persuasión sobrehumana
+Control absoluto del lenguaje corporal
+Maestría en actuación y engaño
+Discursos que encienden multitudes
+Habilidad para disfrazarse perfectamente
+Dotes diplomáticas avanzadas
+Capacidad para calmar conflictos
+Capacidad para detectar mentiras
+Resistencia psicológica a la presión
+Habilidad de infiltración impecable
+Inteligencia emocional sobresaliente
+Capacidad para hacerse pasar por otro
+Aura de autoridad natural
+Conocimientos en psicología humana
+Capacidad de manipular con palabras
+Fama y reputación legendaria
+Conexión con fuerzas espirituales
+Comunicación con animales
+Control intuitivo del entorno
+Visión de lo oculto
+Sensibilidad a eventos sobrenaturales
+Capacidad de interpretar augurios
+Afinidad con lo desconocido
+Inmunidad a ilusiones
+Comunicación con los muertos
+Conocimiento innato de lo prohibido
+Sentir la presencia de entidades invisibles
+Recibir revelaciones en sueños
+Premoniciones del peligro
+Fuerza de voluntad contra lo imposible
+Capacidad de manifestar energía vital
+Acceso a recuerdos ancestrales
+Capacidad de influenciar a los no-muertos
+Sentir los hilos del destino
+Control sobre su propio flujo de energía
+Conocimiento de rituales olvidados

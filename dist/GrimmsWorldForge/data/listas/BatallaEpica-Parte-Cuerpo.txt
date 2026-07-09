@@ -1,0 +1,30 @@
+brazo derecho
+brazo izquierdo
+pierna derecha
+pierna izquierda
+mano dominante
+mano secundaria
+hombro derecho
+hombro izquierdo
+costillas
+espalda
+cuello
+rostro
+torso
+rodilla derecha
+rodilla izquierda
+cadera
+pecho
+abdomen
+mandíbula
+muslo derecho
+muslo izquierdo
+antebrazo derecho
+antebrazo izquierdo
+clavícula
+columna
+cintura
+tobillo derecho
+tobillo izquierdo
+espinilla
+sien

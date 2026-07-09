@@ -1,0 +1,50 @@
+Perdido|10
+Olvidado|10
+Antiguo|10
+Sagrado|9
+Prohibido|9
+Oculto|9
+Dorado|8
+Plateado|8
+Negro|8
+Blanco|8
+Rojo|8
+Azul|7
+Roto|7
+Caído|7
+Eterno|7
+Silencioso|7
+Dormido|6
+Despierto|6
+Maldito|6
+Bendecido|6
+Sellado|6
+Hundido|6
+Elevado|6
+Errante|5
+Abandonado|5
+Marchito|5
+Viviente|5
+Cambiante|5
+Inmortal|5
+Invisible|4
+Infinito|4
+Fragmentado|4
+Olvidado por los dioses|4
+Más allá del tiempo|3
+Del primer mundo|3
+Del último día|3
+De los antiguos|3
+De las estrellas|3
+Del vacío|3
+Del amanecer|3
+Del crepúsculo|3
+De cristal|2
+De hierro|2
+De ceniza|2
+De sangre|2
+De sombras|2
+De luz eterna|2
+Sin nombre|1
+Sin dueño|1
+Sin retorno|1

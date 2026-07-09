@@ -1,0 +1,9 @@
+Muerto|10
+Rojo|8
+Sintético|8
+Cerrado|7
+Hackeado|7
+Abandonado|6
+Corporativo|6
+Subterráneo|6
+Ilegal|5

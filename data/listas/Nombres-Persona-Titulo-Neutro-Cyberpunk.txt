@@ -1,0 +1,49 @@
+Runner|10
+Broker|10
+Agente|10
+Ghost|9
+Fixer|9
+Operativo|9
+Especialista|8
+Entidad|8
+Unidad|8
+Sistema|8
+Programa|7
+Avatar|7
+Proxy|7
+Interfaz|7
+Modelo|6
+Experimento|6
+Prototipo|6
+Sintético|6
+Nómada|6
+Viajante|5
+Analista|5
+Explorador|5
+Observador|5
+Archivista|5
+Infiltrador|4
+Vigilante|4
+Operador|4
+Controlador|4
+Administrador|4
+Nodo|3
+Eco|3
+Señal|3
+Fragmento|3
+Memoria|3
+IA|2
+Constructo|2
+Simulación|2
+Conciencia|2
+Proyecto|2
+Anomalía|1
+Error|1
+Código perdido|1
+Variable|1
+Usuario desconocido|1
+Identidad borrada|1
+Sin registro|1
+Sin dueño|1
+Sin origen|1
+Sin nombre|1

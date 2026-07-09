@@ -1,0 +1,50 @@
+Fue creado hace poco tiempo|8
+Existe desde hace mucho tiempo|8
+Sobrevivió a muchos eventos|5
+Fue olvidado por generaciones|4
+Fue encontrado recientemente|6
+Cambió muchas veces de propietario|5
+Nunca tuvo dueño conocido|4
+Perteneció a una persona común|8
+Perteneció a alguien importante|5
+Perteneció a alguien temido|4
+Perteneció a alguien admirado|4
+Perteneció a alguien desaparecido|5
+Fue utilizado durante una crisis|5
+Fue utilizado en un momento histórico|4
+Fue utilizado para salvar algo|4
+Fue utilizado para destruir algo|3
+Fue utilizado incorrectamente|4
+Fue la causa de un accidente|3
+Fue la causa de una disputa|3
+Fue motivo de una búsqueda larga|4
+Muchas personas intentaron conseguirlo|3
+Muchas personas desconocen su existencia|4
+Su existencia fue ocultada|4
+Su existencia fue alterada en los registros|3
+Hay rumores contradictorios sobre él|5
+Tiene una reputación exagerada|5
+Tiene una reputación negativa|4
+Tiene una reputación positiva|4
+Tiene un significado perdido|5
+Tiene un propósito olvidado|5
+Tiene un propósito diferente al aparente|4
+Fue abandonado por miedo|3
+Fue abandonado por necesidad|5
+Fue escondido para protegerlo|4
+Fue escondido para proteger a otros|3
+Fue recuperado varias veces|4
+Fue reparado varias veces|5
+Fue modificado con el tiempo|5
+Fue mejorado después de crearse|4
+Fue deteriorándose lentamente|5
+Está relacionado con una promesa|3
+Está relacionado con una traición|3
+Está relacionado con una pérdida|4
+Está relacionado con una victoria|4
+Está relacionado con un fracaso|4
+Forma parte de una historia incompleta|5
+Nadie conoce toda su historia|3
+Su historia parece imposible|2
+Su pasado podría cambiar el presente|2
+Su verdadero origen es un misterio|2

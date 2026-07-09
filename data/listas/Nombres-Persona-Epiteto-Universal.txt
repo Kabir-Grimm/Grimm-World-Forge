@@ -1,0 +1,50 @@
+el Silencioso|10
+la Errante|10
+el Marcado|10
+la Última Voz|9
+el Sin Corona|9
+la Mano Gris|9
+el Portador del Juramento|8
+la Sombra Clara|8
+el Testigo|8
+la Heredera Perdida|8
+el Desterrado|8
+la Guardiana Antigua|7
+el Cazador de Sombras|7
+la Flor de Invierno|7
+el Hijo del Alba|7
+la Hija del Eclipse|7
+el Último Guardián|7
+la Primera Llama|6
+el Que Camina Solo|6
+la Que Nunca Olvida|6
+el Rompedor de Cadenas|6
+la Voz del Pueblo|6
+el Portador de Luz|6
+la Dama del Lago|5
+el Señor de las Cenizas|5
+la Rosa Negra|5
+el Lobo Solitario|5
+la Serpiente Blanca|5
+el Cuervo Dorado|5
+la Estrella Caída|5
+el Escudo Viviente|4
+la Espada Jurada|4
+el Martillo del Norte|4
+la Flecha Silenciosa|4
+el Ojo Eterno|4
+la Mano Invisible|4
+el Sin Nombre|4
+la Sin Rostro|4
+el Que Volvió|3
+la Que Sobrevivió|3
+el Elegido del Destino|3
+la Elegida del Destino|3
+el Heraldo Perdido|3
+la Profeta del Final|3
+el Caminante del Vacío|2
+la Voz de los Antiguos|2
+el Último de su Linaje|2
+la Última de su Linaje|2
+quien desafió a los dioses|1
+quien sobrevivió al fin|1

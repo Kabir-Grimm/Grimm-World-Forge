@@ -1,0 +1,452 @@
+[
+    {
+        "id": "side_effect_1",
+        "name": "Eco persistente",
+        "description": "Componente de hechizo asociado a eco persistente.",
+        "tags": [
+            "side_effect",
+            "eco_persistente"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_2",
+        "name": "Marca extraña",
+        "description": "Componente de hechizo asociado a marca extraña.",
+        "tags": [
+            "side_effect",
+            "marca_extraña"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_3",
+        "name": "Atención no deseada",
+        "description": "Componente de hechizo asociado a atención no deseada.",
+        "tags": [
+            "side_effect",
+            "atención_no_deseada"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_4",
+        "name": "Cambio de clima",
+        "description": "Componente de hechizo asociado a cambio de clima.",
+        "tags": [
+            "side_effect",
+            "cambio_de_clima"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_5",
+        "name": "Recuerdo falso",
+        "description": "Componente de hechizo asociado a recuerdo falso.",
+        "tags": [
+            "side_effect",
+            "recuerdo_falso"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_6",
+        "name": "Objeto cercano alterado",
+        "description": "Componente de hechizo asociado a objeto cercano alterado.",
+        "tags": [
+            "side_effect",
+            "objeto_cercano_alterado"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_7",
+        "name": "Sombra inquieta",
+        "description": "Componente de hechizo asociado a sombra inquieta.",
+        "tags": [
+            "side_effect",
+            "sombra_inquieta"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_8",
+        "name": "Ruido imposible",
+        "description": "Componente de hechizo asociado a ruido imposible.",
+        "tags": [
+            "side_effect",
+            "ruido_imposible"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_9",
+        "name": "Deuda menor",
+        "description": "Componente de hechizo asociado a deuda menor.",
+        "tags": [
+            "side_effect",
+            "deuda_menor"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_10",
+        "name": "Pequeña mutación",
+        "description": "Componente de hechizo asociado a pequeña mutación.",
+        "tags": [
+            "side_effect",
+            "pequeña_mutación"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_11",
+        "name": "Pérdida de color",
+        "description": "Componente de hechizo asociado a pérdida de color.",
+        "tags": [
+            "side_effect",
+            "pérdida_de_color"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_12",
+        "name": "Sensación de ser observado",
+        "description": "Componente de hechizo asociado a sensación de ser observado.",
+        "tags": [
+            "side_effect",
+            "sensación_de_ser_observado"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_13",
+        "name": "Rastro rastreable",
+        "description": "Componente de hechizo asociado a rastro rastreable.",
+        "tags": [
+            "side_effect",
+            "rastro_rastreable"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_14",
+        "name": "Confusión breve",
+        "description": "Componente de hechizo asociado a confusión breve.",
+        "tags": [
+            "side_effect",
+            "confusión_breve"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_15",
+        "name": "Desfase temporal mínimo",
+        "description": "Componente de hechizo asociado a desfase temporal mínimo.",
+        "tags": [
+            "side_effect",
+            "desfase_temporal_mínimo"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_16",
+        "name": "Frío residual",
+        "description": "Componente de hechizo asociado a frío residual.",
+        "tags": [
+            "side_effect",
+            "frío_residual"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_17",
+        "name": "Calor residual",
+        "description": "Componente de hechizo asociado a calor residual.",
+        "tags": [
+            "side_effect",
+            "calor_residual"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_18",
+        "name": "Aroma persistente",
+        "description": "Componente de hechizo asociado a aroma persistente.",
+        "tags": [
+            "side_effect",
+            "aroma_persistente"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_19",
+        "name": "Fallo tecnológico menor",
+        "description": "Componente de hechizo asociado a fallo tecnológico menor.",
+        "tags": [
+            "side_effect",
+            "fallo_tecnológico_menor"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_20",
+        "name": "Vínculo accidental",
+        "description": "Componente de hechizo asociado a vínculo accidental.",
+        "tags": [
+            "side_effect",
+            "vínculo_accidental"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_21",
+        "name": "Eco emocional",
+        "description": "Componente de hechizo asociado a eco emocional.",
+        "tags": [
+            "side_effect",
+            "eco_emocional"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_22",
+        "name": "Atracción de animales",
+        "description": "Componente de hechizo asociado a atracción de animales.",
+        "tags": [
+            "side_effect",
+            "atracción_de_animales"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_23",
+        "name": "Grieta simbólica",
+        "description": "Componente de hechizo asociado a grieta simbólica.",
+        "tags": [
+            "side_effect",
+            "grieta_simbólica"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_24",
+        "name": "Sueño extraño",
+        "description": "Componente de hechizo asociado a sueño extraño.",
+        "tags": [
+            "side_effect",
+            "sueño_extraño"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_25",
+        "name": "Pérdida de voz breve",
+        "description": "Componente de hechizo asociado a pérdida de voz breve.",
+        "tags": [
+            "side_effect",
+            "pérdida_de_voz_breve"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_26",
+        "name": "Suerte compensatoria",
+        "description": "Componente de hechizo asociado a suerte compensatoria.",
+        "tags": [
+            "side_effect",
+            "suerte_compensatoria"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_27",
+        "name": "Reacción inversa menor",
+        "description": "Componente de hechizo asociado a reacción inversa menor.",
+        "tags": [
+            "side_effect",
+            "reacción_inversa_menor"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_28",
+        "name": "Material cristalizado",
+        "description": "Componente de hechizo asociado a material cristalizado.",
+        "tags": [
+            "side_effect",
+            "material_cristalizado"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_29",
+        "name": "Susurro de nombre",
+        "description": "Componente de hechizo asociado a susurro de nombre.",
+        "tags": [
+            "side_effect",
+            "susurro_de_nombre"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "side_effect_30",
+        "name": "Cansancio colectivo",
+        "description": "Componente de hechizo asociado a cansancio colectivo.",
+        "tags": [
+            "side_effect",
+            "cansancio_colectivo"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    }
+]

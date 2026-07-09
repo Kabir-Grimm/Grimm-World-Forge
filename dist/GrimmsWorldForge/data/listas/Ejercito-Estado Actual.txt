@@ -1,0 +1,30 @@
+Preparándose para guerra|knowledge:+2|initiative:+1
+Defendiendo territorio|defense:+3|resistance:+1
+En expansión militar|combat:+2|influence:+2|risk:+2
+Desgastado por conflicto|combat:-1|resistance:-2|risk:+2
+Recuperándose|resistance:+1|combat:-1
+Movilizado|initiative:+3|risk:+1
+Dividido internamente|control:-3|risk:+3
+En retirada|initiative:+1|combat:-2|risk:+2
+Celebrando victoria|social:+2|influence:+1|risk:-1
+Buscando recursos|knowledge:+1|risk:+1
+Reclutando tropas|influence:+2|combat:-1
+Protegiendo una reliquia|defense:+2|arcane:+2|risk:+2
+Asediando una ciudad|damage:+3|combat:+1|risk:+2
+Ocultando pérdidas|social:-1|risk:+2
+Al borde del motín|control:-5|risk:+5
+Esperando órdenes|initiative:-1|control:+1
+Operando en secreto|stealth:+3|risk:+2
+Persiguiendo enemigos|initiative:+2|combat:+1
+Intentando sobrevivir|resistance:+3|risk:+3
+Bajo corrupción mágica|arcane:+3|control:-3|risk:+5
+En guerra civil|combat:+1|control:-5|risk:+6
+Aislado del reino|influence:-3|resistance:-1|risk:+2
+En decadencia|combat:-2|influence:-2|risk:+2
+Bajo ocupación enemiga|control:-3|risk:+4
+Fortaleciendo fronteras|defense:+3|knowledge:+1
+Realizando purgas|combat:+2|social:-4|risk:+3
+En misión suicida|combat:+3|resistance:+2|risk:+6
+Protegiendo civiles|defense:+2|social:+2|risk:+1
+Explorando territorio hostil|knowledge:+3|resistance:+1|risk:+2
+Preparando invasión|combat:+2|initiative:+2|risk:+2

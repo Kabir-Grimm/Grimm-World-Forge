@@ -1,0 +1,30 @@
+{defender} piensa que {attacker} está ocultando algo.
+{defender} empieza a creer que subestimó a {attacker}.
+{defender} nota una abertura en la técnica de {attacker}.
+{defender} siente rabia al ver la confianza de {attacker}.
+{defender} se pregunta cuánto más puede resistir.
+{attacker} percibe miedo en la postura de {defender}.
+{defender} empieza a entender el verdadero nivel de {attacker}.
+{attacker} nota dudas en los movimientos de {defender}.
+{defender} sospecha que {attacker} todavía no pelea en serio.
+{attacker} cree haber encontrado una debilidad importante.
+{defender} piensa que el combate se está inclinando peligrosamente.
+{attacker} percibe cansancio en la respiración de {defender}.
+{defender} considera cambiar completamente de estrategia.
+{attacker} siente que la voluntad de {defender} empieza a quebrarse.
+{defender} intenta ocultar el miedo detrás de agresividad.
+{attacker} percibe una mezcla de orgullo y desesperación en {defender}.
+{defender} piensa que un error más podría ser fatal.
+{attacker} nota que {defender} empieza a reaccionar tarde.
+{defender} cree haber encontrado una oportunidad para contraatacar.
+{attacker} siente que el combate finalmente está bajo control.
+{defender} empieza a odiar la calma de {attacker}.
+{attacker} percibe que {defender} ya no pelea con confianza.
+{defender} piensa que la diferencia de poder es injusta.
+{attacker} nota que {defender} intenta ganar tiempo.
+{defender} empieza a aceptar que podría perder.
+{attacker} cree que {defender} todavía guarda una sorpresa.
+{defender} percibe que {attacker} está disfrutando demasiado el combate.
+{attacker} sospecha que {defender} está ocultando dolor real.
+{defender} siente que cada intercambio favorece más a {attacker}.
+{attacker} cree que la batalla ya tiene un desenlace inevitable.

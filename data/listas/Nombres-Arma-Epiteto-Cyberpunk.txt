@@ -1,0 +1,5 @@
+de pulso negro|10
+sin registro|8
+de frecuencia muerta|8
+del mercado fantasma|7
+de ejecución limpia|6

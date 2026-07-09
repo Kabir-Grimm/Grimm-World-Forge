@@ -1,0 +1,16 @@
+Herida leve
+Herida grave
+Pérdida de equipo
+Gana reputación
+Pierde reputación
+Crea rivalidad
+Crea alianza
+Aumenta corrupción
+Reduce confianza
+Obtiene información
+Pierde recursos
+Escapa por poco
+Muerte posible
+Captura
+Humillación pública
+Victoria costosa

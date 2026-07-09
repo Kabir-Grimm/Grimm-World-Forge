@@ -1,0 +1,302 @@
+[
+    {
+        "id": "intention_1",
+        "name": "Proteger",
+        "description": "Componente de hechizo asociado a proteger.",
+        "tags": [
+            "intention",
+            "proteger"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_2",
+        "name": "Atacar",
+        "description": "Componente de hechizo asociado a atacar.",
+        "tags": [
+            "intention",
+            "atacar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_3",
+        "name": "Escapar",
+        "description": "Componente de hechizo asociado a escapar.",
+        "tags": [
+            "intention",
+            "escapar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_4",
+        "name": "Revelar",
+        "description": "Componente de hechizo asociado a revelar.",
+        "tags": [
+            "intention",
+            "revelar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_5",
+        "name": "Ocultar",
+        "description": "Componente de hechizo asociado a ocultar.",
+        "tags": [
+            "intention",
+            "ocultar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_6",
+        "name": "Castigar",
+        "description": "Componente de hechizo asociado a castigar.",
+        "tags": [
+            "intention",
+            "castigar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_7",
+        "name": "Sanar",
+        "description": "Componente de hechizo asociado a sanar.",
+        "tags": [
+            "intention",
+            "sanar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_8",
+        "name": "Controlar",
+        "description": "Componente de hechizo asociado a controlar.",
+        "tags": [
+            "intention",
+            "controlar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_9",
+        "name": "Negociar",
+        "description": "Componente de hechizo asociado a negociar.",
+        "tags": [
+            "intention",
+            "negociar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_10",
+        "name": "Explorar",
+        "description": "Componente de hechizo asociado a explorar.",
+        "tags": [
+            "intention",
+            "explorar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_11",
+        "name": "Crear ventaja",
+        "description": "Componente de hechizo asociado a crear ventaja.",
+        "tags": [
+            "intention",
+            "crear_ventaja"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_12",
+        "name": "Preservar",
+        "description": "Componente de hechizo asociado a preservar.",
+        "tags": [
+            "intention",
+            "preservar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_13",
+        "name": "Corromper",
+        "description": "Componente de hechizo asociado a corromper.",
+        "tags": [
+            "intention",
+            "corromper"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_14",
+        "name": "Purificar",
+        "description": "Componente de hechizo asociado a purificar.",
+        "tags": [
+            "intention",
+            "purificar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_15",
+        "name": "Comunicar",
+        "description": "Componente de hechizo asociado a comunicar.",
+        "tags": [
+            "intention",
+            "comunicar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_16",
+        "name": "Invadir",
+        "description": "Componente de hechizo asociado a invadir.",
+        "tags": [
+            "intention",
+            "invadir"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_17",
+        "name": "Contener",
+        "description": "Componente de hechizo asociado a contener.",
+        "tags": [
+            "intention",
+            "contener"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_18",
+        "name": "Liberar",
+        "description": "Componente de hechizo asociado a liberar.",
+        "tags": [
+            "intention",
+            "liberar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_19",
+        "name": "Transformar",
+        "description": "Componente de hechizo asociado a transformar.",
+        "tags": [
+            "intention",
+            "transformar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "intention_20",
+        "name": "Recordar",
+        "description": "Componente de hechizo asociado a recordar.",
+        "tags": [
+            "intention",
+            "recordar"
+        ],
+        "effects": {
+            "influence": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    }
+]

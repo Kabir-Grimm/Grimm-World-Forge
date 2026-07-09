@@ -1,0 +1,9 @@
+Acechador|10
+Devorador|8
+Guardián|8
+Rastreador|7
+Bestia|7
+Coloso|6
+Engendro|5
+Quimera|5
+Heraldo|3

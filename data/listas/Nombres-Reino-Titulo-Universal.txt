@@ -1,0 +1,50 @@
+del Norte|10
+del Sur|10
+del Este|9
+del Oeste|9
+Central|8
+Antiguo|8
+Eterno|8
+Dorado|7
+Plateado|7
+Carmesí|7
+Oscuro|7
+Luminoso|7
+Perdido|6
+Olvidado|6
+Renacido|6
+Caído|6
+Libre|6
+Unificado|5
+Dividido|5
+Oculto|5
+Sagrado|5
+Maldito|5
+Imperial|4
+Real|4
+Salvaje|4
+Exterior|4
+Interior|4
+Celestial|4
+Subterráneo|4
+Marítimo|3
+Flotante|3
+Errante|3
+Inmortal|3
+Fragmentado|3
+De los ancestros|3
+De los héroes|3
+De los exiliados|3
+De los caídos|2
+De las siete coronas|2
+Del último rey|2
+Del primer emperador|2
+Sin corona|2
+Sin fronteras|2
+Sin señor|2
+De hierro|1
+De cristal|1
+De ceniza|1
+De sangre|1
+Del amanecer|1
+Del eclipse|1

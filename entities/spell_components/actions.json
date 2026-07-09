@@ -1,0 +1,602 @@
+[
+    {
+        "id": "action_1",
+        "name": "Crear",
+        "description": "Componente de hechizo asociado a crear.",
+        "tags": [
+            "action",
+            "crear"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_2",
+        "name": "Mover",
+        "description": "Componente de hechizo asociado a mover.",
+        "tags": [
+            "action",
+            "mover"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_3",
+        "name": "Transformar",
+        "description": "Componente de hechizo asociado a transformar.",
+        "tags": [
+            "action",
+            "transformar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_4",
+        "name": "Destruir",
+        "description": "Componente de hechizo asociado a destruir.",
+        "tags": [
+            "action",
+            "destruir"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_5",
+        "name": "Restaurar",
+        "description": "Componente de hechizo asociado a restaurar.",
+        "tags": [
+            "action",
+            "restaurar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_6",
+        "name": "Ocultar",
+        "description": "Componente de hechizo asociado a ocultar.",
+        "tags": [
+            "action",
+            "ocultar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_7",
+        "name": "Revelar",
+        "description": "Componente de hechizo asociado a revelar.",
+        "tags": [
+            "action",
+            "revelar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_8",
+        "name": "Unir",
+        "description": "Componente de hechizo asociado a unir.",
+        "tags": [
+            "action",
+            "unir"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_9",
+        "name": "Separar",
+        "description": "Componente de hechizo asociado a separar.",
+        "tags": [
+            "action",
+            "separar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_10",
+        "name": "Invocar",
+        "description": "Componente de hechizo asociado a invocar.",
+        "tags": [
+            "action",
+            "invocar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_11",
+        "name": "Aumentar",
+        "description": "Componente de hechizo asociado a aumentar.",
+        "tags": [
+            "action",
+            "aumentar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_12",
+        "name": "Reducir",
+        "description": "Componente de hechizo asociado a reducir.",
+        "tags": [
+            "action",
+            "reducir"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_13",
+        "name": "Copiar",
+        "description": "Componente de hechizo asociado a copiar.",
+        "tags": [
+            "action",
+            "copiar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_14",
+        "name": "Sellar",
+        "description": "Componente de hechizo asociado a sellar.",
+        "tags": [
+            "action",
+            "sellar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_15",
+        "name": "Alterar",
+        "description": "Componente de hechizo asociado a alterar.",
+        "tags": [
+            "action",
+            "alterar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_16",
+        "name": "Atraer",
+        "description": "Componente de hechizo asociado a atraer.",
+        "tags": [
+            "action",
+            "atraer"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_17",
+        "name": "Repeler",
+        "description": "Componente de hechizo asociado a repeler.",
+        "tags": [
+            "action",
+            "repeler"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_18",
+        "name": "Encender",
+        "description": "Componente de hechizo asociado a encender.",
+        "tags": [
+            "action",
+            "encender"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_19",
+        "name": "Apagar",
+        "description": "Componente de hechizo asociado a apagar.",
+        "tags": [
+            "action",
+            "apagar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_20",
+        "name": "Drenar",
+        "description": "Componente de hechizo asociado a drenar.",
+        "tags": [
+            "action",
+            "drenar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_21",
+        "name": "Transferir",
+        "description": "Componente de hechizo asociado a transferir.",
+        "tags": [
+            "action",
+            "transferir"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_22",
+        "name": "Duplicar",
+        "description": "Componente de hechizo asociado a duplicar.",
+        "tags": [
+            "action",
+            "duplicar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_23",
+        "name": "Fijar",
+        "description": "Componente de hechizo asociado a fijar.",
+        "tags": [
+            "action",
+            "fijar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_24",
+        "name": "Liberar",
+        "description": "Componente de hechizo asociado a liberar.",
+        "tags": [
+            "action",
+            "liberar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_25",
+        "name": "Invertir",
+        "description": "Componente de hechizo asociado a invertir.",
+        "tags": [
+            "action",
+            "invertir"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_26",
+        "name": "Conservar",
+        "description": "Componente de hechizo asociado a conservar.",
+        "tags": [
+            "action",
+            "conservar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_27",
+        "name": "Acelerar",
+        "description": "Componente de hechizo asociado a acelerar.",
+        "tags": [
+            "action",
+            "acelerar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_28",
+        "name": "Ralentizar",
+        "description": "Componente de hechizo asociado a ralentizar.",
+        "tags": [
+            "action",
+            "ralentizar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_29",
+        "name": "Confundir",
+        "description": "Componente de hechizo asociado a confundir.",
+        "tags": [
+            "action",
+            "confundir"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_30",
+        "name": "Ordenar",
+        "description": "Componente de hechizo asociado a ordenar.",
+        "tags": [
+            "action",
+            "ordenar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_31",
+        "name": "Corromper",
+        "description": "Componente de hechizo asociado a corromper.",
+        "tags": [
+            "action",
+            "corromper"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_32",
+        "name": "Purificar",
+        "description": "Componente de hechizo asociado a purificar.",
+        "tags": [
+            "action",
+            "purificar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_33",
+        "name": "Recordar",
+        "description": "Componente de hechizo asociado a recordar.",
+        "tags": [
+            "action",
+            "recordar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_34",
+        "name": "Olvidar",
+        "description": "Componente de hechizo asociado a olvidar.",
+        "tags": [
+            "action",
+            "olvidar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_35",
+        "name": "Nombrar",
+        "description": "Componente de hechizo asociado a nombrar.",
+        "tags": [
+            "action",
+            "nombrar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_36",
+        "name": "Maldecir",
+        "description": "Componente de hechizo asociado a maldecir.",
+        "tags": [
+            "action",
+            "maldecir"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_37",
+        "name": "Bendecir",
+        "description": "Componente de hechizo asociado a bendecir.",
+        "tags": [
+            "action",
+            "bendecir"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_38",
+        "name": "Absorber",
+        "description": "Componente de hechizo asociado a absorber.",
+        "tags": [
+            "action",
+            "absorber"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_39",
+        "name": "Proyectar",
+        "description": "Componente de hechizo asociado a proyectar.",
+        "tags": [
+            "action",
+            "proyectar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "action_40",
+        "name": "Anclar",
+        "description": "Componente de hechizo asociado a anclar.",
+        "tags": [
+            "action",
+            "anclar"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    }
+]

@@ -1,0 +1,11 @@
+Un metal o mineral único|.2
+Una fuente de energía mágica|.3
+Una fuente de agua con propiedades curativas|.1
+Una bestia mitológica vinculada al lugar|.4
+Un fenómeno climático extraño|.2
+La linea entre la vida y la muerte es más delgada|.1
+Un mecanismo oculto que activa algo mayor|.01
+Un cielo anómalo|.05
+Un lugar donde los dioses pueden comunicarse|.4
+Un portal a una ubicación desconocida|.25
+Ninguna|1

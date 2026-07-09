@@ -1,0 +1,4421 @@
+[
+    {
+        "name": "Un eco de tono extraño surge con alcance político: investigar afecta a Malikot. Consecuencia: genera dependencia.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 2,
+            "event_type": "Eco",
+            "target": {
+                "id": "locations_1",
+                "name": "Malikot",
+                "type": "locations"
+            },
+            "description": "Un eco de tono extraño surge con alcance político: investigar afecta a Malikot. Consecuencia: genera dependencia.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 5,
+                "focus": "Personaje",
+                "action": "Investigar",
+                "tone": "Extraño",
+                "impact": "Genera dependencia",
+                "scope": "Político",
+                "target": {
+                    "id": "locations_1",
+                    "name": "Malikot",
+                    "type": "locations"
+                },
+                "created_at": "2026-05-14T23:44:53.080812",
+                "description": "Un eco de tono extraño surge con alcance político: investigar afecta a Malikot. Consecuencia: genera dependencia.",
+                "year": 2
+            },
+            "created_at": "2026-05-14T23:44:53.080812",
+            "id": "timeline_1"
+        },
+        "created_at": "2026-05-14T23:45:04.854720",
+        "id": "events_1"
+    },
+    {
+        "name": "Un eco de tono inestable surge con alcance cultural: aislar afecta a Alma. Consecuencia: provoca migración.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 1,
+            "event_type": "Eco",
+            "target": {
+                "id": "npcs_3",
+                "name": "Alma",
+                "type": "npcs"
+            },
+            "description": "Un eco de tono inestable surge con alcance cultural: aislar afecta a Alma. Consecuencia: provoca migración.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 5,
+                "focus": "Personaje",
+                "action": "Aislar",
+                "tone": "Inestable",
+                "impact": "Provoca migración",
+                "scope": "Cultural",
+                "target": {
+                    "id": "npcs_3",
+                    "name": "Alma",
+                    "type": "npcs"
+                },
+                "created_at": "2026-05-15T09:25:30.008390",
+                "description": "Un eco de tono inestable surge con alcance cultural: aislar afecta a Alma. Consecuencia: provoca migración.",
+                "year": 1
+            },
+            "created_at": "2026-05-15T09:25:30.008390",
+            "id": "timeline_2"
+        },
+        "created_at": "2026-05-15T09:25:54.737421",
+        "id": "events_2"
+    },
+    {
+        "name": "Un eco de tono ancestral surge con alcance diplomático: purificar afecta a Claude. Consecuencia: genera paranoia.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 1,
+            "event_type": "Eco",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Un eco de tono ancestral surge con alcance diplomático: purificar afecta a Claude. Consecuencia: genera paranoia.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 5,
+                "focus": "Facción",
+                "action": "Purificar",
+                "tone": "Ancestral",
+                "impact": "Genera paranoia",
+                "scope": "Diplomático",
+                "target": {
+                    "id": "npcs_1",
+                    "name": "Claude",
+                    "type": "npcs"
+                },
+                "created_at": "2026-05-15T09:25:43.388124",
+                "description": "Un eco de tono ancestral surge con alcance diplomático: purificar afecta a Claude. Consecuencia: genera paranoia.",
+                "year": 1
+            },
+            "created_at": "2026-05-15T09:25:43.388124",
+            "id": "timeline_3"
+        },
+        "created_at": "2026-05-15T09:25:54.751603",
+        "id": "events_3"
+    },
+    {
+        "name": "Un eco de tono ritualístico surge con alcance secreto: romper afecta a Alma. Consecuencia: escala una guerra.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 1,
+            "event_type": "Eco",
+            "target": {
+                "id": "npcs_3",
+                "name": "Alma",
+                "type": "npcs"
+            },
+            "description": "Un eco de tono ritualístico surge con alcance secreto: romper afecta a Alma. Consecuencia: escala una guerra.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 5,
+                "focus": "Relación",
+                "action": "Romper",
+                "tone": "Ritualístico",
+                "impact": "Escala una guerra",
+                "scope": "Secreto",
+                "target": {
+                    "id": "npcs_3",
+                    "name": "Alma",
+                    "type": "npcs"
+                },
+                "created_at": "2026-05-15T09:25:48.585037",
+                "description": "Un eco de tono ritualístico surge con alcance secreto: romper afecta a Alma. Consecuencia: escala una guerra.",
+                "year": 1
+            },
+            "created_at": "2026-05-15T09:25:48.585037",
+            "id": "timeline_4"
+        },
+        "created_at": "2026-05-15T09:25:54.772626",
+        "id": "events_4"
+    },
+    {
+        "name": "Un eco de tono ancestral surge con alcance político: infectar afecta a Claude. Consecuencia: fortalece una relación.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 2,
+            "event_type": "Eco",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Un eco de tono ancestral surge con alcance político: infectar afecta a Claude. Consecuencia: fortalece una relación.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 5,
+                "focus": "NPC",
+                "action": "Infectar",
+                "tone": "Ancestral",
+                "impact": "Fortalece una relación",
+                "scope": "Político",
+                "target": {
+                    "id": "npcs_1",
+                    "name": "Claude",
+                    "type": "npcs"
+                },
+                "created_at": "2026-05-15T09:37:15.007196",
+                "description": "Un eco de tono ancestral surge con alcance político: infectar afecta a Claude. Consecuencia: fortalece una relación.",
+                "year": 2
+            },
+            "created_at": "2026-05-15T09:37:15.007196",
+            "id": "timeline_5"
+        },
+        "created_at": "2026-05-15T09:37:18.413806",
+        "id": "events_5"
+    },
+    {
+        "name": "Un eco de tono implacable surge con alcance cultural: deformar afecta a Claude. Consecuencia: provoca migración.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 2,
+            "event_type": "Eco",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Un eco de tono implacable surge con alcance cultural: deformar afecta a Claude. Consecuencia: provoca migración.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 5,
+                "focus": "Mundo",
+                "action": "Deformar",
+                "tone": "Implacable",
+                "impact": "Provoca migración",
+                "scope": "Cultural",
+                "target": {
+                    "id": "npcs_1",
+                    "name": "Claude",
+                    "type": "npcs"
+                },
+                "created_at": "2026-05-15T09:37:15.223146",
+                "description": "Un eco de tono implacable surge con alcance cultural: deformar afecta a Claude. Consecuencia: provoca migración.",
+                "year": 2
+            },
+            "created_at": "2026-05-15T09:37:15.223146",
+            "id": "timeline_6"
+        },
+        "created_at": "2026-05-15T09:37:18.436280",
+        "id": "events_6"
+    },
+    {
+        "name": "Un eco de tono melancólico surge con alcance regional: preservar afecta a Malikot. Consecuencia: crea una oportunidad peligrosa.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 2,
+            "event_type": "Eco",
+            "target": {
+                "id": "locations_1",
+                "name": "Malikot",
+                "type": "locations"
+            },
+            "description": "Un eco de tono melancólico surge con alcance regional: preservar afecta a Malikot. Consecuencia: crea una oportunidad peligrosa.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 5,
+                "focus": "Recurso",
+                "action": "Preservar",
+                "tone": "Melancólico",
+                "impact": "Crea una oportunidad peligrosa",
+                "scope": "Regional",
+                "target": {
+                    "id": "locations_1",
+                    "name": "Malikot",
+                    "type": "locations"
+                },
+                "created_at": "2026-05-15T09:37:15.405475",
+                "description": "Un eco de tono melancólico surge con alcance regional: preservar afecta a Malikot. Consecuencia: crea una oportunidad peligrosa.",
+                "year": 2
+            },
+            "created_at": "2026-05-15T09:37:15.405475",
+            "id": "timeline_7"
+        },
+        "created_at": "2026-05-15T09:37:18.450937",
+        "id": "events_7"
+    },
+    {
+        "name": "Un eco de tono artificial surge con alcance tecnológico: usurpar afecta a Alma. Consecuencia: produce corrupción.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 2,
+            "event_type": "Eco",
+            "target": {
+                "id": "npcs_3",
+                "name": "Alma",
+                "type": "npcs"
+            },
+            "description": "Un eco de tono artificial surge con alcance tecnológico: usurpar afecta a Alma. Consecuencia: produce corrupción.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 5,
+                "focus": "Mundo",
+                "action": "Usurpar",
+                "tone": "Artificial",
+                "impact": "Produce corrupción",
+                "scope": "Tecnológico",
+                "target": {
+                    "id": "npcs_3",
+                    "name": "Alma",
+                    "type": "npcs"
+                },
+                "created_at": "2026-05-15T09:37:15.738579",
+                "description": "Un eco de tono artificial surge con alcance tecnológico: usurpar afecta a Alma. Consecuencia: produce corrupción.",
+                "year": 2
+            },
+            "created_at": "2026-05-15T09:37:15.738579",
+            "id": "timeline_8"
+        },
+        "created_at": "2026-05-15T09:37:18.469503",
+        "id": "events_8"
+    },
+    {
+        "name": "Un eco de tono sombrío surge con alcance cultural: perseguir afecta a Alma. Consecuencia: despierta interés religioso.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 2,
+            "event_type": "Eco",
+            "target": {
+                "id": "npcs_3",
+                "name": "Alma",
+                "type": "npcs"
+            },
+            "description": "Un eco de tono sombrío surge con alcance cultural: perseguir afecta a Alma. Consecuencia: despierta interés religioso.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 5,
+                "focus": "Secreto",
+                "action": "Perseguir",
+                "tone": "Sombrío",
+                "impact": "Despierta interés religioso",
+                "scope": "Cultural",
+                "target": {
+                    "id": "npcs_3",
+                    "name": "Alma",
+                    "type": "npcs"
+                },
+                "created_at": "2026-05-15T09:37:16.450405",
+                "description": "Un eco de tono sombrío surge con alcance cultural: perseguir afecta a Alma. Consecuencia: despierta interés religioso.",
+                "year": 2
+            },
+            "created_at": "2026-05-15T09:37:16.450405",
+            "id": "timeline_9"
+        },
+        "created_at": "2026-05-15T09:37:18.491000",
+        "id": "events_9"
+    },
+    {
+        "name": "Un eco de tono extraño surge con alcance local: encubrir afecta a Claude. Consecuencia: genera paranoia.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 3,
+            "event_type": "Eco",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Un eco de tono extraño surge con alcance local: encubrir afecta a Claude. Consecuencia: genera paranoia.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 6,
+                "focus": "Conflicto activo",
+                "action": "Encubrir",
+                "tone": "Extraño",
+                "impact": "Genera paranoia",
+                "scope": "Local",
+                "target": {
+                    "id": "npcs_1",
+                    "name": "Claude",
+                    "type": "npcs"
+                },
+                "created_at": "2026-05-15T09:37:30.110277",
+                "description": "Un eco de tono extraño surge con alcance local: encubrir afecta a Claude. Consecuencia: genera paranoia.",
+                "year": 3
+            },
+            "created_at": "2026-05-15T09:37:30.110277",
+            "id": "timeline_10"
+        },
+        "created_at": "2026-05-15T09:37:33.062718",
+        "id": "events_10"
+    },
+    {
+        "name": "Un eco de tono desolador surge con alcance social: inspirar afecta a Claude. Consecuencia: expone secretos.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 3,
+            "event_type": "Eco",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Un eco de tono desolador surge con alcance social: inspirar afecta a Claude. Consecuencia: expone secretos.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 6,
+                "focus": "Objeto importante",
+                "action": "Inspirar",
+                "tone": "Desolador",
+                "impact": "Expone secretos",
+                "scope": "Social",
+                "target": {
+                    "id": "npcs_1",
+                    "name": "Claude",
+                    "type": "npcs"
+                },
+                "created_at": "2026-05-15T09:37:30.406746",
+                "description": "Un eco de tono desolador surge con alcance social: inspirar afecta a Claude. Consecuencia: expone secretos.",
+                "year": 3
+            },
+            "created_at": "2026-05-15T09:37:30.406746",
+            "id": "timeline_11"
+        },
+        "created_at": "2026-05-15T09:37:33.078352",
+        "id": "events_11"
+    },
+    {
+        "name": "Un eco de tono contaminado surge con alcance regional: revelar afecta a Malikot. Consecuencia: complica negociaciones.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 3,
+            "event_type": "Eco",
+            "target": {
+                "id": "locations_1",
+                "name": "Malikot",
+                "type": "locations"
+            },
+            "description": "Un eco de tono contaminado surge con alcance regional: revelar afecta a Malikot. Consecuencia: complica negociaciones.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 6,
+                "focus": "Facción",
+                "action": "Revelar",
+                "tone": "Contaminado",
+                "impact": "Complica negociaciones",
+                "scope": "Regional",
+                "target": {
+                    "id": "locations_1",
+                    "name": "Malikot",
+                    "type": "locations"
+                },
+                "created_at": "2026-05-15T09:37:30.819780",
+                "description": "Un eco de tono contaminado surge con alcance regional: revelar afecta a Malikot. Consecuencia: complica negociaciones.",
+                "year": 3
+            },
+            "created_at": "2026-05-15T09:37:30.819780",
+            "id": "timeline_12"
+        },
+        "created_at": "2026-05-15T09:37:33.099848",
+        "id": "events_12"
+    },
+    {
+        "name": "Un eco de tono contaminado surge con alcance histórico: infectar afecta a Malikot. Consecuencia: expande un conflicto.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 3,
+            "event_type": "Eco",
+            "target": {
+                "id": "locations_1",
+                "name": "Malikot",
+                "type": "locations"
+            },
+            "description": "Un eco de tono contaminado surge con alcance histórico: infectar afecta a Malikot. Consecuencia: expande un conflicto.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 6,
+                "focus": "Lugar olvidado",
+                "action": "Infectar",
+                "tone": "Contaminado",
+                "impact": "Expande un conflicto",
+                "scope": "Histórico",
+                "target": {
+                    "id": "locations_1",
+                    "name": "Malikot",
+                    "type": "locations"
+                },
+                "created_at": "2026-05-15T09:37:31.304558",
+                "description": "Un eco de tono contaminado surge con alcance histórico: infectar afecta a Malikot. Consecuencia: expande un conflicto.",
+                "year": 3
+            },
+            "created_at": "2026-05-15T09:37:31.304558",
+            "id": "timeline_13"
+        },
+        "created_at": "2026-05-15T09:37:33.120369",
+        "id": "events_13"
+    },
+    {
+        "name": "Un eco de tono sagrado surge con alcance militar: manipular afecta a Malikot. Consecuencia: fortalece una relación.",
+        "type": "events",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Oclaria",
+            "year": 3,
+            "event_type": "Eco",
+            "target": {
+                "id": "locations_1",
+                "name": "Malikot",
+                "type": "locations"
+            },
+            "description": "Un eco de tono sagrado surge con alcance militar: manipular afecta a Malikot. Consecuencia: fortalece una relación.",
+            "data": {
+                "world_id": "world_1",
+                "world_name": "Oclaria",
+                "chaos": 6,
+                "focus": "Mundo",
+                "action": "Manipular",
+                "tone": "Sagrado",
+                "impact": "Fortalece una relación",
+                "scope": "Militar",
+                "target": {
+                    "id": "locations_1",
+                    "name": "Malikot",
+                    "type": "locations"
+                },
+                "created_at": "2026-05-15T09:37:31.724328",
+                "description": "Un eco de tono sagrado surge con alcance militar: manipular afecta a Malikot. Consecuencia: fortalece una relación.",
+                "year": 3
+            },
+            "created_at": "2026-05-15T09:37:31.724328",
+            "id": "timeline_14"
+        },
+        "created_at": "2026-05-15T09:37:33.136980",
+        "id": "events_14"
+    },
+    {
+        "name": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+        "type": "events",
+        "data": {
+            "world_id": null,
+            "world_name": null,
+            "year": 1,
+            "event_type": "Encuentro",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+            "data": {
+                "type": "encounter",
+                "encounter_type": "Ritual",
+                "risk": "Alto",
+                "context": "Misión de espionaje",
+                "context_modifiers": {
+                    "stealth": 4,
+                    "risk": 2
+                },
+                "actor_a": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "knowledge",
+                    "score": 2,
+                    "roll": 1,
+                    "total": 3,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 12,
+                            "social": 4,
+                            "arcane": 9,
+                            "control": 2,
+                            "stealth": 6,
+                            "knowledge": 2,
+                            "influence": 6,
+                            "initiative": 0,
+                            "risk": 1,
+                            "total": 61
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 4,
+                            "arcane": 4,
+                            "control": 2,
+                            "stealth": 6,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "arcane": 2,
+                            "influence": 2,
+                            "resistance": 1
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 2,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": -1,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {
+                            "arcane": 3,
+                            "resistance": 1,
+                            "risk": 1
+                        }
+                    },
+                    "external_modifiers": {
+                        "stealth": 4,
+                        "risk": 2
+                    }
+                },
+                "actor_b": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "knowledge",
+                    "score": 2,
+                    "roll": 5,
+                    "total": 7,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 7,
+                            "combat": 9,
+                            "defense": 7,
+                            "damage": 1,
+                            "resistance": 7,
+                            "social": 3,
+                            "arcane": 2,
+                            "control": 1,
+                            "stealth": 4,
+                            "knowledge": 2,
+                            "influence": 3,
+                            "initiative": -1,
+                            "risk": 0,
+                            "total": 38
+                        },
+                        "base": {
+                            "base": 7,
+                            "combat": 7,
+                            "defense": 7,
+                            "damage": 1,
+                            "resistance": 7,
+                            "social": 3,
+                            "arcane": 2,
+                            "control": 1,
+                            "stealth": 4,
+                            "knowledge": 2,
+                            "influence": 3,
+                            "initiative": -1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "stealth": 4,
+                        "risk": 2
+                    }
+                },
+                "method_a": "Tecnología",
+                "method_b": "Estrategia",
+                "domain_a": "knowledge",
+                "domain_b": "knowledge",
+                "margin": -4,
+                "winner": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "knowledge",
+                    "score": 2,
+                    "roll": 5,
+                    "total": 7,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 7,
+                            "combat": 9,
+                            "defense": 7,
+                            "damage": 1,
+                            "resistance": 7,
+                            "social": 3,
+                            "arcane": 2,
+                            "control": 1,
+                            "stealth": 4,
+                            "knowledge": 2,
+                            "influence": 3,
+                            "initiative": -1,
+                            "risk": 0,
+                            "total": 38
+                        },
+                        "base": {
+                            "base": 7,
+                            "combat": 7,
+                            "defense": 7,
+                            "damage": 1,
+                            "resistance": 7,
+                            "social": 3,
+                            "arcane": 2,
+                            "control": 1,
+                            "stealth": 4,
+                            "knowledge": 2,
+                            "influence": 3,
+                            "initiative": -1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "stealth": 4,
+                        "risk": 2
+                    }
+                },
+                "loser": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "knowledge",
+                    "score": 2,
+                    "roll": 1,
+                    "total": 3,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 12,
+                            "social": 4,
+                            "arcane": 9,
+                            "control": 2,
+                            "stealth": 6,
+                            "knowledge": 2,
+                            "influence": 6,
+                            "initiative": 0,
+                            "risk": 1,
+                            "total": 61
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 4,
+                            "arcane": 4,
+                            "control": 2,
+                            "stealth": 6,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "arcane": 2,
+                            "influence": 2,
+                            "resistance": 1
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 2,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": -1,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {
+                            "arcane": 3,
+                            "resistance": 1,
+                            "risk": 1
+                        }
+                    },
+                    "external_modifiers": {
+                        "stealth": 4,
+                        "risk": 2
+                    }
+                },
+                "interpretation": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "consequence": {
+                    "risk": "Alto",
+                    "margin": -4,
+                    "severity": "alta",
+                    "modifier": "victoria clara",
+                    "consequence": "Debilitamiento físico",
+                    "description": "Debilitamiento físico (alta, victoria clara)"
+                },
+                "created_at": "2026-05-19T01:02:39.909148"
+            },
+            "created_at": "2026-05-19T01:02:45.112744",
+            "id": "timeline_15"
+        },
+        "created_at": "2026-05-19T01:02:45.121538",
+        "id": "events_15"
+    },
+    {
+        "name": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+        "type": "events",
+        "data": {
+            "world_id": null,
+            "world_name": null,
+            "year": 1,
+            "event_type": "Encuentro",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+            "data": {
+                "type": "encounter",
+                "encounter_type": "Investigación",
+                "risk": "Bajo",
+                "context": "Desafío de liderazgo",
+                "context_modifiers": {
+                    "influence": 4,
+                    "social": 2
+                },
+                "actor_a": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "influence",
+                    "score": 10,
+                    "roll": 9,
+                    "total": 19,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 12,
+                            "social": 7,
+                            "arcane": 7,
+                            "control": 2,
+                            "stealth": 7,
+                            "knowledge": 2,
+                            "influence": 6,
+                            "initiative": 1,
+                            "risk": 1,
+                            "total": 64
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 7,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 7,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "arcane": 2,
+                            "influence": 2,
+                            "resistance": 1
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 2,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": -1,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {
+                            "arcane": 3,
+                            "resistance": 1,
+                            "risk": 1
+                        }
+                    },
+                    "external_modifiers": {
+                        "influence": 4,
+                        "social": 2
+                    }
+                },
+                "actor_b": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "knowledge",
+                    "score": 4,
+                    "roll": 19,
+                    "total": 23,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 14,
+                            "combat": 16,
+                            "defense": 14,
+                            "damage": 3,
+                            "resistance": 14,
+                            "social": 11,
+                            "arcane": 4,
+                            "control": 3,
+                            "stealth": 14,
+                            "knowledge": 4,
+                            "influence": 7,
+                            "initiative": 2,
+                            "risk": 0,
+                            "total": 92
+                        },
+                        "base": {
+                            "base": 14,
+                            "combat": 14,
+                            "defense": 14,
+                            "damage": 3,
+                            "resistance": 14,
+                            "social": 11,
+                            "arcane": 4,
+                            "control": 3,
+                            "stealth": 14,
+                            "knowledge": 4,
+                            "influence": 7,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "influence": 4,
+                        "social": 2
+                    }
+                },
+                "method_a": "Recursos",
+                "method_b": "Tecnología",
+                "domain_a": "influence",
+                "domain_b": "knowledge",
+                "margin": -4,
+                "winner": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "knowledge",
+                    "score": 4,
+                    "roll": 19,
+                    "total": 23,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 14,
+                            "combat": 16,
+                            "defense": 14,
+                            "damage": 3,
+                            "resistance": 14,
+                            "social": 11,
+                            "arcane": 4,
+                            "control": 3,
+                            "stealth": 14,
+                            "knowledge": 4,
+                            "influence": 7,
+                            "initiative": 2,
+                            "risk": 0,
+                            "total": 92
+                        },
+                        "base": {
+                            "base": 14,
+                            "combat": 14,
+                            "defense": 14,
+                            "damage": 3,
+                            "resistance": 14,
+                            "social": 11,
+                            "arcane": 4,
+                            "control": 3,
+                            "stealth": 14,
+                            "knowledge": 4,
+                            "influence": 7,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "influence": 4,
+                        "social": 2
+                    }
+                },
+                "loser": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "influence",
+                    "score": 10,
+                    "roll": 9,
+                    "total": 19,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 12,
+                            "social": 7,
+                            "arcane": 7,
+                            "control": 2,
+                            "stealth": 7,
+                            "knowledge": 2,
+                            "influence": 6,
+                            "initiative": 1,
+                            "risk": 1,
+                            "total": 64
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 7,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 7,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "arcane": 2,
+                            "influence": 2,
+                            "resistance": 1
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 2,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": -1,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {
+                            "arcane": 3,
+                            "resistance": 1,
+                            "risk": 1
+                        }
+                    },
+                    "external_modifiers": {
+                        "influence": 4,
+                        "social": 2
+                    }
+                },
+                "interpretation": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "consequence": {
+                    "risk": "Bajo",
+                    "margin": -4,
+                    "severity": "menor",
+                    "modifier": "victoria clara",
+                    "consequence": "Vergüenza temporal",
+                    "description": "Vergüenza temporal (menor, victoria clara)"
+                },
+                "created_at": "2026-05-19T01:02:47.723890"
+            },
+            "created_at": "2026-05-19T01:02:49.857201",
+            "id": "timeline_16"
+        },
+        "created_at": "2026-05-19T01:02:49.866972",
+        "id": "events_16"
+    },
+    {
+        "name": "Alma domina ampliamente a Claude. El resultado puede alterar su posición en el mundo.",
+        "type": "events",
+        "data": {
+            "world_id": null,
+            "world_name": null,
+            "year": 1,
+            "event_type": "Encuentro",
+            "target": {
+                "id": "npcs_3",
+                "name": "Alma",
+                "type": "npcs"
+            },
+            "description": "Alma domina ampliamente a Claude. El resultado puede alterar su posición en el mundo.",
+            "data": {
+                "type": "encounter",
+                "encounter_type": "Combate",
+                "risk": "Moderado",
+                "context": "Dominio demoníaco",
+                "context_modifiers": {
+                    "arcane": 4,
+                    "risk": 5,
+                    "social": -3
+                },
+                "actor_a": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 8,
+                    "roll": 17,
+                    "total": 25,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 14,
+                            "social": 9,
+                            "arcane": 14,
+                            "control": 6,
+                            "stealth": 4,
+                            "knowledge": 2,
+                            "influence": 6,
+                            "initiative": 1,
+                            "risk": 5,
+                            "total": 72
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 5,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 4,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "social": 4,
+                            "influence": 4
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "arcane": 4,
+                        "risk": 5,
+                        "social": -3
+                    }
+                },
+                "actor_b": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 12,
+                    "roll": 4,
+                    "total": 16,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 10,
+                            "combat": 12,
+                            "defense": 10,
+                            "damage": 2,
+                            "resistance": 10,
+                            "social": 9,
+                            "arcane": 5,
+                            "control": 2,
+                            "stealth": 8,
+                            "knowledge": 3,
+                            "influence": 5,
+                            "initiative": -1,
+                            "risk": 0,
+                            "total": 65
+                        },
+                        "base": {
+                            "base": 10,
+                            "combat": 10,
+                            "defense": 10,
+                            "damage": 2,
+                            "resistance": 10,
+                            "social": 9,
+                            "arcane": 5,
+                            "control": 2,
+                            "stealth": 8,
+                            "knowledge": 3,
+                            "influence": 5,
+                            "initiative": -1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "arcane": 4,
+                        "risk": 5,
+                        "social": -3
+                    }
+                },
+                "method_a": "Intimidación",
+                "method_b": "Intimidación",
+                "domain_a": "combat",
+                "domain_b": "combat",
+                "margin": 9,
+                "winner": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 8,
+                    "roll": 17,
+                    "total": 25,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 14,
+                            "social": 9,
+                            "arcane": 14,
+                            "control": 6,
+                            "stealth": 4,
+                            "knowledge": 2,
+                            "influence": 6,
+                            "initiative": 1,
+                            "risk": 5,
+                            "total": 72
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 5,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 4,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "social": 4,
+                            "influence": 4
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "arcane": 4,
+                        "risk": 5,
+                        "social": -3
+                    }
+                },
+                "loser": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 12,
+                    "roll": 4,
+                    "total": 16,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 10,
+                            "combat": 12,
+                            "defense": 10,
+                            "damage": 2,
+                            "resistance": 10,
+                            "social": 9,
+                            "arcane": 5,
+                            "control": 2,
+                            "stealth": 8,
+                            "knowledge": 3,
+                            "influence": 5,
+                            "initiative": -1,
+                            "risk": 0,
+                            "total": 65
+                        },
+                        "base": {
+                            "base": 10,
+                            "combat": 10,
+                            "defense": 10,
+                            "damage": 2,
+                            "resistance": 10,
+                            "social": 9,
+                            "arcane": 5,
+                            "control": 2,
+                            "stealth": 8,
+                            "knowledge": 3,
+                            "influence": 5,
+                            "initiative": -1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "arcane": 4,
+                        "risk": 5,
+                        "social": -3
+                    }
+                },
+                "interpretation": "Alma domina ampliamente a Claude. El resultado puede alterar su posición en el mundo.",
+                "consequence": {
+                    "risk": "Moderado",
+                    "margin": 9,
+                    "severity": "media",
+                    "modifier": "victoria aplastante",
+                    "consequence": "Pérdida de reputación",
+                    "description": "Pérdida de reputación (media, victoria aplastante)"
+                },
+                "created_at": "2026-05-19T11:45:48.052441"
+            },
+            "created_at": "2026-05-19T11:45:55.995138",
+            "id": "timeline_17"
+        },
+        "created_at": "2026-05-19T11:45:56.006865",
+        "id": "events_17"
+    },
+    {
+        "name": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+        "type": "events",
+        "data": {
+            "world_id": null,
+            "world_name": null,
+            "year": 1,
+            "event_type": "Encuentro",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+            "data": {
+                "type": "encounter",
+                "encounter_type": "Combate",
+                "risk": "Mortal",
+                "context": "Guerra abierta",
+                "context_modifiers": {
+                    "combat": 4,
+                    "damage": 2,
+                    "risk": 5
+                },
+                "actor_a": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 12,
+                    "roll": 3,
+                    "total": 15,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 14,
+                            "social": 12,
+                            "arcane": 14,
+                            "control": 6,
+                            "stealth": 3,
+                            "knowledge": 2,
+                            "influence": 6,
+                            "initiative": 0,
+                            "risk": 5,
+                            "total": 73
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 8,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 3,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "social": 4,
+                            "influence": 4
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "actor_b": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 20,
+                    "roll": 3,
+                    "total": 23,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 14,
+                            "combat": 16,
+                            "defense": 14,
+                            "damage": 3,
+                            "resistance": 14,
+                            "social": 11,
+                            "arcane": 4,
+                            "control": 3,
+                            "stealth": 14,
+                            "knowledge": 4,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 0,
+                            "total": 89
+                        },
+                        "base": {
+                            "base": 14,
+                            "combat": 14,
+                            "defense": 14,
+                            "damage": 3,
+                            "resistance": 14,
+                            "social": 11,
+                            "arcane": 4,
+                            "control": 3,
+                            "stealth": 14,
+                            "knowledge": 4,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "method_a": "Fuerza",
+                "method_b": "Fuerza",
+                "domain_a": "combat",
+                "domain_b": "combat",
+                "margin": -8,
+                "winner": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 20,
+                    "roll": 3,
+                    "total": 23,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 14,
+                            "combat": 16,
+                            "defense": 14,
+                            "damage": 3,
+                            "resistance": 14,
+                            "social": 11,
+                            "arcane": 4,
+                            "control": 3,
+                            "stealth": 14,
+                            "knowledge": 4,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 0,
+                            "total": 89
+                        },
+                        "base": {
+                            "base": 14,
+                            "combat": 14,
+                            "defense": 14,
+                            "damage": 3,
+                            "resistance": 14,
+                            "social": 11,
+                            "arcane": 4,
+                            "control": 3,
+                            "stealth": 14,
+                            "knowledge": 4,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "loser": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 12,
+                    "roll": 3,
+                    "total": 15,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 14,
+                            "social": 12,
+                            "arcane": 14,
+                            "control": 6,
+                            "stealth": 3,
+                            "knowledge": 2,
+                            "influence": 6,
+                            "initiative": 0,
+                            "risk": 5,
+                            "total": 73
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 8,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 3,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "social": 4,
+                            "influence": 4
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "interpretation": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "consequence": {
+                    "risk": "Mortal",
+                    "margin": -8,
+                    "severity": "crítica",
+                    "modifier": "victoria clara",
+                    "consequence": "Sacrificio involuntario",
+                    "description": "Sacrificio involuntario (crítica, victoria clara)"
+                },
+                "created_at": "2026-05-19T11:48:27.178007"
+            },
+            "created_at": "2026-05-19T11:48:29.348482",
+            "id": "timeline_18"
+        },
+        "created_at": "2026-05-19T11:48:29.360208",
+        "id": "events_18"
+    },
+    {
+        "name": "Claude domina ampliamente a Alma. El resultado puede alterar su posición en el mundo.",
+        "type": "events",
+        "data": {
+            "world_id": null,
+            "world_name": null,
+            "year": 1,
+            "event_type": "Encuentro",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Claude domina ampliamente a Alma. El resultado puede alterar su posición en el mundo.",
+            "data": {
+                "type": "encounter",
+                "encounter_type": "Combate",
+                "risk": "Mortal",
+                "context": "Guerra abierta",
+                "context_modifiers": {
+                    "combat": 4,
+                    "damage": 2,
+                    "risk": 5
+                },
+                "actor_a": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 4,
+                    "roll": 4,
+                    "total": 8,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 0,
+                            "defense": 5,
+                            "damage": 2,
+                            "resistance": 6,
+                            "social": 7,
+                            "arcane": 14,
+                            "control": 6,
+                            "stealth": 3,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": -5,
+                            "risk": 13,
+                            "total": 29
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 7,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 3,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "combat": -8,
+                            "defense": -6,
+                            "resistance": -8,
+                            "initiative": -5,
+                            "risk": 8
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "actor_b": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 14,
+                    "roll": 6,
+                    "total": 20,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 10,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 5,
+                            "arcane": 4,
+                            "control": 2,
+                            "stealth": 7,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 0,
+                            "total": 53
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 5,
+                            "arcane": 4,
+                            "control": 2,
+                            "stealth": 7,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "method_a": "Fuerza",
+                "method_b": "Fuerza",
+                "domain_a": "combat",
+                "domain_b": "combat",
+                "margin": -12,
+                "winner": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 14,
+                    "roll": 6,
+                    "total": 20,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 10,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 5,
+                            "arcane": 4,
+                            "control": 2,
+                            "stealth": 7,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 0,
+                            "total": 53
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 5,
+                            "arcane": 4,
+                            "control": 2,
+                            "stealth": 7,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "loser": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 4,
+                    "roll": 4,
+                    "total": 8,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 0,
+                            "defense": 5,
+                            "damage": 2,
+                            "resistance": 6,
+                            "social": 7,
+                            "arcane": 14,
+                            "control": 6,
+                            "stealth": 3,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": -5,
+                            "risk": 13,
+                            "total": 29
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 7,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 3,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "combat": -8,
+                            "defense": -6,
+                            "resistance": -8,
+                            "initiative": -5,
+                            "risk": 8
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "interpretation": "Claude domina ampliamente a Alma. El resultado puede alterar su posición en el mundo.",
+                "consequence": {
+                    "risk": "Mortal",
+                    "margin": -12,
+                    "severity": "crítica",
+                    "modifier": "victoria aplastante",
+                    "consequence": "Mutilación",
+                    "description": "Mutilación (crítica, victoria aplastante)"
+                },
+                "created_at": "2026-05-19T11:48:34.556182"
+            },
+            "created_at": "2026-05-19T11:48:35.101473",
+            "id": "timeline_19"
+        },
+        "created_at": "2026-05-19T11:48:35.112221",
+        "id": "events_19"
+    },
+    {
+        "name": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+        "type": "events",
+        "data": {
+            "world_id": null,
+            "world_name": null,
+            "year": 1,
+            "event_type": "Encuentro",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+            "data": {
+                "type": "encounter",
+                "encounter_type": "Combate",
+                "risk": "Mortal",
+                "context": "Guerra abierta",
+                "context_modifiers": {
+                    "combat": 4,
+                    "damage": 2,
+                    "risk": 5
+                },
+                "actor_a": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 8,
+                    "roll": 4,
+                    "total": 12,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 4,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 14,
+                            "social": 4,
+                            "arcane": 14,
+                            "control": 6,
+                            "stealth": 5,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": -3,
+                            "risk": 5,
+                            "total": 56
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 4,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 5,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": -1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "combat": -4,
+                            "initiative": -2
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "actor_b": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 15,
+                    "roll": 4,
+                    "total": 19,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 9,
+                            "combat": 11,
+                            "defense": 9,
+                            "damage": 2,
+                            "resistance": 9,
+                            "social": 9,
+                            "arcane": 3,
+                            "control": 2,
+                            "stealth": 3,
+                            "knowledge": 3,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 0,
+                            "total": 57
+                        },
+                        "base": {
+                            "base": 9,
+                            "combat": 9,
+                            "defense": 9,
+                            "damage": 2,
+                            "resistance": 9,
+                            "social": 9,
+                            "arcane": 3,
+                            "control": 2,
+                            "stealth": 3,
+                            "knowledge": 3,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "method_a": "Fuerza",
+                "method_b": "Fuerza",
+                "domain_a": "combat",
+                "domain_b": "combat",
+                "margin": -7,
+                "winner": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 15,
+                    "roll": 4,
+                    "total": 19,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 9,
+                            "combat": 11,
+                            "defense": 9,
+                            "damage": 2,
+                            "resistance": 9,
+                            "social": 9,
+                            "arcane": 3,
+                            "control": 2,
+                            "stealth": 3,
+                            "knowledge": 3,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 0,
+                            "total": 57
+                        },
+                        "base": {
+                            "base": 9,
+                            "combat": 9,
+                            "defense": 9,
+                            "damage": 2,
+                            "resistance": 9,
+                            "social": 9,
+                            "arcane": 3,
+                            "control": 2,
+                            "stealth": 3,
+                            "knowledge": 3,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "loser": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 8,
+                    "roll": 4,
+                    "total": 12,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 4,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 14,
+                            "social": 4,
+                            "arcane": 14,
+                            "control": 6,
+                            "stealth": 5,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": -3,
+                            "risk": 5,
+                            "total": 56
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 4,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 5,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": -1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "combat": -4,
+                            "initiative": -2
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "interpretation": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "consequence": {
+                    "risk": "Mortal",
+                    "margin": -7,
+                    "severity": "crítica",
+                    "modifier": "victoria clara",
+                    "consequence": "Sacrificio involuntario",
+                    "description": "Sacrificio involuntario (crítica, victoria clara)"
+                },
+                "created_at": "2026-05-19T11:48:37.479030"
+            },
+            "created_at": "2026-05-19T11:48:37.831844",
+            "id": "timeline_20"
+        },
+        "created_at": "2026-05-19T11:48:37.843569",
+        "id": "events_20"
+    },
+    {
+        "name": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+        "type": "events",
+        "data": {
+            "world_id": null,
+            "world_name": null,
+            "year": 1,
+            "event_type": "Encuentro",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+            "data": {
+                "type": "encounter",
+                "encounter_type": "Combate",
+                "risk": "Mortal",
+                "context": "Guerra abierta",
+                "context_modifiers": {
+                    "combat": 4,
+                    "damage": 2,
+                    "risk": 5
+                },
+                "actor_a": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 4,
+                    "roll": 8,
+                    "total": 12,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 0,
+                            "defense": 5,
+                            "damage": 2,
+                            "resistance": 6,
+                            "social": 7,
+                            "arcane": 14,
+                            "control": 6,
+                            "stealth": 2,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": -3,
+                            "risk": 13,
+                            "total": 30
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 7,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 2,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "combat": -8,
+                            "defense": -6,
+                            "resistance": -8,
+                            "initiative": -5,
+                            "risk": 8
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "actor_b": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 19,
+                    "roll": 1,
+                    "total": 20,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 13,
+                            "combat": 15,
+                            "defense": 13,
+                            "damage": 3,
+                            "resistance": 13,
+                            "social": 13,
+                            "arcane": 6,
+                            "control": 3,
+                            "stealth": 11,
+                            "knowledge": 4,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 0,
+                            "total": 86
+                        },
+                        "base": {
+                            "base": 13,
+                            "combat": 13,
+                            "defense": 13,
+                            "damage": 3,
+                            "resistance": 13,
+                            "social": 13,
+                            "arcane": 6,
+                            "control": 3,
+                            "stealth": 11,
+                            "knowledge": 4,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "method_a": "Fuerza",
+                "method_b": "Fuerza",
+                "domain_a": "combat",
+                "domain_b": "combat",
+                "margin": -8,
+                "winner": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 19,
+                    "roll": 1,
+                    "total": 20,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 13,
+                            "combat": 15,
+                            "defense": 13,
+                            "damage": 3,
+                            "resistance": 13,
+                            "social": 13,
+                            "arcane": 6,
+                            "control": 3,
+                            "stealth": 11,
+                            "knowledge": 4,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 0,
+                            "total": 86
+                        },
+                        "base": {
+                            "base": 13,
+                            "combat": 13,
+                            "defense": 13,
+                            "damage": 3,
+                            "resistance": 13,
+                            "social": 13,
+                            "arcane": 6,
+                            "control": 3,
+                            "stealth": 11,
+                            "knowledge": 4,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "loser": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 4,
+                    "roll": 8,
+                    "total": 12,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 0,
+                            "defense": 5,
+                            "damage": 2,
+                            "resistance": 6,
+                            "social": 7,
+                            "arcane": 14,
+                            "control": 6,
+                            "stealth": 2,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": -3,
+                            "risk": 13,
+                            "total": 30
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 7,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 2,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "combat": -8,
+                            "defense": -6,
+                            "resistance": -8,
+                            "initiative": -5,
+                            "risk": 8
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "interpretation": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "consequence": {
+                    "risk": "Mortal",
+                    "margin": -8,
+                    "severity": "crítica",
+                    "modifier": "victoria clara",
+                    "consequence": "Corrupción severa",
+                    "description": "Corrupción severa (crítica, victoria clara)"
+                },
+                "created_at": "2026-05-19T11:48:39.579458"
+            },
+            "created_at": "2026-05-19T11:48:39.830776",
+            "id": "timeline_21"
+        },
+        "created_at": "2026-05-19T11:48:39.842502",
+        "id": "events_21"
+    },
+    {
+        "name": "Claude supera por muy poco a Alma. La victoria tiene costo, duda o consecuencia.",
+        "type": "events",
+        "data": {
+            "world_id": null,
+            "world_name": null,
+            "year": 1,
+            "event_type": "Encuentro",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Claude supera por muy poco a Alma. La victoria tiene costo, duda o consecuencia.",
+            "data": {
+                "type": "encounter",
+                "encounter_type": "Combate",
+                "risk": "Mortal",
+                "context": "Guerra abierta",
+                "context_modifiers": {
+                    "combat": 4,
+                    "damage": 2,
+                    "risk": 5
+                },
+                "actor_a": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 12,
+                    "roll": 5,
+                    "total": 17,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 14,
+                            "social": 6,
+                            "arcane": 20,
+                            "control": 3,
+                            "stealth": 2,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 9,
+                            "total": 65
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 6,
+                            "arcane": 4,
+                            "control": 2,
+                            "stealth": 2,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "arcane": 4,
+                            "control": -3,
+                            "risk": 4
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "actor_b": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 17,
+                    "roll": 3,
+                    "total": 20,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 11,
+                            "combat": 13,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 11,
+                            "social": 9,
+                            "arcane": 3,
+                            "control": 2,
+                            "stealth": 11,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 2,
+                            "risk": 0,
+                            "total": 70
+                        },
+                        "base": {
+                            "base": 11,
+                            "combat": 11,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 11,
+                            "social": 9,
+                            "arcane": 3,
+                            "control": 2,
+                            "stealth": 11,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "method_a": "Fuerza",
+                "method_b": "Fuerza",
+                "domain_a": "combat",
+                "domain_b": "combat",
+                "margin": -3,
+                "winner": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 17,
+                    "roll": 3,
+                    "total": 20,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 11,
+                            "combat": 13,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 11,
+                            "social": 9,
+                            "arcane": 3,
+                            "control": 2,
+                            "stealth": 11,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 2,
+                            "risk": 0,
+                            "total": 70
+                        },
+                        "base": {
+                            "base": 11,
+                            "combat": 11,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 11,
+                            "social": 9,
+                            "arcane": 3,
+                            "control": 2,
+                            "stealth": 11,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "loser": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 12,
+                    "roll": 5,
+                    "total": 17,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 14,
+                            "social": 6,
+                            "arcane": 20,
+                            "control": 3,
+                            "stealth": 2,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 9,
+                            "total": 65
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 6,
+                            "arcane": 4,
+                            "control": 2,
+                            "stealth": 2,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 2,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "arcane": 4,
+                            "control": -3,
+                            "risk": 4
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "interpretation": "Claude supera por muy poco a Alma. La victoria tiene costo, duda o consecuencia.",
+                "consequence": {
+                    "risk": "Mortal",
+                    "margin": -3,
+                    "severity": "crítica",
+                    "modifier": "victoria ajustada",
+                    "consequence": "Ejecución",
+                    "description": "Ejecución (crítica, victoria ajustada)"
+                },
+                "created_at": "2026-05-19T11:48:41.611582"
+            },
+            "created_at": "2026-05-19T11:48:41.919425",
+            "id": "timeline_22"
+        },
+        "created_at": "2026-05-19T11:48:41.932128",
+        "id": "events_22"
+    },
+    {
+        "name": "Claude supera por muy poco a Alma. La victoria tiene costo, duda o consecuencia.",
+        "type": "events",
+        "data": {
+            "world_id": null,
+            "world_name": null,
+            "year": 1,
+            "event_type": "Encuentro",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Claude supera por muy poco a Alma. La victoria tiene costo, duda o consecuencia.",
+            "data": {
+                "type": "encounter",
+                "encounter_type": "Combate",
+                "risk": "Mortal",
+                "context": "Guerra abierta",
+                "context_modifiers": {
+                    "combat": 4,
+                    "damage": 2,
+                    "risk": 5
+                },
+                "actor_a": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 12,
+                    "roll": 7,
+                    "total": 19,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 14,
+                            "social": 6,
+                            "arcane": 18,
+                            "control": 3,
+                            "stealth": 5,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 9,
+                            "total": 65
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 6,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 5,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "arcane": 4,
+                            "control": -3,
+                            "risk": 4
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "actor_b": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 13,
+                    "roll": 8,
+                    "total": 21,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 7,
+                            "combat": 9,
+                            "defense": 7,
+                            "damage": 1,
+                            "resistance": 7,
+                            "social": 6,
+                            "arcane": 3,
+                            "control": 1,
+                            "stealth": 4,
+                            "knowledge": 2,
+                            "influence": 3,
+                            "initiative": 1,
+                            "risk": 0,
+                            "total": 44
+                        },
+                        "base": {
+                            "base": 7,
+                            "combat": 7,
+                            "defense": 7,
+                            "damage": 1,
+                            "resistance": 7,
+                            "social": 6,
+                            "arcane": 3,
+                            "control": 1,
+                            "stealth": 4,
+                            "knowledge": 2,
+                            "influence": 3,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "method_a": "Fuerza",
+                "method_b": "Fuerza",
+                "domain_a": "combat",
+                "domain_b": "combat",
+                "margin": -2,
+                "winner": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 13,
+                    "roll": 8,
+                    "total": 21,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 7,
+                            "combat": 9,
+                            "defense": 7,
+                            "damage": 1,
+                            "resistance": 7,
+                            "social": 6,
+                            "arcane": 3,
+                            "control": 1,
+                            "stealth": 4,
+                            "knowledge": 2,
+                            "influence": 3,
+                            "initiative": 1,
+                            "risk": 0,
+                            "total": 44
+                        },
+                        "base": {
+                            "base": 7,
+                            "combat": 7,
+                            "defense": 7,
+                            "damage": 1,
+                            "resistance": 7,
+                            "social": 6,
+                            "arcane": 3,
+                            "control": 1,
+                            "stealth": 4,
+                            "knowledge": 2,
+                            "influence": 3,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "loser": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 12,
+                    "roll": 7,
+                    "total": 19,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 14,
+                            "social": 6,
+                            "arcane": 18,
+                            "control": 3,
+                            "stealth": 5,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 9,
+                            "total": 65
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 6,
+                            "arcane": 2,
+                            "control": 2,
+                            "stealth": 5,
+                            "knowledge": 2,
+                            "influence": 4,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "arcane": 4,
+                            "control": -3,
+                            "risk": 4
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 4,
+                        "damage": 2,
+                        "risk": 5
+                    }
+                },
+                "interpretation": "Claude supera por muy poco a Alma. La victoria tiene costo, duda o consecuencia.",
+                "consequence": {
+                    "risk": "Mortal",
+                    "margin": -2,
+                    "severity": "crítica",
+                    "modifier": "victoria ajustada",
+                    "consequence": "Ejecución",
+                    "description": "Ejecución (crítica, victoria ajustada)"
+                },
+                "created_at": "2026-05-19T11:48:47.294483"
+            },
+            "created_at": "2026-05-19T11:48:50.661903",
+            "id": "timeline_23"
+        },
+        "created_at": "2026-05-19T11:48:50.674606",
+        "id": "events_23"
+    },
+    {
+        "name": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+        "type": "events",
+        "data": {
+            "world_id": null,
+            "world_name": null,
+            "year": 1,
+            "event_type": "Encuentro",
+            "target": {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            "description": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+            "data": {
+                "type": "encounter",
+                "encounter_type": "Cacería",
+                "risk": "Mortal",
+                "context": "Confrontación final",
+                "context_modifiers": {
+                    "combat": 3,
+                    "arcane": 2,
+                    "influence": 2,
+                    "risk": 6,
+                    "death_risk": 5,
+                    "injury_risk": 5
+                },
+                "actor_a": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 11,
+                    "roll": 11,
+                    "total": 22,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 14,
+                            "social": 6,
+                            "arcane": 20,
+                            "control": 3,
+                            "stealth": 6,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": -1,
+                            "risk": 9,
+                            "total": 64
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 6,
+                            "arcane": 4,
+                            "control": 2,
+                            "stealth": 6,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": -1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "arcane": 4,
+                            "control": -3,
+                            "risk": 4
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 3,
+                        "arcane": 2,
+                        "influence": 2,
+                        "risk": 6,
+                        "death_risk": 5,
+                        "injury_risk": 5
+                    }
+                },
+                "actor_b": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 16,
+                    "roll": 12,
+                    "total": 28,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 11,
+                            "combat": 13,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 11,
+                            "social": 8,
+                            "arcane": 3,
+                            "control": 2,
+                            "stealth": 11,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 1,
+                            "risk": 0,
+                            "total": 68
+                        },
+                        "base": {
+                            "base": 11,
+                            "combat": 11,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 11,
+                            "social": 8,
+                            "arcane": 3,
+                            "control": 2,
+                            "stealth": 11,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 3,
+                        "arcane": 2,
+                        "influence": 2,
+                        "risk": 6,
+                        "death_risk": 5,
+                        "injury_risk": 5
+                    }
+                },
+                "method_a": "Fuerza",
+                "method_b": "Fuerza",
+                "domain_a": "combat",
+                "domain_b": "combat",
+                "margin": -6,
+                "winner": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 16,
+                    "roll": 12,
+                    "total": 28,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 11,
+                            "combat": 13,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 11,
+                            "social": 8,
+                            "arcane": 3,
+                            "control": 2,
+                            "stealth": 11,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 1,
+                            "risk": 0,
+                            "total": 68
+                        },
+                        "base": {
+                            "base": 11,
+                            "combat": 11,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 11,
+                            "social": 8,
+                            "arcane": 3,
+                            "control": 2,
+                            "stealth": 11,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "combat": 3,
+                        "arcane": 2,
+                        "influence": 2,
+                        "risk": 6,
+                        "death_risk": 5,
+                        "injury_risk": 5
+                    }
+                },
+                "loser": {
+                    "entity": {
+                        "id": "npcs_3",
+                        "name": "Alma",
+                        "type": "npcs"
+                    },
+                    "domain": "combat",
+                    "score": 11,
+                    "roll": 11,
+                    "total": 22,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_3",
+                            "name": "Alma",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 14,
+                            "social": 6,
+                            "arcane": 20,
+                            "control": 3,
+                            "stealth": 6,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": -1,
+                            "risk": 9,
+                            "total": 64
+                        },
+                        "base": {
+                            "base": 8,
+                            "combat": 8,
+                            "defense": 8,
+                            "damage": 2,
+                            "resistance": 8,
+                            "social": 6,
+                            "arcane": 4,
+                            "control": 2,
+                            "stealth": 6,
+                            "knowledge": 2,
+                            "influence": 2,
+                            "initiative": -1,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 3,
+                            "damage": 0,
+                            "resistance": 3,
+                            "arcane": 1,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {
+                            "arcane": 4,
+                            "control": -3,
+                            "risk": 4
+                        },
+                        "traits_modifiers": {
+                            "arcane": 11,
+                            "resistance": 3,
+                            "risk": 5,
+                            "control": 4
+                        }
+                    },
+                    "external_modifiers": {
+                        "combat": 3,
+                        "arcane": 2,
+                        "influence": 2,
+                        "risk": 6,
+                        "death_risk": 5,
+                        "injury_risk": 5
+                    }
+                },
+                "interpretation": "Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "consequence": {
+                    "risk": "Mortal",
+                    "margin": -6,
+                    "severity": "crítica",
+                    "modifier": "victoria clara",
+                    "consequence": "Muerte posible",
+                    "resolution": {
+                        "outcome_type": "victoria devastadora con daño mutuo",
+                        "margin_classification": "victoria clara",
+                        "danger_score": 27,
+                        "mutual_damage": true,
+                        "mutual_damage_chance": 35,
+                        "mutual_damage_roll": 26,
+                        "risk": "Mortal",
+                        "margin": -6
+                    },
+                    "description": "Muerte posible (crítica, victoria clara; victoria devastadora con daño mutuo)"
+                },
+                "created_at": "2026-05-19T13:59:59.487106"
+            },
+            "created_at": "2026-05-19T14:00:14.202199",
+            "id": "timeline_24"
+        },
+        "created_at": "2026-05-19T14:00:14.215878",
+        "id": "events_24"
+    },
+    {
+        "name": "Markus domina ampliamente a Claude. El resultado puede alterar su posición en el mundo.",
+        "type": "events",
+        "data": {
+            "world_id": null,
+            "world_name": null,
+            "year": 1,
+            "event_type": "Encuentro",
+            "target": {
+                "id": "npcs_4",
+                "name": "Markus",
+                "type": "npcs"
+            },
+            "description": "Markus domina ampliamente a Claude. El resultado puede alterar su posición en el mundo.",
+            "data": {
+                "type": "encounter",
+                "encounter_type": "Ritual",
+                "risk": "Mortal",
+                "context": "Ritual prohibido",
+                "context_modifiers": {
+                    "arcane": 4,
+                    "risk": 4,
+                    "control": -2
+                },
+                "actor_a": {
+                    "entity": {
+                        "id": "npcs_4",
+                        "name": "Markus",
+                        "type": "npcs"
+                    },
+                    "domain": "arcane",
+                    "score": 9,
+                    "roll": 9,
+                    "total": 18,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_4",
+                            "name": "Markus",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 10,
+                            "combat": 10,
+                            "defense": 10,
+                            "damage": 2,
+                            "resistance": 10,
+                            "social": 10,
+                            "arcane": 5,
+                            "control": 2,
+                            "stealth": 10,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 0,
+                            "risk": 0,
+                            "total": 65
+                        },
+                        "base": {
+                            "base": 10,
+                            "combat": 10,
+                            "defense": 10,
+                            "damage": 2,
+                            "resistance": 10,
+                            "social": 10,
+                            "arcane": 5,
+                            "control": 2,
+                            "stealth": 10,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "arcane": 4,
+                        "risk": 4,
+                        "control": -2
+                    }
+                },
+                "actor_b": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "influence",
+                    "score": 3,
+                    "roll": 4,
+                    "total": 7,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 11,
+                            "combat": 15,
+                            "defense": 13,
+                            "damage": 5,
+                            "resistance": 14,
+                            "social": 11,
+                            "arcane": 11,
+                            "control": 6,
+                            "stealth": 7,
+                            "knowledge": 4,
+                            "influence": 3,
+                            "initiative": -1,
+                            "risk": 2,
+                            "total": 86
+                        },
+                        "base": {
+                            "base": 11,
+                            "combat": 11,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 11,
+                            "social": 11,
+                            "arcane": 5,
+                            "control": 2,
+                            "stealth": 7,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 2,
+                            "defense": 2,
+                            "damage": 3,
+                            "resistance": 1,
+                            "arcane": 3,
+                            "control": 3,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": -1,
+                            "risk": 2
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {
+                            "resistance": 2,
+                            "arcane": 3,
+                            "control": 1,
+                            "knowledge": 1
+                        }
+                    },
+                    "external_modifiers": {
+                        "arcane": 4,
+                        "risk": 4,
+                        "control": -2
+                    }
+                },
+                "method_a": "Magia",
+                "method_b": "Recursos",
+                "domain_a": "arcane",
+                "domain_b": "influence",
+                "margin": 11,
+                "winner": {
+                    "entity": {
+                        "id": "npcs_4",
+                        "name": "Markus",
+                        "type": "npcs"
+                    },
+                    "domain": "arcane",
+                    "score": 9,
+                    "roll": 9,
+                    "total": 18,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_4",
+                            "name": "Markus",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 10,
+                            "combat": 10,
+                            "defense": 10,
+                            "damage": 2,
+                            "resistance": 10,
+                            "social": 10,
+                            "arcane": 5,
+                            "control": 2,
+                            "stealth": 10,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 0,
+                            "risk": 0,
+                            "total": 65
+                        },
+                        "base": {
+                            "base": 10,
+                            "combat": 10,
+                            "defense": 10,
+                            "damage": 2,
+                            "resistance": 10,
+                            "social": 10,
+                            "arcane": 5,
+                            "control": 2,
+                            "stealth": 10,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {},
+                        "equipment_effects": {
+                            "combat": 0,
+                            "defense": 0,
+                            "damage": 0,
+                            "resistance": 0,
+                            "arcane": 0,
+                            "control": 0,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {}
+                    },
+                    "external_modifiers": {
+                        "arcane": 4,
+                        "risk": 4,
+                        "control": -2
+                    }
+                },
+                "loser": {
+                    "entity": {
+                        "id": "npcs_1",
+                        "name": "Claude",
+                        "type": "npcs"
+                    },
+                    "domain": "influence",
+                    "score": 3,
+                    "roll": 4,
+                    "total": 7,
+                    "breakdown": {
+                        "entity": {
+                            "id": "npcs_1",
+                            "name": "Claude",
+                            "type": "npcs"
+                        },
+                        "power": {
+                            "base": 11,
+                            "combat": 15,
+                            "defense": 13,
+                            "damage": 5,
+                            "resistance": 14,
+                            "social": 11,
+                            "arcane": 11,
+                            "control": 6,
+                            "stealth": 7,
+                            "knowledge": 4,
+                            "influence": 3,
+                            "initiative": -1,
+                            "risk": 2,
+                            "total": 86
+                        },
+                        "base": {
+                            "base": 11,
+                            "combat": 11,
+                            "defense": 11,
+                            "damage": 2,
+                            "resistance": 11,
+                            "social": 11,
+                            "arcane": 5,
+                            "control": 2,
+                            "stealth": 7,
+                            "knowledge": 3,
+                            "influence": 3,
+                            "initiative": 0,
+                            "risk": 0
+                        },
+                        "relation_bonuses": {
+                            "combat": 2
+                        },
+                        "equipment_effects": {
+                            "combat": 2,
+                            "defense": 2,
+                            "damage": 3,
+                            "resistance": 1,
+                            "arcane": 3,
+                            "control": 3,
+                            "stealth": 0,
+                            "knowledge": 0,
+                            "social": 0,
+                            "influence": 0,
+                            "initiative": -1,
+                            "risk": 2
+                        },
+                        "status_modifiers": {},
+                        "traits_modifiers": {
+                            "resistance": 2,
+                            "arcane": 3,
+                            "control": 1,
+                            "knowledge": 1
+                        }
+                    },
+                    "external_modifiers": {
+                        "arcane": 4,
+                        "risk": 4,
+                        "control": -2
+                    }
+                },
+                "interpretation": "Markus domina ampliamente a Claude. El resultado puede alterar su posición en el mundo.",
+                "consequence": {
+                    "risk": "Mortal",
+                    "margin": 11,
+                    "severity": "crítica",
+                    "modifier": "victoria aplastante",
+                    "consequence": "Ejecución",
+                    "resolution": {
+                        "outcome_type": "victoria aplastante",
+                        "margin_classification": "victoria aplastante",
+                        "danger_score": 17,
+                        "mutual_damage": false,
+                        "mutual_damage_chance": 25,
+                        "mutual_damage_roll": 68,
+                        "risk": "Mortal",
+                        "margin": 11
+                    },
+                    "description": "Ejecución (crítica, victoria aplastante; victoria aplastante)"
+                },
+                "created_at": "2026-05-19T19:43:18.013131"
+            },
+            "created_at": "2026-05-19T19:43:30.070050",
+            "id": "timeline_25"
+        },
+        "created_at": "2026-05-19T19:43:30.084707",
+        "id": "events_25"
+    }
+]

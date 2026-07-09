@@ -1,0 +1,7 @@
+Sitio fantasma (0 habitantes vivos)|.3
+Aldea pequeña (menos de 100 habitantes)|1
+Aldea en crecimiento (100-500 habitantes)|1
+Pueblo consolidado (500-2000 habitantes)|1
+Ciudad pequeña (2000-10,000 habitantes)|1
+Ciudad grande (10,000-50,000 habitantes)|1
+Metrópolis (50,000+ habitantes)|1

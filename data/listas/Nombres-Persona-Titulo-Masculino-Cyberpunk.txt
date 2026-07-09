@@ -1,0 +1,49 @@
+Operador|10
+Runner|10
+Broker|10
+Agente|9
+Técnico|9
+Ghost|9
+Fixer|8
+Piloto|8
+Mercenario|8
+Ejecutor|8
+Hacker|7
+Especialista|7
+Doctor|7
+Ingeniero|7
+Detective|6
+Cazarrecompensas|6
+Contrabandista|6
+Explorador|6
+Vigilante|6
+Comandante|5
+Director|5
+Arquitecto|5
+Programador|5
+Analista|5
+Infiltrador|4
+Operativo|4
+Rebelde|4
+Nómada|4
+Forajido|4
+Sombra|3
+Fantasma|3
+Proxy|3
+Avatar|3
+Cyborg|3
+Sintético|3
+Clon|2
+Modelo|2
+Experimento|2
+Prototipo|2
+Unidad|2
+Eliminador|1
+Administrador|1
+Controlador|1
+Supervisor|1
+Traficante de datos|1
+Caminante digital|1
+Destructor de sistemas|1
+Último humano|1
+Sin registro|1

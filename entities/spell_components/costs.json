@@ -1,0 +1,752 @@
+[
+    {
+        "id": "cost_1",
+        "name": "Fatiga física",
+        "description": "Componente de hechizo asociado a fatiga física.",
+        "tags": [
+            "cost",
+            "fatiga_física"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_2",
+        "name": "Fatiga mental",
+        "description": "Componente de hechizo asociado a fatiga mental.",
+        "tags": [
+            "cost",
+            "fatiga_mental"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_3",
+        "name": "Dolor",
+        "description": "Componente de hechizo asociado a dolor.",
+        "tags": [
+            "cost",
+            "dolor"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_4",
+        "name": "Sangre",
+        "description": "Componente de hechizo asociado a sangre.",
+        "tags": [
+            "cost",
+            "sangre"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_5",
+        "name": "Recuerdos",
+        "description": "Componente de hechizo asociado a recuerdos.",
+        "tags": [
+            "cost",
+            "recuerdos"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_6",
+        "name": "Emociones",
+        "description": "Componente de hechizo asociado a emociones.",
+        "tags": [
+            "cost",
+            "emociones"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_7",
+        "name": "Material raro",
+        "description": "Componente de hechizo asociado a material raro.",
+        "tags": [
+            "cost",
+            "material_raro"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_8",
+        "name": "Tiempo de preparación",
+        "description": "Componente de hechizo asociado a tiempo de preparación.",
+        "tags": [
+            "cost",
+            "tiempo_de_preparación"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_9",
+        "name": "Deuda espiritual",
+        "description": "Componente de hechizo asociado a deuda espiritual.",
+        "tags": [
+            "cost",
+            "deuda_espiritual"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_10",
+        "name": "Corrupción",
+        "description": "Componente de hechizo asociado a corrupción.",
+        "tags": [
+            "cost",
+            "corrupción"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_11",
+        "name": "Atrae atención",
+        "description": "Componente de hechizo asociado a atrae atención.",
+        "tags": [
+            "cost",
+            "atrae_atención"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_12",
+        "name": "Daño colateral",
+        "description": "Componente de hechizo asociado a daño colateral.",
+        "tags": [
+            "cost",
+            "daño_colateral"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_13",
+        "name": "Inestabilidad",
+        "description": "Componente de hechizo asociado a inestabilidad.",
+        "tags": [
+            "cost",
+            "inestabilidad"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_14",
+        "name": "Marca visible",
+        "description": "Componente de hechizo asociado a marca visible.",
+        "tags": [
+            "cost",
+            "marca_visible"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_15",
+        "name": "Pérdida temporal",
+        "description": "Componente de hechizo asociado a pérdida temporal.",
+        "tags": [
+            "cost",
+            "pérdida_temporal"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_16",
+        "name": "Envejecimiento leve",
+        "description": "Componente de hechizo asociado a envejecimiento leve.",
+        "tags": [
+            "cost",
+            "envejecimiento_leve"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_17",
+        "name": "Sueño profundo",
+        "description": "Componente de hechizo asociado a sueño profundo.",
+        "tags": [
+            "cost",
+            "sueño_profundo"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_18",
+        "name": "Hambre intensa",
+        "description": "Componente de hechizo asociado a hambre intensa.",
+        "tags": [
+            "cost",
+            "hambre_intensa"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_19",
+        "name": "Pérdida de voz",
+        "description": "Componente de hechizo asociado a pérdida de voz.",
+        "tags": [
+            "cost",
+            "pérdida_de_voz"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_20",
+        "name": "Pérdida de sombra",
+        "description": "Componente de hechizo asociado a pérdida de sombra.",
+        "tags": [
+            "cost",
+            "pérdida_de_sombra"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_21",
+        "name": "Interferencia tecnológica",
+        "description": "Componente de hechizo asociado a interferencia tecnológica.",
+        "tags": [
+            "cost",
+            "interferencia_tecnológica"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_22",
+        "name": "Ofrenda simbólica",
+        "description": "Componente de hechizo asociado a ofrenda simbólica.",
+        "tags": [
+            "cost",
+            "ofrenda_simbólica"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_23",
+        "name": "Ofrenda valiosa",
+        "description": "Componente de hechizo asociado a ofrenda valiosa.",
+        "tags": [
+            "cost",
+            "ofrenda_valiosa"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_24",
+        "name": "Juramento obligatorio",
+        "description": "Componente de hechizo asociado a juramento obligatorio.",
+        "tags": [
+            "cost",
+            "juramento_obligatorio"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_25",
+        "name": "Dolor compartido",
+        "description": "Componente de hechizo asociado a dolor compartido.",
+        "tags": [
+            "cost",
+            "dolor_compartido"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_26",
+        "name": "Ruido arcano",
+        "description": "Componente de hechizo asociado a ruido arcano.",
+        "tags": [
+            "cost",
+            "ruido_arcano"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_27",
+        "name": "Sangrado de realidad",
+        "description": "Componente de hechizo asociado a sangrado de realidad.",
+        "tags": [
+            "cost",
+            "sangrado_de_realidad"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_28",
+        "name": "Mutación menor",
+        "description": "Componente de hechizo asociado a mutación menor.",
+        "tags": [
+            "cost",
+            "mutación_menor"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_29",
+        "name": "Atracción de mala suerte",
+        "description": "Componente de hechizo asociado a atracción de mala suerte.",
+        "tags": [
+            "cost",
+            "atracción_de_mala_suerte"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_30",
+        "name": "Pérdida de calor",
+        "description": "Componente de hechizo asociado a pérdida de calor.",
+        "tags": [
+            "cost",
+            "pérdida_de_calor"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_31",
+        "name": "Quemadura interna",
+        "description": "Componente de hechizo asociado a quemadura interna.",
+        "tags": [
+            "cost",
+            "quemadura_interna"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_32",
+        "name": "Mareo espacial",
+        "description": "Componente de hechizo asociado a mareo espacial.",
+        "tags": [
+            "cost",
+            "mareo_espacial"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_33",
+        "name": "Eco emocional",
+        "description": "Componente de hechizo asociado a eco emocional.",
+        "tags": [
+            "cost",
+            "eco_emocional"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_34",
+        "name": "Cansancio espiritual",
+        "description": "Componente de hechizo asociado a cansancio espiritual.",
+        "tags": [
+            "cost",
+            "cansancio_espiritual"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_35",
+        "name": "Fragilidad del efecto",
+        "description": "Componente de hechizo asociado a fragilidad del efecto.",
+        "tags": [
+            "cost",
+            "fragilidad_del_efecto"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_36",
+        "name": "Objeto consumido",
+        "description": "Componente de hechizo asociado a objeto consumido.",
+        "tags": [
+            "cost",
+            "objeto_consumido"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_37",
+        "name": "Lugar contaminado",
+        "description": "Componente de hechizo asociado a lugar contaminado.",
+        "tags": [
+            "cost",
+            "lugar_contaminado"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_38",
+        "name": "Familiar inquieto",
+        "description": "Componente de hechizo asociado a familiar inquieto.",
+        "tags": [
+            "cost",
+            "familiar_inquieto"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_39",
+        "name": "Pérdida de color",
+        "description": "Componente de hechizo asociado a pérdida de color.",
+        "tags": [
+            "cost",
+            "pérdida_de_color"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_40",
+        "name": "Recuerdo falso",
+        "description": "Componente de hechizo asociado a recuerdo falso.",
+        "tags": [
+            "cost",
+            "recuerdo_falso"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_41",
+        "name": "Nudo de destino",
+        "description": "Componente de hechizo asociado a nudo de destino.",
+        "tags": [
+            "cost",
+            "nudo_de_destino"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_42",
+        "name": "Sombra hambrienta",
+        "description": "Componente de hechizo asociado a sombra hambrienta.",
+        "tags": [
+            "cost",
+            "sombra_hambrienta"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_43",
+        "name": "Pérdida de precisión",
+        "description": "Componente de hechizo asociado a pérdida de precisión.",
+        "tags": [
+            "cost",
+            "pérdida_de_precisión"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_44",
+        "name": "Vulnerabilidad breve",
+        "description": "Componente de hechizo asociado a vulnerabilidad breve.",
+        "tags": [
+            "cost",
+            "vulnerabilidad_breve"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_45",
+        "name": "Confesión involuntaria",
+        "description": "Componente de hechizo asociado a confesión involuntaria.",
+        "tags": [
+            "cost",
+            "confesión_involuntaria"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_46",
+        "name": "Cambio de humor",
+        "description": "Componente de hechizo asociado a cambio de humor.",
+        "tags": [
+            "cost",
+            "cambio_de_humor"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_47",
+        "name": "Aroma persistente",
+        "description": "Componente de hechizo asociado a aroma persistente.",
+        "tags": [
+            "cost",
+            "aroma_persistente"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_48",
+        "name": "Pérdida de sensibilidad",
+        "description": "Componente de hechizo asociado a pérdida de sensibilidad.",
+        "tags": [
+            "cost",
+            "pérdida_de_sensibilidad"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_49",
+        "name": "Carga acumulada peligrosa",
+        "description": "Componente de hechizo asociado a carga acumulada peligrosa.",
+        "tags": [
+            "cost",
+            "carga_acumulada_peligrosa"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "cost_50",
+        "name": "Intercambio equivalente",
+        "description": "Componente de hechizo asociado a intercambio equivalente.",
+        "tags": [
+            "cost",
+            "intercambio_equivalente"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    }
+]

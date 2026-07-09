@@ -1,0 +1,10 @@
+Agota al usuario|resistance:-2|risk:+1
+Consume sangre|damage:+2|risk:+3
+Requiere concentración|control:+2|initiative:-1
+Atrae entidades|arcane:+2|risk:+4
+Daña la mente|knowledge:-1|control:-2|risk:+3
+Consume memoria|arcane:+3|knowledge:-2|risk:+2
+No tiene costo evidente|risk:-1
+Requiere sacrificio menor|arcane:+2|risk:+2
+Puede salirse de control|arcane:+3|control:-3|risk:+4
+Debilita el cuerpo|resistance:-3|arcane:+2

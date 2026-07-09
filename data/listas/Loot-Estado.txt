@@ -1,0 +1,35 @@
+Nuevo|15
+Intacto|20
+Buen estado|20
+Funcional|20
+Usado|15
+Desgastado|15
+Viejo|10
+Antiguo|8
+Abandonado|8
+Sucio|8
+Dañado ligeramente|10
+Dañado gravemente|5
+Casi destruido|3
+Roto|5
+Incompleto|8
+Le faltan piezas|5
+Reparado|8
+Modificado|7
+Mejorado|5
+Alterado|5
+Sellado|5
+Bloqueado|5
+Inactivo|5
+Activo inesperadamente|3
+Inestable|3
+Peligroso de manipular|3
+Contaminado|3
+Corrupto|2
+Preservado perfectamente|3
+Desgastado por el tiempo|5
+Marcado por eventos pasados|4
+Oculto deliberadamente|4
+Camuflado|3
+Protegido contra manipulación|2
+Estado desconocido|5

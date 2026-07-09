@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Etherion",
+        "type": "world",
+        "description": "",
+        "entities": [
+            {
+                "id": "npcs_1",
+                "name": "Gabriel",
+                "type": "npcs"
+            },
+            {
+                "id": "magic_systems_1",
+                "name": "Kli'",
+                "type": "magic_systems"
+            },
+            {
+                "id": "npcs_2",
+                "name": "Vald",
+                "type": "npcs"
+            },
+            {
+                "id": "factions_1",
+                "name": "Gremio Fenix Force",
+                "type": "factions"
+            },
+            {
+                "id": "armies_2",
+                "name": "Ejercito test 2",
+                "type": "armies"
+            },
+            {
+                "id": "armies_1",
+                "name": "Ejercito test 1",
+                "type": "armies"
+            },
+            {
+                "id": "relics_1",
+                "name": "Chitall",
+                "type": "relics"
+            },
+            {
+                "id": "creatures_1",
+                "name": "Leelon",
+                "type": "creatures"
+            }
+        ],
+        "id": "world_1",
+        "created_at": "2026-05-28T11:14:30.861208"
+    }
+]

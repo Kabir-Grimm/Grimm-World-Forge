@@ -1,0 +1,30 @@
+{defender} evita el ataque por poco.
+El ataque falla y apenas roza a {defender}.
+{defender} lee la intención de {attacker} y resiste el intercambio.
+La defensa aguanta. El ataque no causa daño.
+{defender} se aparta justo antes del impacto.
+El ataque pierde fuerza antes de conectar.
+{defender} bloquea lo suficiente para evitar daño.
+{attacker} falla por una mala lectura de distancia.
+{defender} desvía el ataque con una reacción precisa.
+El movimiento de {attacker} era peligroso, pero no suficiente.
+{defender} retrocede y evita el peor resultado.
+{attacker} no logra atravesar la defensa.
+El ataque se pierde por encima de {target_part}.
+{defender} mantiene la calma y neutraliza la ofensiva.
+La maniobra falla en el último instante.
+{defender} anticipa el ataque y cambia de posición.
+{attacker} fuerza demasiado la ofensiva y pierde precisión.
+El golpe no encuentra su objetivo.
+{defender} convierte el ataque en una oportunidad para reposicionarse.
+La defensa de {defender} absorbe la presión.
+El ataque se desvía antes de volverse peligroso.
+{attacker} no consigue imponer su ritmo.
+{defender} sobrevive al intercambio sin daño.
+La ofensiva se queda corta.
+{defender} se cubre a tiempo.
+El ataque amenaza, pero no concreta.
+{attacker} calcula mal el ángulo de ataque.
+{defender} evita el impacto con un movimiento mínimo.
+La defensa no fue perfecta, pero bastó.
+{attacker} pierde el momento decisivo.

@@ -1,0 +1,752 @@
+[
+    {
+        "id": "target_1",
+        "name": "Cuerpo",
+        "description": "Componente de hechizo asociado a cuerpo.",
+        "tags": [
+            "target",
+            "cuerpo"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_2",
+        "name": "Mente",
+        "description": "Componente de hechizo asociado a mente.",
+        "tags": [
+            "target",
+            "mente"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_3",
+        "name": "Alma",
+        "description": "Componente de hechizo asociado a alma.",
+        "tags": [
+            "target",
+            "alma"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_4",
+        "name": "Materia",
+        "description": "Componente de hechizo asociado a materia.",
+        "tags": [
+            "target",
+            "materia"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_5",
+        "name": "Energía",
+        "description": "Componente de hechizo asociado a energía.",
+        "tags": [
+            "target",
+            "energía"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_6",
+        "name": "Memoria",
+        "description": "Componente de hechizo asociado a memoria.",
+        "tags": [
+            "target",
+            "memoria"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_7",
+        "name": "Emoción",
+        "description": "Componente de hechizo asociado a emoción.",
+        "tags": [
+            "target",
+            "emoción"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_8",
+        "name": "Sombra",
+        "description": "Componente de hechizo asociado a sombra.",
+        "tags": [
+            "target",
+            "sombra"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_9",
+        "name": "Luz",
+        "description": "Componente de hechizo asociado a luz.",
+        "tags": [
+            "target",
+            "luz"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_10",
+        "name": "Tiempo",
+        "description": "Componente de hechizo asociado a tiempo.",
+        "tags": [
+            "target",
+            "tiempo"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_11",
+        "name": "Espacio",
+        "description": "Componente de hechizo asociado a espacio.",
+        "tags": [
+            "target",
+            "espacio"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_12",
+        "name": "Destino",
+        "description": "Componente de hechizo asociado a destino.",
+        "tags": [
+            "target",
+            "destino"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_13",
+        "name": "Criatura",
+        "description": "Componente de hechizo asociado a criatura.",
+        "tags": [
+            "target",
+            "criatura"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_14",
+        "name": "Objeto",
+        "description": "Componente de hechizo asociado a objeto.",
+        "tags": [
+            "target",
+            "objeto"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_15",
+        "name": "Lugar",
+        "description": "Componente de hechizo asociado a lugar.",
+        "tags": [
+            "target",
+            "lugar"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_16",
+        "name": "Arma",
+        "description": "Componente de hechizo asociado a arma.",
+        "tags": [
+            "target",
+            "arma"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_17",
+        "name": "Armadura",
+        "description": "Componente de hechizo asociado a armadura.",
+        "tags": [
+            "target",
+            "armadura"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_18",
+        "name": "Nombre",
+        "description": "Componente de hechizo asociado a nombre.",
+        "tags": [
+            "target",
+            "nombre"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_19",
+        "name": "Vínculo",
+        "description": "Componente de hechizo asociado a vínculo.",
+        "tags": [
+            "target",
+            "vínculo"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_20",
+        "name": "Herida",
+        "description": "Componente de hechizo asociado a herida.",
+        "tags": [
+            "target",
+            "herida"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_21",
+        "name": "Veneno",
+        "description": "Componente de hechizo asociado a veneno.",
+        "tags": [
+            "target",
+            "veneno"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_22",
+        "name": "Sueño",
+        "description": "Componente de hechizo asociado a sueño.",
+        "tags": [
+            "target",
+            "sueño"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_23",
+        "name": "Reflejo",
+        "description": "Componente de hechizo asociado a reflejo.",
+        "tags": [
+            "target",
+            "reflejo"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_24",
+        "name": "Sonido",
+        "description": "Componente de hechizo asociado a sonido.",
+        "tags": [
+            "target",
+            "sonido"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_25",
+        "name": "Clima",
+        "description": "Componente de hechizo asociado a clima.",
+        "tags": [
+            "target",
+            "clima"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_26",
+        "name": "Planta",
+        "description": "Componente de hechizo asociado a planta.",
+        "tags": [
+            "target",
+            "planta"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_27",
+        "name": "Animal",
+        "description": "Componente de hechizo asociado a animal.",
+        "tags": [
+            "target",
+            "animal"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_28",
+        "name": "Máquina",
+        "description": "Componente de hechizo asociado a máquina.",
+        "tags": [
+            "target",
+            "máquina"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_29",
+        "name": "Texto",
+        "description": "Componente de hechizo asociado a texto.",
+        "tags": [
+            "target",
+            "texto"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_30",
+        "name": "Símbolo",
+        "description": "Componente de hechizo asociado a símbolo.",
+        "tags": [
+            "target",
+            "símbolo"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_31",
+        "name": "Puerta",
+        "description": "Componente de hechizo asociado a puerta.",
+        "tags": [
+            "target",
+            "puerta"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_32",
+        "name": "Camino",
+        "description": "Componente de hechizo asociado a camino.",
+        "tags": [
+            "target",
+            "camino"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_33",
+        "name": "Reputación",
+        "description": "Componente de hechizo asociado a reputación.",
+        "tags": [
+            "target",
+            "reputación"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_34",
+        "name": "Juramento",
+        "description": "Componente de hechizo asociado a juramento.",
+        "tags": [
+            "target",
+            "juramento"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_35",
+        "name": "Cadáver",
+        "description": "Componente de hechizo asociado a cadáver.",
+        "tags": [
+            "target",
+            "cadáver"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_36",
+        "name": "Espíritu",
+        "description": "Componente de hechizo asociado a espíritu.",
+        "tags": [
+            "target",
+            "espíritu"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_37",
+        "name": "Sangre",
+        "description": "Componente de hechizo asociado a sangre.",
+        "tags": [
+            "target",
+            "sangre"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_38",
+        "name": "Edad",
+        "description": "Componente de hechizo asociado a edad.",
+        "tags": [
+            "target",
+            "edad"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_39",
+        "name": "Peso",
+        "description": "Componente de hechizo asociado a peso.",
+        "tags": [
+            "target",
+            "peso"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_40",
+        "name": "Fuego",
+        "description": "Componente de hechizo asociado a fuego.",
+        "tags": [
+            "target",
+            "fuego"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_41",
+        "name": "Agua",
+        "description": "Componente de hechizo asociado a agua.",
+        "tags": [
+            "target",
+            "agua"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_42",
+        "name": "Tierra",
+        "description": "Componente de hechizo asociado a tierra.",
+        "tags": [
+            "target",
+            "tierra"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_43",
+        "name": "Aire",
+        "description": "Componente de hechizo asociado a aire.",
+        "tags": [
+            "target",
+            "aire"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_44",
+        "name": "Electricidad",
+        "description": "Componente de hechizo asociado a electricidad.",
+        "tags": [
+            "target",
+            "electricidad"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_45",
+        "name": "Cristal",
+        "description": "Componente de hechizo asociado a cristal.",
+        "tags": [
+            "target",
+            "cristal"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_46",
+        "name": "Mapa",
+        "description": "Componente de hechizo asociado a mapa.",
+        "tags": [
+            "target",
+            "mapa"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_47",
+        "name": "Secreto",
+        "description": "Componente de hechizo asociado a secreto.",
+        "tags": [
+            "target",
+            "secreto"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_48",
+        "name": "Hambre",
+        "description": "Componente de hechizo asociado a hambre.",
+        "tags": [
+            "target",
+            "hambre"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_49",
+        "name": "Dolor",
+        "description": "Componente de hechizo asociado a dolor.",
+        "tags": [
+            "target",
+            "dolor"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "target_50",
+        "name": "Identidad",
+        "description": "Componente de hechizo asociado a identidad.",
+        "tags": [
+            "target",
+            "identidad"
+        ],
+        "effects": {
+            "knowledge": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    }
+]

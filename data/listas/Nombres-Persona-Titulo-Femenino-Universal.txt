@@ -1,0 +1,49 @@
+Señora|10
+Capitana|10
+Maestra|9
+Guardiana|9
+Viajera|8
+Forastera|8
+Custodia|8
+Heredera|7
+Exiliada|7
+Portadora|7
+Caballera|7
+Comandante|6
+General|6
+Sabia|6
+Cazadora|6
+Exploradora|6
+Mercader|5
+Artesana|5
+Protectora|5
+Elegida|5
+Emperatriz|5
+Reina|5
+Princesa|4
+Duquesa|4
+Baronesa|4
+Lady|4
+Profeta|4
+Oráculo|4
+Iniciada|3
+Discípula|3
+Campeona|3
+Guerrera|3
+Maga|3
+Hechicera|3
+Alquimista|2
+Cronista|2
+Archivista|2
+Errante|2
+Nómada|2
+Invocadora|2
+Vidente|2
+La Primera|1
+La Última|1
+La Perdida|1
+La Renacida|1
+La Antigua|1
+La Marcada|1
+La Inmortal|1
+La Desconocida|1

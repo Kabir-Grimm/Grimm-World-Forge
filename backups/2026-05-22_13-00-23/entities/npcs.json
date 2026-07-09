@@ -1,0 +1,648 @@
+[
+    {
+        "name": "Claude",
+        "type": "npcs",
+        "data": {
+            "Actitud ante el peligro": "No actúa sin una ventaja clara",
+            "Defecto": "Desconfianza",
+            "Destino": "Exilio",
+            "Profesión": "Herrero de espadas",
+            "Raza": "Tiefling",
+            "Razgo Dominante": "Temerario",
+            "Stat-Audacia": "Precavido (Evalúa bien los riesgos antes de actuar)",
+            "Stat-Fuerza": "Promedio (Fuerza humana normal)",
+            "Stat-Inteligencia": "Normal (Intelecto promedio)",
+            "Stat-Resistencia": "Débil (Se fatiga fácilmente)",
+            "Stat-Sigilo": "Común (Pasa desapercibido en la multitud)",
+            "Stat-Velocidad": "Normal (Corre a velocidad humana estándar)",
+            "Trasfondo": "Engranaje\tEs parte de un plan mayor… aunque no lo sepa.",
+            "Valores y Creencias": "Poder",
+            "Virtud": "Disciplina"
+        },
+        "created_at": "2026-05-13T21:27:11.702518",
+        "id": "npcs_1",
+        "notes": "",
+        "memory": [
+            {
+                "type": "encounter_loser",
+                "description": "LOSER en Ritual. Riesgo: Mortal. Contexto: Ritual prohibido. Markus domina ampliamente a Claude. El resultado puede alterar su posición en el mundo.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T19:43:30.107182"
+            },
+            {
+                "type": "encounter_winner",
+                "description": "WINNER en Cacería. Riesgo: Mortal. Contexto: Confrontación final. Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T14:00:14.228581"
+            },
+            {
+                "type": "encounter_winner",
+                "description": "WINNER en Combate. Riesgo: Mortal. Contexto: Guerra abierta. Claude supera por muy poco a Alma. La victoria tiene costo, duda o consecuencia.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:48:50.688287"
+            },
+            {
+                "type": "encounter_winner",
+                "description": "WINNER en Combate. Riesgo: Mortal. Contexto: Guerra abierta. Claude supera por muy poco a Alma. La victoria tiene costo, duda o consecuencia.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:48:41.944831"
+            },
+            {
+                "type": "encounter_winner",
+                "description": "WINNER en Combate. Riesgo: Mortal. Contexto: Guerra abierta. Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:48:39.855205"
+            },
+            {
+                "type": "encounter_winner",
+                "description": "WINNER en Combate. Riesgo: Mortal. Contexto: Guerra abierta. Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:48:37.854318"
+            },
+            {
+                "type": "encounter_winner",
+                "description": "WINNER en Combate. Riesgo: Mortal. Contexto: Guerra abierta. Claude domina ampliamente a Alma. El resultado puede alterar su posición en el mundo.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:48:35.123948"
+            },
+            {
+                "type": "encounter_winner",
+                "description": "WINNER en Combate. Riesgo: Mortal. Contexto: Guerra abierta. Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:48:29.371933"
+            },
+            {
+                "type": "encounter_loser",
+                "description": "LOSER en Combate. Riesgo: Moderado. Contexto: Dominio demoníaco. Alma domina ampliamente a Claude. El resultado puede alterar su posición en el mundo.",
+                "importance": 4,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:45:56.022498"
+            },
+            {
+                "type": "encounter_winner",
+                "description": "WINNER en Ritual. Riesgo: Alto. Contexto: Misión de espionaje. Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "importance": 4,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T01:02:45.130332"
+            },
+            {
+                "type": "encounter_winner",
+                "description": "WINNER en Investigación. Riesgo: Bajo. Contexto: Desafío de liderazgo. Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "importance": 2,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T01:02:49.875766"
+            }
+        ],
+        "reputation": {
+            "military": 24,
+            "social": 1,
+            "monstrous": 5,
+            "arcane": -3
+        },
+        "meta": {
+            "importance": "Común",
+            "role": "Neutral",
+            "power_rank": "Aleatorio",
+            "status": "Muerto",
+            "active": false,
+            "age": "",
+            "life_stage": "Vejez",
+            "reputation": "",
+            "personal_goal": "",
+            "fear": "",
+            "desire": "",
+            "traits": [
+                "Animal Training Mastery",
+                "Inorganic Imprisonment"
+            ]
+        },
+        "effects": {
+            "combat": 0
+        }
+    },
+    {
+        "name": "Claude",
+        "type": "npcs",
+        "data": {
+            "Actitud ante el peligro": "Lanza la primera piedra",
+            "Defecto": "Impulsividad",
+            "Destino": "Pacto",
+            "Profesión": "Juglar de dioses",
+            "Raza": "Orco",
+            "Razgo Dominante": "Apasionado",
+            "Stat-Audacia": "Precavido (Evalúa bien los riesgos antes de actuar)",
+            "Stat-Fuerza": "Baja (Fuerza de un niño o anciano)",
+            "Stat-Inteligencia": "Ingenioso (Aprende rápido y resuelve problemas)",
+            "Stat-Resistencia": "Duro (Aguanta más que el promedio)",
+            "Stat-Sigilo": "Común (Pasa desapercibido en la multitud)",
+            "Stat-Velocidad": "Ágil (Corre más rápido que la mayoría)",
+            "Trasfondo": "Adicto\tDepende de una sustancia, emoción o fuente de poder.",
+            "Valores y Creencias": "Justicia",
+            "Virtud": "Empatía"
+        },
+        "created_at": "2026-05-13T21:27:15.675966",
+        "id": "npcs_2"
+    },
+    {
+        "name": "Alma",
+        "type": "npcs",
+        "data": {
+            "Actitud ante el peligro": "Busca aliados antes de actuar",
+            "Defecto": "Terquedad",
+            "Destino": "Asesinato",
+            "Profesión": "Traductor",
+            "Raza": "Humano",
+            "Razgo Dominante": "Voluble",
+            "Stat-Audacia": "Precavido (Evalúa bien los riesgos antes de actuar)",
+            "Stat-Fuerza": "Baja (Fuerza de un niño o anciano)",
+            "Stat-Inteligencia": "Ingenioso (Aprende rápido y resuelve problemas)",
+            "Stat-Resistencia": "Normal (Puede resistir un combate estándar)",
+            "Stat-Sigilo": "Común (Pasa desapercibido en la multitud)",
+            "Stat-Velocidad": "Normal (Corre a velocidad humana estándar)",
+            "Trasfondo": "Castigado\tVive pagando un precio por un error ajeno o propio.",
+            "Valores y Creencias": "Poder",
+            "Virtud": "Disciplina"
+        },
+        "created_at": "2026-05-13T21:27:46.823252",
+        "id": "npcs_3",
+        "notes": "",
+        "meta": {
+            "importance": "Importante",
+            "role": "Neutral",
+            "active": false,
+            "power_rank": "Común",
+            "traits": [
+                "Bendecido por fuego",
+                "Magic Cutting",
+                "Symbiotic Magic"
+            ],
+            "status": "Muerto",
+            "age": "",
+            "life_stage": "Desconocida",
+            "reputation": "",
+            "personal_goal": "",
+            "fear": "",
+            "desire": ""
+        },
+        "memory": [
+            {
+                "type": "encounter_loser",
+                "description": "LOSER en Cacería. Riesgo: Mortal. Contexto: Confrontación final. Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T14:00:14.236398"
+            },
+            {
+                "type": "encounter_loser",
+                "description": "LOSER en Combate. Riesgo: Mortal. Contexto: Guerra abierta. Claude supera por muy poco a Alma. La victoria tiene costo, duda o consecuencia.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:48:50.695127"
+            },
+            {
+                "type": "encounter_loser",
+                "description": "LOSER en Combate. Riesgo: Mortal. Contexto: Guerra abierta. Claude supera por muy poco a Alma. La victoria tiene costo, duda o consecuencia.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:48:41.952648"
+            },
+            {
+                "type": "encounter_loser",
+                "description": "LOSER en Combate. Riesgo: Mortal. Contexto: Guerra abierta. Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:48:39.863999"
+            },
+            {
+                "type": "encounter_loser",
+                "description": "LOSER en Combate. Riesgo: Mortal. Contexto: Guerra abierta. Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:48:37.861158"
+            },
+            {
+                "type": "encounter_loser",
+                "description": "LOSER en Combate. Riesgo: Mortal. Contexto: Guerra abierta. Claude domina ampliamente a Alma. El resultado puede alterar su posición en el mundo.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:48:35.130787"
+            },
+            {
+                "type": "encounter_loser",
+                "description": "LOSER en Combate. Riesgo: Mortal. Contexto: Guerra abierta. Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:48:29.378773"
+            },
+            {
+                "type": "encounter_winner",
+                "description": "WINNER en Combate. Riesgo: Moderado. Contexto: Dominio demoníaco. Alma domina ampliamente a Claude. El resultado puede alterar su posición en el mundo.",
+                "importance": 4,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T11:45:56.015659"
+            },
+            {
+                "type": "encounter_loser",
+                "description": "LOSER en Ritual. Riesgo: Alto. Contexto: Misión de espionaje. Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "importance": 4,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T01:02:45.136195"
+            },
+            {
+                "type": "encounter_loser",
+                "description": "LOSER en Investigación. Riesgo: Bajo. Contexto: Desafío de liderazgo. Claude vence a Alma con claridad, aunque el resultado aún deja secuelas.",
+                "importance": 2,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T01:02:49.882606"
+            }
+        ],
+        "reputation": {
+            "military": -16,
+            "social": -1,
+            "monstrous": 2
+        }
+    },
+    {
+        "name": "Markus",
+        "type": "npcs",
+        "data": {
+            "Actitud ante el peligro": "Se deja llevar por la adrenalina",
+            "Defecto": "Arrogancia",
+            "Destino": "Cicatriz",
+            "Don Heroico": "Visión profética",
+            "Dones": "Resistencia Extrema\tNo sufre cansancio ni agotamiento.",
+            "Profesión": "Juglar de dioses",
+            "Raza": "Elfo",
+            "Razgo Dominante": "Voluble",
+            "Regalo divino": "Visión Profética\tRecibe sueños o visiones del futuro.",
+            "Stat-Audacia": "Decidido (No se deja intimidar fácilmente)",
+            "Stat-Fuerza": "Promedio (Fuerza humana normal)",
+            "Stat-Inteligencia": "Normal (Intelecto promedio)",
+            "Stat-Resistencia": "Débil (Se fatiga fácilmente)",
+            "Stat-Sigilo": "Común (Pasa desapercibido en la multitud)",
+            "Stat-Velocidad": "Bajo promedio (Corre menos que el promedio)",
+            "Trasfondo": "Fragmentado\tSu mente, alma o cuerpo fue dividido.",
+            "Valores y Creencias": "Riqueza",
+            "Virtud": "Generosidad"
+        },
+        "created_at": "2026-05-19T15:27:07.242044",
+        "id": "npcs_4",
+        "memory": [
+            {
+                "type": "epic_battle_winner",
+                "description": "Venció a Gurralo en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T13:16:44.177528"
+            },
+            {
+                "type": "epic_battle_winner",
+                "description": "Venció a Gurralo en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T13:15:59.973842"
+            },
+            {
+                "type": "epic_battle_winner",
+                "description": "Venció a Gurralo en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T13:14:17.714824"
+            },
+            {
+                "type": "epic_battle_loser",
+                "description": "Fue derrotado por Awlys en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T12:56:44.796189"
+            },
+            {
+                "type": "epic_battle_loser",
+                "description": "Fue derrotado por Manelli en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T11:39:55.301987"
+            },
+            {
+                "type": "encounter_winner",
+                "description": "WINNER en Ritual. Riesgo: Mortal. Contexto: Ritual prohibido. Markus domina ampliamente a Claude. El resultado puede alterar su posición en el mundo.",
+                "importance": 5,
+                "year": null,
+                "source": "encounter",
+                "created_at": "2026-05-19T19:43:30.099365"
+            }
+        ],
+        "reputation": {
+            "arcane": 4,
+            "military": -4,
+            "heroic": 1,
+            "monstrous": 3
+        },
+        "meta": {
+            "status": "Sano",
+            "importance": "Común",
+            "role": "Neutral",
+            "power_rank": "Aleatorio",
+            "active": true,
+            "age": "",
+            "life_stage": "Desconocida",
+            "reputation": "",
+            "personal_goal": "",
+            "fear": "",
+            "desire": "",
+            "traits": [
+                "Absorption Attacks",
+                "Acid Combat"
+            ]
+        },
+        "notes": "",
+        "effects": {
+            "arcane": 0,
+            "combat": 0,
+            "control": 0,
+            "damage": 0,
+            "death_risk": 0,
+            "defense": 0,
+            "escape": 0,
+            "influence": 0,
+            "initiative": 0,
+            "injury_risk": 0,
+            "knowledge": 0,
+            "mutual_damage": 0,
+            "resistance": 0,
+            "risk": 0,
+            "social": 0,
+            "stealth": 0
+        }
+    },
+    {
+        "name": "Minale",
+        "type": "npcs",
+        "data": {
+            "Actitud ante el peligro": "Se sacrifica sin dudar",
+            "Defecto": "Desconfianza",
+            "Destino": "Renacimiento",
+            "Dones": "Arma Cambiante\tSu arma se adapta a la situación.",
+            "Profesión": "Herrero de espadas",
+            "Raza": "Enano",
+            "Razgo Dominante": "Frío y calculador",
+            "Regalo divino": "Poder sobre la Muerte\tPuede revivir a los caídos con límites.",
+            "Stat-Audacia": "Precavido (Evalúa bien los riesgos antes de actuar)",
+            "Stat-Fuerza": "Baja (Fuerza de un niño o anciano)",
+            "Stat-Inteligencia": "Ingenioso (Aprende rápido y resuelve problemas)",
+            "Stat-Resistencia": "Frágil (Cae con el más leve golpe)",
+            "Stat-Sigilo": "Torpe (Hace ruido al moverse)",
+            "Stat-Velocidad": "Ágil (Corre más rápido que la mayoría)",
+            "Trasfondo": "Eco artificial\tFue creado, diseñado o invocado con un propósito.",
+            "Valores y Creencias": "Poder",
+            "Virtud": "Altruismo"
+        },
+        "created_at": "2026-05-20T00:25:19.661436",
+        "id": "npcs_5",
+        "memory": [
+            {
+                "type": "epic_battle_loser",
+                "description": "Fue derrotado por Manelli en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T09:33:17.599174"
+            }
+        ],
+        "reputation": {
+            "military": -3
+        },
+        "meta": {
+            "status": "Herido"
+        }
+    },
+    {
+        "name": "Manelli",
+        "type": "npcs",
+        "meta": {
+            "importance": "Común",
+            "role": "Neutral",
+            "power_rank": "Aleatorio",
+            "status": "Sano",
+            "active": true,
+            "age": "50",
+            "life_stage": "Madurez",
+            "traits": [
+                "Potion Combat",
+                "Geokinetic Ninjutsu"
+            ],
+            "reputation": "",
+            "personal_goal": "",
+            "fear": "",
+            "desire": ""
+        },
+        "data": {
+            "Actitud ante el peligro": "Finge valentía para ocultar miedo",
+            "Defecto": "Codicia",
+            "Destino": "Asesinato",
+            "Dones": "Voz Persuasiva\tPalabras que hipnotizan o convencen.",
+            "Profesión": "Constructor",
+            "Raza": "Elfo",
+            "Razgo Dominante": "Ingenuo",
+            "Regalo divino": "Aura de Temor\tSus enemigos tiemblan al verlo.",
+            "Stat-Audacia": "Precavido (Evalúa bien los riesgos antes de actuar)",
+            "Stat-Fuerza": "Promedio (Fuerza humana normal)",
+            "Stat-Inteligencia": "Normal (Intelecto promedio)",
+            "Stat-Resistencia": "Normal (Puede resistir un combate estándar)",
+            "Stat-Sigilo": "Ruidoso (Imposible que no lo detecten)",
+            "Stat-Velocidad": "Bajo promedio (Corre menos que el promedio)",
+            "Trasfondo": "Fundador\tSu existencia es el inicio de una familia, linaje o culto.",
+            "Valores y Creencias": "Riqueza",
+            "Virtud": "Sabiduría"
+        },
+        "created_at": "2026-05-20T00:39:41.998472",
+        "id": "npcs_6",
+        "memory": [
+            {
+                "type": "epic_battle_winner",
+                "description": "Venció a Awlys en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T12:58:49.677350"
+            },
+            {
+                "type": "epic_battle_winner",
+                "description": "Venció a Gurralo en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T12:51:13.304334"
+            },
+            {
+                "type": "epic_battle_winner",
+                "description": "Venció a Kluxen en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T12:47:03.805455"
+            },
+            {
+                "type": "epic_battle_winner",
+                "description": "Venció a Markus en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T11:39:55.292215"
+            },
+            {
+                "type": "epic_battle_winner",
+                "description": "Venció a Minale en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T09:33:17.588426"
+            }
+        ],
+        "reputation": {
+            "monstrous": 3,
+            "military": 6,
+            "heroic": 2,
+            "social": 1
+        },
+        "notes": "",
+        "effects": {
+            "arcane": 0,
+            "combat": 0,
+            "control": 0,
+            "damage": 0,
+            "death_risk": 0,
+            "defense": 0,
+            "escape": 0,
+            "influence": 0,
+            "initiative": 0,
+            "injury_risk": 0,
+            "knowledge": 0,
+            "mutual_damage": 0,
+            "resistance": 0,
+            "risk": 0,
+            "social": 0,
+            "stealth": 0
+        }
+    },
+    {
+        "name": "Awlys",
+        "type": "npcs",
+        "meta": {
+            "importance": "Importante",
+            "role": "Neutral",
+            "power_rank": "Aleatorio",
+            "status": "Con cicatrices recientes",
+            "active": true,
+            "age": "43",
+            "life_stage": "Adultez",
+            "gender": "Femenino",
+            "traits": [
+                "360-Degree Vision"
+            ],
+            "reputation": "",
+            "personal_goal": "",
+            "fear": "",
+            "desire": ""
+        },
+        "data": {
+            "Actitud ante el peligro": "Busca aliados antes de actuar",
+            "Defecto": "Arrogancia",
+            "Destino": "Ascetismo",
+            "Don Heroico": "Fuego interno",
+            "Dones": "Espíritu Indomable\tNo puede ser controlado mentalmente.",
+            "Genero": "Sin genero aparente",
+            "Profesión": "Médico",
+            "Raza": "Humano",
+            "Razgo Dominante": "Carismático",
+            "Regalo divino": "Manipulación de Sombras\tControla las sombras para atacar o ocultarse.",
+            "Stat-Audacia": "Precavido (Evalúa bien los riesgos antes de actuar)",
+            "Stat-Fuerza": "Baja (Fuerza de un niño o anciano)",
+            "Stat-Inteligencia": "Limitado (Aprende con mucha dificultad)",
+            "Stat-Resistencia": "Normal (Puede resistir un combate estándar)",
+            "Stat-Sigilo": "Ruidoso (Imposible que no lo detecten)",
+            "Stat-Velocidad": "Normal (Corre a velocidad humana estándar)",
+            "Trasfondo": "Cultista\tSirve a una entidad desconocida o olvidada.",
+            "Valores y Creencias": "Riqueza",
+            "Virtud": "Paciencia"
+        },
+        "created_at": "2026-05-20T12:53:00.870753",
+        "id": "npcs_7",
+        "notes": "",
+        "effects": {
+            "arcane": 0,
+            "combat": 0,
+            "control": 0,
+            "damage": 0,
+            "death_risk": 0,
+            "defense": 0,
+            "escape": 0,
+            "influence": 0,
+            "initiative": 0,
+            "injury_risk": 0,
+            "knowledge": 0,
+            "mutual_damage": 0,
+            "resistance": 0,
+            "risk": 0,
+            "social": 0,
+            "stealth": 0
+        },
+        "memory": [
+            {
+                "type": "epic_battle_winner",
+                "description": "Venció a Gurralo en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T20:10:28.317672"
+            },
+            {
+                "type": "epic_battle_loser",
+                "description": "Fue derrotado por Manelli en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T12:58:49.691030"
+            }
+        ],
+        "reputation": {
+            "military": 0,
+            "heroic": 1,
+            "social": 2
+        }
+    }
+]

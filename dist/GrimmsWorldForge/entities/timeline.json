@@ -1,0 +1,226 @@
+[
+    {
+        "world_id": "world_1",
+        "world_name": "Etherion",
+        "year": 2,
+        "event_type": "Eco",
+        "target": {
+            "id": "npcs_1",
+            "name": "Gabriel",
+            "type": "npcs"
+        },
+        "description": "Un eco de tono artificial surge con alcance sobrenatural: propagar afecta a Gabriel. Consecuencia: atrae entidades peligrosas.",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Etherion",
+            "chaos": 5,
+            "focus": "Secreto",
+            "action": "Propagar",
+            "tone": "Artificial",
+            "impact": "Atrae entidades peligrosas",
+            "scope": "Sobrenatural",
+            "target": {
+                "id": "npcs_1",
+                "name": "Gabriel",
+                "type": "npcs"
+            },
+            "created_at": "2026-05-28T11:42:12.549764",
+            "description": "Un eco de tono artificial surge con alcance sobrenatural: propagar afecta a Gabriel. Consecuencia: atrae entidades peligrosas.",
+            "year": 2
+        },
+        "created_at": "2026-05-28T11:42:12.549764",
+        "id": "timeline_1"
+    },
+    {
+        "world_id": "world_1",
+        "world_name": "Etherion",
+        "year": 2,
+        "event_type": "Eco",
+        "target": {
+            "id": "factions_1",
+            "name": "Gremio Fenix Force",
+            "type": "factions"
+        },
+        "description": "Un eco de tono opresivo surge con alcance local: observar afecta a Gremio Fenix Force. Consecuencia: cambia una jerarquía.",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Etherion",
+            "chaos": 5,
+            "focus": "Conflicto activo",
+            "action": "Observar",
+            "tone": "Opresivo",
+            "impact": "Cambia una jerarquía",
+            "scope": "Local",
+            "target": {
+                "id": "factions_1",
+                "name": "Gremio Fenix Force",
+                "type": "factions"
+            },
+            "created_at": "2026-05-28T11:42:12.736809",
+            "description": "Un eco de tono opresivo surge con alcance local: observar afecta a Gremio Fenix Force. Consecuencia: cambia una jerarquía.",
+            "year": 2
+        },
+        "created_at": "2026-05-28T11:42:12.736809",
+        "id": "timeline_2"
+    },
+    {
+        "world_id": "world_1",
+        "world_name": "Etherion",
+        "year": 2,
+        "event_type": "Eco",
+        "target": {
+            "id": "factions_1",
+            "name": "Gremio Fenix Force",
+            "type": "factions"
+        },
+        "description": "Un eco de tono sombrío surge con alcance criminal: vigilar afecta a Gremio Fenix Force. Consecuencia: altera la estabilidad social.",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Etherion",
+            "chaos": 5,
+            "focus": "Facción",
+            "action": "Vigilar",
+            "tone": "Sombrío",
+            "impact": "Altera la estabilidad social",
+            "scope": "Criminal",
+            "target": {
+                "id": "factions_1",
+                "name": "Gremio Fenix Force",
+                "type": "factions"
+            },
+            "created_at": "2026-05-28T11:42:12.913672",
+            "description": "Un eco de tono sombrío surge con alcance criminal: vigilar afecta a Gremio Fenix Force. Consecuencia: altera la estabilidad social.",
+            "year": 2
+        },
+        "created_at": "2026-05-28T11:42:12.913672",
+        "id": "timeline_3"
+    },
+    {
+        "world_id": "world_1",
+        "world_name": "Etherion",
+        "year": 2,
+        "event_type": "Eco",
+        "target": {
+            "id": "relics_1",
+            "name": "Chitall",
+            "type": "relics"
+        },
+        "description": "Un eco de tono melancólico surge con alcance cósmico: reconstruir afecta a Chitall. Consecuencia: provoca miedo colectivo.",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Etherion",
+            "chaos": 5,
+            "focus": "Ubicación",
+            "action": "Reconstruir",
+            "tone": "Melancólico",
+            "impact": "Provoca miedo colectivo",
+            "scope": "Cósmico",
+            "target": {
+                "id": "relics_1",
+                "name": "Chitall",
+                "type": "relics"
+            },
+            "created_at": "2026-05-28T11:42:13.088173",
+            "description": "Un eco de tono melancólico surge con alcance cósmico: reconstruir afecta a Chitall. Consecuencia: provoca miedo colectivo.",
+            "year": 2
+        },
+        "created_at": "2026-05-28T11:42:13.088173",
+        "id": "timeline_4"
+    },
+    {
+        "world_id": "world_1",
+        "world_name": "Etherion",
+        "year": 2,
+        "event_type": "Eco",
+        "target": {
+            "id": "npcs_2",
+            "name": "Vald",
+            "type": "npcs"
+        },
+        "description": "Un eco de tono desgastado surge con alcance local: aislar afecta a Vald. Consecuencia: provoca fanatismo.",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Etherion",
+            "chaos": 5,
+            "focus": "NPC",
+            "action": "Aislar",
+            "tone": "Desgastado",
+            "impact": "Provoca fanatismo",
+            "scope": "Local",
+            "target": {
+                "id": "npcs_2",
+                "name": "Vald",
+                "type": "npcs"
+            },
+            "created_at": "2026-05-28T11:42:13.255266",
+            "description": "Un eco de tono desgastado surge con alcance local: aislar afecta a Vald. Consecuencia: provoca fanatismo.",
+            "year": 2
+        },
+        "created_at": "2026-05-28T11:42:13.255266",
+        "id": "timeline_5"
+    },
+    {
+        "world_id": "world_1",
+        "world_name": "Etherion",
+        "year": 2,
+        "event_type": "Eco",
+        "target": {
+            "id": "armies_1",
+            "name": "Ejercito test 1",
+            "type": "armies"
+        },
+        "description": "Un eco de tono nostálgico surge con alcance criminal: expandir afecta a Ejercito test 1. Consecuencia: complica negociaciones.",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Etherion",
+            "chaos": 5,
+            "focus": "Poder superior",
+            "action": "Expandir",
+            "tone": "Nostálgico",
+            "impact": "Complica negociaciones",
+            "scope": "Criminal",
+            "target": {
+                "id": "armies_1",
+                "name": "Ejercito test 1",
+                "type": "armies"
+            },
+            "created_at": "2026-05-28T11:42:13.432129",
+            "description": "Un eco de tono nostálgico surge con alcance criminal: expandir afecta a Ejercito test 1. Consecuencia: complica negociaciones.",
+            "year": 2
+        },
+        "created_at": "2026-05-28T11:42:13.432129",
+        "id": "timeline_6"
+    },
+    {
+        "world_id": "world_1",
+        "world_name": "Etherion",
+        "year": 1,
+        "event_type": "Eco",
+        "target": {
+            "id": "armies_2",
+            "name": "Ejercito test 2",
+            "type": "armies"
+        },
+        "description": "Un eco de tono militar surge con alcance regional: fragmentar afecta a Ejercito test 2. Consecuencia: expande un conflicto.",
+        "data": {
+            "world_id": "world_1",
+            "world_name": "Etherion",
+            "chaos": 4,
+            "focus": "Relación",
+            "action": "Fragmentar",
+            "tone": "Militar",
+            "impact": "Expande un conflicto",
+            "scope": "Regional",
+            "target": {
+                "id": "armies_2",
+                "name": "Ejercito test 2",
+                "type": "armies"
+            },
+            "created_at": "2026-05-28T11:43:15.141214",
+            "description": "Un eco de tono militar surge con alcance regional: fragmentar afecta a Ejercito test 2. Consecuencia: expande un conflicto.",
+            "entity_id": "events_7"
+        },
+        "created_at": "2026-05-28T11:43:15.141214",
+        "id": "timeline_7"
+    }
+]

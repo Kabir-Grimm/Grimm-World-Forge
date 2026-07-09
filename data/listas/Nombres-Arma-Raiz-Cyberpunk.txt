@@ -1,0 +1,8 @@
+Neón|10
+Cromo|9
+Vector|8
+Ruido|8
+Null|7
+Circuito|7
+Plasma|6
+Kernel|5

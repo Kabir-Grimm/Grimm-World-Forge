@@ -1,0 +1,26 @@
+Camuflaje|stealth:+4
+Regeneración|resistance:+4|risk:+1
+Teletransportación|initiative:+4|stealth:+2|risk:+3
+Aliento elemental|damage:+4|arcane:+2|risk:+2
+Hipnosis|control:+3|social:+2|risk:+2
+Clonación|stealth:+2|defense:+2|risk:+3
+Manipulación de plantas|arcane:+2|control:+2|risk:+1
+Invisibilidad|stealth:+5|risk:+2
+Absorción de energía|arcane:+3|resistance:+2|risk:+3
+Veneno letal|damage:+5|risk:+4
+Cambio de tamaño|combat:+2|stealth:+2|risk:+2
+Vuelo silencioso|stealth:+4|initiative:+2
+Control de gravedad|arcane:+4|control:+3|risk:+4
+Escupir telarañas|control:+3|stealth:+1
+Generar terremotos|damage:+5|risk:+5|control:-1
+Hablar lenguas muertas|knowledge:+4|arcane:+1
+Invocar aliados|influence:+3|arcane:+2|risk:+3
+Resistencia mágica|defense:+2|arcane:+3
+Memoria absorbente|knowledge:+4|risk:+2
+Fase fantasmal|stealth:+3|defense:+3|arcane:+2|risk:+2
+Fuerza aumentada|combat:+4|damage:+2
+Velocidad aumentada|initiative:+4|stealth:+1
+Vision aumentada|knowledge:+2|initiative:+1
+Olfato aumentado|knowledge:+2|stealth:+1
+Resistencia aumentada|resistance:+4|defense:+1
+Audición aumentada|knowledge:+2|stealth:+1

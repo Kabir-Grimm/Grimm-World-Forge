@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Kli'",
+        "type": "magic_systems",
+        "data": {
+            "Catalizador": "Meditación y concentración mental",
+            "Costo": "Aumenta el peso de una maldición preexistente sobre el usuario",
+            "Fuente": "Energía de las emociones extremas",
+            "Limites": "Usarla demasiado corrompe al usuario",
+            "Preparativos": "Recitar una profecía o escritura antigua",
+            "Repercución": "Genera adicción a la magia",
+            "Rareza": "Común"
+        },
+        "rarity": "Común",
+        "effects": {
+            "control": 2
+        },
+        "created_at": "2026-05-28T11:17:10.836393",
+        "id": "magic_systems_1"
+    }
+]

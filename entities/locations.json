@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Ruina Plateado",
+        "type": "locations",
+        "data": {
+            "Control de ubicación": "Fenómeno Natural/Mágico",
+            "Distintivo de población": "Una torre eterna que nadie ha logrado escalar por completo.",
+            "Elementos llamativos": "Mina abandonada",
+            "Estado del lugar": "En ruinas debido a guerra o desastre.",
+            "Nivel de peligro": "Alta criminalidad y corrupción.",
+            "Nivel tecnológico": "Edad del Bronce",
+            "Particularidades del mundo": "Días y noches irregulares",
+            "Peculiaridad": "Ninguna",
+            "Religión": "Sin religión, ateísmo generalizado.",
+            "Tamaño población": "Ciudad grande (10,000-50,000 habitantes)",
+            "Tipo de gobierno": "Kratocracia",
+            "Tipo de creación": "Asentamiento"
+        },
+        "created_at": "2026-06-29T22:36:47.924172",
+        "id": "locations_1"
+    },
+    {
+        "name": "Sin nombreSin nombreSin nombre",
+        "type": "locations",
+        "data": {
+            "Control de ubicación": "Facción Militar",
+            "Distintivo de población": "Gárgolas que giran solas para mirar a los forasteros.",
+            "Elementos llamativos": "Forja",
+            "Estado del lugar": "En declive por plagas, hambre o éxodo.",
+            "Nivel de peligro": "Conflicto abierto, guerra o rebelión.",
+            "Nivel tecnológico": "Transhumanismo",
+            "Particularidades del mundo": "Un único continente",
+            "Peculiaridad": "Ninguna",
+            "Religión": "Politeísmo con múltiples dioses.",
+            "Tamaño población": "Pueblo consolidado (500-2000 habitantes)",
+            "Tipo de gobierno": "Gobierno por Lotería",
+            "Tipo de creación": "Reino",
+            "Clasificación": "Reino"
+        },
+        "created_at": "2026-06-29T22:37:01.069765",
+        "id": "locations_2"
+    },
+    {
+        "name": "Templo de Eclipse",
+        "type": "locations",
+        "data": {
+            "Control de ubicación": "Entidad Sobrenatural",
+            "Elementos llamativos": "Mina abandonada",
+            "Estado del lugar": "En declive por plagas, hambre o éxodo.",
+            "Nivel de peligro": "Conflicto abierto, guerra o rebelión.",
+            "Particularidades del mundo": "Espíritus naturales visibles",
+            "Peculiaridad": "Una bestia mitológica vinculada al lugar",
+            "Religión": "Sin religión, ateísmo generalizado.",
+            "Tipo de creación": "Estructura"
+        },
+        "created_at": "2026-06-29T22:37:11.680213",
+        "id": "locations_3"
+    },
+    {
+        "name": "Bastión Maldito",
+        "type": "locations",
+        "data": {
+            "Control de ubicación": "Abandonado",
+            "Distintivo de población": "Un pozo sin fondo rodeado de supersticiones.",
+            "Elementos llamativos": "Estructura Natural gigante",
+            "Estado del lugar": "En declive por plagas, hambre o éxodo.",
+            "Nivel de peligro": "Alta criminalidad y corrupción.",
+            "Nivel tecnológico": "Transhumanismo",
+            "Particularidades del mundo": "Un mundo cubierto de cenizas",
+            "Peculiaridad": "Ninguna",
+            "Religión": "Paganismo, cultos naturales o ancestrales.",
+            "Tamaño población": "Sitio fantasma (0 habitantes vivos)",
+            "Tipo de gobierno": "Kratocracia",
+            "Tipo de creación": "Asentamiento",
+            "Rol del lugar": "Sin rol definido"
+        },
+        "created_at": "2026-06-30T15:16:41.660765",
+        "id": "locations_4"
+    }
+]

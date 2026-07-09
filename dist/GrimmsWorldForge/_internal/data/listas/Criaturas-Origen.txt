@@ -1,0 +1,10 @@
+Criatura prehistórica que ha sobrevivido hasta hoy|resistance:+3|knowledge:-1|risk:+1
+Creación de un dios o entidad superior|arcane:+3|influence:+2|risk:+2
+Experimento fallido o creado artificialmente|arcane:+1|control:-2|risk:+3
+Proveniente de otra dimensión o plano astral|arcane:+4|social:-3|risk:+4
+Es un espíritu materializado en forma física|arcane:+3|defense:+2|risk:+2
+Apareció espontáneamente sin explicación lógica|risk:+4|arcane:+1
+Fue invocado por un ritual arcano|arcane:+3|control:-1|risk:+3
+Evolucionó de otra especie desconocida|resistance:+2|knowledge:+1|risk:+1
+Manifestación de un concepto o emoción|arcane:+4|social:-2|risk:+3
+Solo existe mientras alguien crea en él|influence:+3|arcane:+3|resistance:-2|risk:+4

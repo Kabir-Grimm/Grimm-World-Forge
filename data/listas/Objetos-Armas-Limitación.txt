@@ -1,0 +1,10 @@
+Es extremadamente pesada
+Solo puede ser usada un número limitado de veces antes de romperse
+Tiene una voluntad propia y a veces desobedece al usuario
+Su poder solo funciona en ciertas condiciones
+Consume la energía vital de quien la usa
+No puede ser desenvainada sin una razón válida
+Se oxida, corroe o degenera con el tiempo
+Es tan peligrosa que daña tanto al usuario como al enemigo
+Solo puede dañar a ciertos tipos de enemigos
+Desaparece temporalmente si es usada demasiado

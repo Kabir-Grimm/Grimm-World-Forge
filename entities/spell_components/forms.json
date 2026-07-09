@@ -1,0 +1,602 @@
+[
+    {
+        "id": "form_1",
+        "name": "Proyectil",
+        "description": "Componente de hechizo asociado a proyectil.",
+        "tags": [
+            "form",
+            "proyectil"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_2",
+        "name": "Barrera",
+        "description": "Componente de hechizo asociado a barrera.",
+        "tags": [
+            "form",
+            "barrera"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_3",
+        "name": "Aura",
+        "description": "Componente de hechizo asociado a aura.",
+        "tags": [
+            "form",
+            "aura"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_4",
+        "name": "Marca",
+        "description": "Componente de hechizo asociado a marca.",
+        "tags": [
+            "form",
+            "marca"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_5",
+        "name": "Campo",
+        "description": "Componente de hechizo asociado a campo.",
+        "tags": [
+            "form",
+            "campo"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_6",
+        "name": "Objeto",
+        "description": "Componente de hechizo asociado a objeto.",
+        "tags": [
+            "form",
+            "objeto"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_7",
+        "name": "Criatura",
+        "description": "Componente de hechizo asociado a criatura.",
+        "tags": [
+            "form",
+            "criatura"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_8",
+        "name": "Maldición",
+        "description": "Componente de hechizo asociado a maldición.",
+        "tags": [
+            "form",
+            "maldición"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_9",
+        "name": "Bendición",
+        "description": "Componente de hechizo asociado a bendición.",
+        "tags": [
+            "form",
+            "bendición"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_10",
+        "name": "Pulso",
+        "description": "Componente de hechizo asociado a pulso.",
+        "tags": [
+            "form",
+            "pulso"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_11",
+        "name": "Hilo",
+        "description": "Componente de hechizo asociado a hilo.",
+        "tags": [
+            "form",
+            "hilo"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_12",
+        "name": "Niebla",
+        "description": "Componente de hechizo asociado a niebla.",
+        "tags": [
+            "form",
+            "niebla"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_13",
+        "name": "Círculo",
+        "description": "Componente de hechizo asociado a círculo.",
+        "tags": [
+            "form",
+            "círculo"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_14",
+        "name": "Gesto instantáneo",
+        "description": "Componente de hechizo asociado a gesto instantáneo.",
+        "tags": [
+            "form",
+            "gesto_instantáneo"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_15",
+        "name": "Ritual prolongado",
+        "description": "Componente de hechizo asociado a ritual prolongado.",
+        "tags": [
+            "form",
+            "ritual_prolongado"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_16",
+        "name": "Lanza",
+        "description": "Componente de hechizo asociado a lanza.",
+        "tags": [
+            "form",
+            "lanza"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_17",
+        "name": "Red",
+        "description": "Componente de hechizo asociado a red.",
+        "tags": [
+            "form",
+            "red"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_18",
+        "name": "Corona",
+        "description": "Componente de hechizo asociado a corona.",
+        "tags": [
+            "form",
+            "corona"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_19",
+        "name": "Máscara",
+        "description": "Componente de hechizo asociado a máscara.",
+        "tags": [
+            "form",
+            "máscara"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_20",
+        "name": "Puerta",
+        "description": "Componente de hechizo asociado a puerta.",
+        "tags": [
+            "form",
+            "puerta"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_21",
+        "name": "Llave",
+        "description": "Componente de hechizo asociado a llave.",
+        "tags": [
+            "form",
+            "llave"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_22",
+        "name": "Cadena",
+        "description": "Componente de hechizo asociado a cadena.",
+        "tags": [
+            "form",
+            "cadena"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_23",
+        "name": "Espina",
+        "description": "Componente de hechizo asociado a espina.",
+        "tags": [
+            "form",
+            "espina"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_24",
+        "name": "Semilla",
+        "description": "Componente de hechizo asociado a semilla.",
+        "tags": [
+            "form",
+            "semilla"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_25",
+        "name": "Espejo",
+        "description": "Componente de hechizo asociado a espejo.",
+        "tags": [
+            "form",
+            "espejo"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_26",
+        "name": "Tinta",
+        "description": "Componente de hechizo asociado a tinta.",
+        "tags": [
+            "form",
+            "tinta"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_27",
+        "name": "Canción",
+        "description": "Componente de hechizo asociado a canción.",
+        "tags": [
+            "form",
+            "canción"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_28",
+        "name": "Susurro",
+        "description": "Componente de hechizo asociado a susurro.",
+        "tags": [
+            "form",
+            "susurro"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_29",
+        "name": "Grillete",
+        "description": "Componente de hechizo asociado a grillete.",
+        "tags": [
+            "form",
+            "grillete"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_30",
+        "name": "Ojo",
+        "description": "Componente de hechizo asociado a ojo.",
+        "tags": [
+            "form",
+            "ojo"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_31",
+        "name": "Mano",
+        "description": "Componente de hechizo asociado a mano.",
+        "tags": [
+            "form",
+            "mano"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_32",
+        "name": "Aliento",
+        "description": "Componente de hechizo asociado a aliento.",
+        "tags": [
+            "form",
+            "aliento"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_33",
+        "name": "Piel",
+        "description": "Componente de hechizo asociado a piel.",
+        "tags": [
+            "form",
+            "piel"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_34",
+        "name": "Arma encantada",
+        "description": "Componente de hechizo asociado a arma encantada.",
+        "tags": [
+            "form",
+            "arma_encantada"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_35",
+        "name": "Escudo viviente",
+        "description": "Componente de hechizo asociado a escudo viviente.",
+        "tags": [
+            "form",
+            "escudo_viviente"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_36",
+        "name": "Lluvia",
+        "description": "Componente de hechizo asociado a lluvia.",
+        "tags": [
+            "form",
+            "lluvia"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_37",
+        "name": "Torbellino",
+        "description": "Componente de hechizo asociado a torbellino.",
+        "tags": [
+            "form",
+            "torbellino"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_38",
+        "name": "Cristal",
+        "description": "Componente de hechizo asociado a cristal.",
+        "tags": [
+            "form",
+            "cristal"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_39",
+        "name": "Sombra proyectada",
+        "description": "Componente de hechizo asociado a sombra proyectada.",
+        "tags": [
+            "form",
+            "sombra_proyectada"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "form_40",
+        "name": "Eco repetido",
+        "description": "Componente de hechizo asociado a eco repetido.",
+        "tags": [
+            "form",
+            "eco_repetido"
+        ],
+        "effects": {
+            "control": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    }
+]

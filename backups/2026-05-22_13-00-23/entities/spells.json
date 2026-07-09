@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Ama'tys",
+        "type": "spells",
+        "data": {
+            "Costo": "Debilita el cuerpo",
+            "Forma": "Círculo ritual",
+            "Reaccion": "La piel del objetivo se marca con símbolos",
+            "Tipo": "Ataque elemental"
+        },
+        "effects": {
+            "resistance": -3,
+            "arcane": 4,
+            "control": 2,
+            "initiative": -1,
+            "damage": 3,
+            "risk": 1
+        },
+        "created_at": "2026-05-20T12:49:05.336997",
+        "id": "spells_1"
+    },
+    {
+        "name": "Du'tlwe",
+        "type": "spells",
+        "data": {
+            "Costo": "Atrae entidades",
+            "Forma": "Explosión radial",
+            "Reaccion": "El olor a metal quemado llena el aire",
+            "Tipo": "Ruptura espiritual"
+        },
+        "effects": {
+            "arcane": 6,
+            "risk": 11,
+            "damage": 6
+        },
+        "created_at": "2026-05-20T12:54:18.844911",
+        "id": "spells_2"
+    },
+    {
+        "name": "Lok'cvu",
+        "type": "spells",
+        "data": {
+            "Costo": "Puede salirse de control",
+            "Forma": "Palabra prohibida",
+            "Reaccion": "Una grieta de energía se abre y desaparece",
+            "Tipo": "Ilusión"
+        },
+        "effects": {
+            "arcane": 5,
+            "control": 0,
+            "risk": 6,
+            "stealth": 3
+        },
+        "created_at": "2026-05-20T12:54:52.787799",
+        "id": "spells_3"
+    }
+]

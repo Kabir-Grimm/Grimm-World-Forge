@@ -1,0 +1,50 @@
+Arma|10
+Armadura|8
+Protección personal|8
+Herramienta|10
+Accesorio|10
+Vestimenta|8
+Artefacto|7
+Reliquia|5
+Objeto ceremonial|5
+Objeto cotidiano|10
+Objeto de lujo|5
+Objeto coleccionable|5
+Consumible|8
+Medicina o tratamiento|5
+Alimento especial|5
+Bebida especial|5
+Material|8
+Materia prima|8
+Componente|8
+Recurso energético|5
+Moneda o valor de intercambio|8
+Información|8
+Documento|7
+Mapa o guía|6
+Llave o acceso|6
+Contenedor|8
+Equipo especializado|8
+Herramienta de creación|6
+Herramienta de exploración|6
+Herramienta de comunicación|6
+Herramienta de transporte|6
+Vehículo o montura|5
+Compañero o asistente|3
+Objeto vinculado a una persona|4
+Objeto vinculado a una organización|4
+Objeto vinculado a un lugar|4
+Restos de criatura o ser|4
+Muestra desconocida|3
+Elemento cultural|5
+Obra artística|5
+Elemento religioso o espiritual|4
+Elemento tecnológico|5
+Elemento biológico|4
+Elemento mágico o inexplicable|3
+Objeto ilegal o restringido|4
+Objeto experimental|3
+Objeto perdido|5
+Objeto incompleto|5
+Objeto peligroso|3
+Anomalía|2

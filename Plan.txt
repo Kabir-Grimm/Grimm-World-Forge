@@ -1,0 +1,33 @@
+Ahora,hay forma de continuar con el plan? 
+🅰️ Relaciones entre entidades (MUY recomendable) El verdadero power-up. 
+Ejemplo: 
+NPC pertenece a: → Ciudad → Religión → Facción → Familia Entonces TODO el mundo queda conectado. 
+Esto convierte la app en: un simulador narrativo persistente 
+🅱️ Generador de mundos persistentes 
+Crear: 
+Mundo ├── 
+Regiones ├── 
+Ciudades ├── 
+NPCs ├── 
+Facciones ├── 
+Dioses └── 
+Eventos 
+y que todo se guarde automáticamente. 
+
+🅲️ Sistema de escenas dinámicas Algo MUY fuerte para rol solo:
+ [ESCENA] Lugar Actor Evento Complicación Tensión y todo conectado con 
+entidades reales. 🅳️ Timeline viva Esto sería brutal. 
+Cada generación: Año 1044 → NPC X murió → Ciudad Y cayó → Dios Z apareció y 
+el mundo evoluciona. 
+
+🅴️ Generación contextual Ejemplo: 
+Ciudad desértica ↓ NPCs usan ropa ligera ↓ Comida basada en insectos ↓ Religión solar 
+Eso ya sería IA procedural lite.
+
+
+-Más adelante podemos hacer que el sistema ignore acentos automáticamente, 
+pero por ahora este cambio lo corrige directo.
+
+perfecto,entonces sigamos con la parte de los equipamientos,y resume como 
+va funcionar,luego creamos el sistema de encuentros,
+luego los ejercitos y luego la generacion de monstruos y criaturas

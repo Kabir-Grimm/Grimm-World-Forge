@@ -1,0 +1,77 @@
+{
+    "port": {
+        "display_name": "Puerto",
+        "produces": {
+            "fish": 5,
+            "trade_goods": 3,
+            "rumors": 2,
+            "travelers": 2
+        },
+        "tags": [
+            "port",
+            "sea",
+            "commerce",
+            "travel"
+        ]
+    },
+    "university": {
+        "display_name": "Universidad",
+        "produces": {
+            "knowledge": 5,
+            "books": 3,
+            "magic_research": 2,
+            "scholars": 1
+        },
+        "tags": [
+            "university",
+            "knowledge",
+            "magic",
+            "research"
+        ]
+    },
+    "fortress": {
+        "display_name": "Fortaleza",
+        "produces": {
+            "soldiers": 4,
+            "weapons": 3,
+            "recruits": 3,
+            "security": 2
+        },
+        "tags": [
+            "fortress",
+            "military",
+            "defense",
+            "war"
+        ]
+    },
+    "village": {
+        "display_name": "Villa",
+        "produces": {
+            "food": 5,
+            "wood": 3,
+            "livestock": 2,
+            "workers": 2
+        },
+        "tags": [
+            "village",
+            "rural",
+            "survival",
+            "community"
+        ]
+    },
+    "ruins": {
+        "display_name": "Ruinas",
+        "produces": {
+            "relics": 2,
+            "ancient_knowledge": 2,
+            "magic_residue": 3,
+            "danger": 4
+        },
+        "tags": [
+            "ruins",
+            "ancient",
+            "danger",
+            "mystery"
+        ]
+    }
+}

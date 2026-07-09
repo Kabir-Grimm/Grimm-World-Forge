@@ -1,0 +1,12 @@
+Distrito|10
+Sector|10
+Bloque|8
+Torre|8
+Nodo|8
+Refugio|7
+Mercado|7
+Zona|7
+Terminal|6
+Complejo|6
+Laboratorio|5
+Subnivel|5

@@ -1,0 +1,7 @@
+Lento (Torpe, siempre el último en moverse)|.4
+Bajo promedio (Corre menos que el promedio)|.8
+Normal (Corre a velocidad humana estándar)|1
+Ágil (Corre más rápido que la mayoría)|.8
+Rápido (Velocidad sorprendente en combate y huida)|.08
+Relámpago (Es difícil seguirlo con la vista)|.05
+Supersónico (Movimiento tan veloz que parece desaparecer)|.01

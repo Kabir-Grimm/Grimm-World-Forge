@@ -1,0 +1,7 @@
+Cobarde (Evita todo peligro)|.4
+Tímido (Solo actúa con garantías de éxito)|.8
+Precavido (Evalúa bien los riesgos antes de actuar)|1
+Decidido (No se deja intimidar fácilmente)|.8
+Intrépido (Se lanza al peligro sin dudar)|.08
+Temerario (No teme la muerte ni el dolor)|.05
+Suicida (Desafía la muerte como si fuera inmortal)|.01

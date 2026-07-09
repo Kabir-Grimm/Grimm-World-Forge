@@ -1,0 +1,49 @@
+Objeto pequeño y portátil|10
+Objeto pesado|5
+Objeto frágil|5
+Objeto resistente|5
+Objeto plegable|4
+Objeto modular|4
+Objeto compuesto de varias piezas|5
+Objeto sellado|5
+Objeto oculto dentro de otro|3
+Objeto transformable|3
+Objeto antiguo|5
+Objeto recién creado|5
+Objeto reparado varias veces|4
+Objeto personalizado|5
+Objeto producido en masa|8
+Objeto único en apariencia|3
+Objeto decorado|5
+Objeto simple|8
+Objeto complejo|5
+Objeto incompleto|5
+Fragmento|8
+Restos parciales|6
+Muestra conservada|5
+Recipiente cerrado|6
+Caja o contenedor|6
+Paquete protegido|5
+Registro físico|5
+Registro no físico|5
+Símbolo identificable|4
+Marca o señal|4
+Dispositivo manual|6
+Dispositivo automático|5
+Sistema integrado|4
+Estructura pequeña|5
+Pieza de una estructura mayor|5
+Objeto adaptable|3
+Objeto alterado|3
+Objeto con múltiples usos|4
+Objeto difícil de reconocer|3
+Objeto que parece otra cosa|3
+Objeto con partes móviles|4
+Objeto con partes reemplazables|4
+Objeto refinado|5
+Objeto bruto sin procesar|5
+Objeto preservado|4
+Objeto contaminado|3
+Objeto extraño para su época|3
+Objeto fuera de contexto|2
+Objeto imposible de clasificar|1

@@ -1,0 +1,10 @@
+Rayo concentrado|damage:+2
+Círculo ritual|control:+2|initiative:-1
+Marca sobre la piel|risk:+1|arcane:+1
+Palabra prohibida|control:+2|risk:+2
+Llama viva|damage:+3|risk:+1
+Sombra líquida|stealth:+2|arcane:+1
+Cadena espectral|control:+3
+Explosión radial|damage:+4|risk:+3
+Susurro mental|control:+2|stealth:+1
+Lanza de energía|damage:+3|initiative:+1

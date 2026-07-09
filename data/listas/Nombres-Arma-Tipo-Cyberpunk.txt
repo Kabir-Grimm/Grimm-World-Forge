@@ -1,0 +1,7 @@
+Pistola|10
+Rifle|10
+Cuchilla monomolecular|8
+Dron ofensivo|7
+Implante armado|7
+Cañón portátil|6
+Pulso electromagnético|5

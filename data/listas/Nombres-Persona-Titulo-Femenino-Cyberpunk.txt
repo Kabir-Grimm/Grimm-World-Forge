@@ -1,0 +1,49 @@
+Operadora|10
+Runner|10
+Broker|10
+Agente|9
+Técnica|9
+Ghost|9
+Fixer|8
+Piloto|8
+Mercenaria|8
+Ejecutora|8
+Hacker|7
+Especialista|7
+Doctora|7
+Ingeniera|7
+Detective|6
+Cazarrecompensas|6
+Contrabandista|6
+Exploradora|6
+Vigilante|6
+Comandante|5
+Directora|5
+Arquitecta|5
+Programadora|5
+Analista|5
+Infiltradora|4
+Operativa|4
+Rebelde|4
+Nómada|4
+Forajida|4
+Sombra|3
+Fantasma|3
+Proxy|3
+Avatar|3
+Cyborg|3
+Sintética|3
+Clon|2
+Modelo|2
+Experimento|2
+Prototipo|2
+Unidad|2
+Eliminadora|1
+Administradora|1
+Controladora|1
+Supervisora|1
+Traficante de datos|1
+Caminante digital|1
+Destructora de sistemas|1
+Última humana|1
+Sin registro|1

@@ -1,0 +1,680 @@
+[
+    {
+        "id": "spell_20260625_171030_2864",
+        "name": "Copiar Emoción",
+        "type": "generated_spell",
+        "created_at": "2026-06-25T17:10:30.210046",
+        "blueprint": {
+            "id": "blueprint_2",
+            "name": "Hechizo avanzado"
+        },
+        "components": {
+            "source": {
+                "id": "source_4",
+                "name": "Energía mental",
+                "description": "Fuerza nacida de pensamiento, voluntad, memoria o percepción.",
+                "tags": [
+                    "mind",
+                    "psychic"
+                ],
+                "effects": {
+                    "knowledge": 1,
+                    "control": 1
+                },
+                "risk": 0
+            },
+            "action": {
+                "id": "action_13",
+                "name": "Copiar",
+                "description": "Replica apariencia, patrón, efecto o comportamiento.",
+                "tags": [
+                    "copy",
+                    "mimicry"
+                ],
+                "effects": {
+                    "knowledge": 1,
+                    "risk": 1
+                },
+                "risk": 1
+            },
+            "target": {
+                "id": "target_7",
+                "name": "Emoción",
+                "description": "Afecta miedo, calma, deseo, ira, valor o apego.",
+                "tags": [
+                    "emotion",
+                    "social"
+                ],
+                "effects": {
+                    "social": 1,
+                    "control": 1
+                },
+                "risk": 0
+            },
+            "form": {
+                "id": "form_15",
+                "name": "Ritual prolongado",
+                "description": "Requiere tiempo, preparación y concentración.",
+                "tags": [
+                    "ritual"
+                ],
+                "effects": {
+                    "control": 3,
+                    "initiative": -2
+                },
+                "risk": 0
+            },
+            "modifiers": [],
+            "costs": [],
+            "limitations": [
+                {
+                    "id": "limitation_1",
+                    "name": "Requiere línea de visión",
+                    "description": "El objetivo debe poder verse o percibirse claramente.",
+                    "tags": [
+                        "vision"
+                    ],
+                    "effects": {},
+                    "risk": 0
+                },
+                {
+                    "id": "limitation_14",
+                    "name": "Rebote posible",
+                    "description": "Puede afectar al usuario si falla.",
+                    "tags": [
+                        "backlash"
+                    ],
+                    "effects": {},
+                    "risk": 1
+                }
+            ],
+            "manifestation": {
+                "id": "manifestation_7",
+                "name": "Luz suave",
+                "description": "El efecto aparece como brillo leve o sagrado.",
+                "tags": [
+                    "light"
+                ],
+                "effects": {},
+                "risk": 0
+            }
+        },
+        "description": "Usa Energía mental para copiar emoción mediante una forma de ritual prolongado. Limitaciones: Requiere línea de visión, Rebote posible. Se manifiesta como: Luz suave.",
+        "effects": {},
+        "risk": 3,
+        "data": {
+            "Categoría": "Hechizo modular",
+            "Descripción": "Usa Energía mental para copiar emoción mediante una forma de ritual prolongado. Limitaciones: Requiere línea de visión, Rebote posible. Se manifiesta como: Luz suave.",
+            "Riesgo": "3",
+            "tags": [
+                "mind",
+                "psychic",
+                "copy",
+                "mimicry",
+                "emotion",
+                "social",
+                "ritual",
+                "light",
+                "vision",
+                "backlash"
+            ]
+        }
+    },
+    {
+        "id": "spell_20260625_173838_3869",
+        "name": "Pulso de Cuerpo",
+        "type": "generated_spell",
+        "created_at": "2026-06-25T17:38:38.754813",
+        "blueprint": {
+            "id": "blueprint_3",
+            "name": "Ritual complejo"
+        },
+        "components": {
+            "source": {
+                "id": "source_9",
+                "name": "Tiempo",
+                "description": "Fuerza inestable que afecta secuencia, edad, repetición, espera o destino.",
+                "tags": [
+                    "time",
+                    "rare"
+                ],
+                "effects": {
+                    "control": 2,
+                    "risk": 2
+                },
+                "risk": 2
+            },
+            "action": {
+                "id": "action_8",
+                "name": "Unir",
+                "description": "Conecta cosas mediante vínculo, puente, contrato o resonancia.",
+                "tags": [
+                    "link",
+                    "support"
+                ],
+                "effects": {
+                    "social": 1,
+                    "control": 1
+                },
+                "risk": 0
+            },
+            "target": {
+                "id": "target_1",
+                "name": "Cuerpo",
+                "description": "Afecta carne, hueso, órganos, postura o resistencia.",
+                "tags": [
+                    "body"
+                ],
+                "effects": {
+                    "resistance": 1
+                },
+                "risk": 0
+            },
+            "form": {
+                "id": "form_10",
+                "name": "Pulso",
+                "description": "Ocurre en una descarga breve alrededor del punto de origen.",
+                "tags": [
+                    "pulse",
+                    "area"
+                ],
+                "effects": {
+                    "control": 1,
+                    "initiative": 1
+                },
+                "risk": 0
+            },
+            "modifiers": [
+                {
+                    "id": "modifier_8",
+                    "name": "Automatización",
+                    "description": "Se activa bajo una condición predefinida.",
+                    "tags": [
+                        "trigger"
+                    ],
+                    "effects": {
+                        "knowledge": 1,
+                        "risk": 1
+                    },
+                    "risk": 1
+                },
+                {
+                    "id": "modifier_9",
+                    "name": "Discreción",
+                    "description": "El efecto es difícil de detectar.",
+                    "tags": [
+                        "stealth"
+                    ],
+                    "effects": {
+                        "stealth": 2,
+                        "risk": 1
+                    },
+                    "risk": 1
+                }
+            ],
+            "costs": [
+                {
+                    "id": "cost_3",
+                    "name": "Dolor",
+                    "description": "Produce dolor directo o sensibilidad posterior.",
+                    "tags": [
+                        "pain"
+                    ],
+                    "effects": {
+                        "injury_risk": 1
+                    },
+                    "risk": 0
+                },
+                {
+                    "id": "cost_9",
+                    "name": "Deuda espiritual",
+                    "description": "Algo o alguien queda con derecho a reclamar un pago futuro.",
+                    "tags": [
+                        "debt",
+                        "spiritual"
+                    ],
+                    "effects": {
+                        "risk": 3,
+                        "influence": 1
+                    },
+                    "risk": 3
+                },
+                {
+                    "id": "cost_2",
+                    "name": "Fatiga mental",
+                    "description": "El usuario pierde concentración, claridad o enfoque.",
+                    "tags": [
+                        "mental_cost"
+                    ],
+                    "effects": {
+                        "knowledge": -1
+                    },
+                    "risk": 0
+                }
+            ],
+            "limitations": [
+                {
+                    "id": "limitation_13",
+                    "name": "Escala limitada",
+                    "description": "No puede afectar objetivos demasiado grandes o complejos.",
+                    "tags": [
+                        "limited_scale"
+                    ],
+                    "effects": {},
+                    "risk": 0
+                },
+                {
+                    "id": "limitation_1",
+                    "name": "Requiere línea de visión",
+                    "description": "El objetivo debe poder verse o percibirse claramente.",
+                    "tags": [
+                        "vision"
+                    ],
+                    "effects": {},
+                    "risk": 0
+                }
+            ],
+            "manifestation": {
+                "id": "manifestation_7",
+                "name": "Luz suave",
+                "description": "El efecto aparece como brillo leve o sagrado.",
+                "tags": [
+                    "light"
+                ],
+                "effects": {},
+                "risk": 0
+            }
+        },
+        "description": "Usa Tiempo para unir cuerpo mediante una forma de pulso. Se ve alterado por: Automatización, Discreción. Su precio principal es: Dolor, Deuda espiritual, Fatiga mental. Limitaciones: Escala limitada, Requiere línea de visión. Se manifiesta como: Luz suave.",
+        "effects": {
+            "control": 4,
+            "risk": 7,
+            "social": 1,
+            "resistance": 1,
+            "initiative": 1,
+            "knowledge": 0,
+            "stealth": 2,
+            "injury_risk": 1,
+            "influence": 1
+        },
+        "risk": 14,
+        "data": {
+            "Categoría": "Hechizo modular",
+            "Descripción": "Usa Tiempo para unir cuerpo mediante una forma de pulso. Se ve alterado por: Automatización, Discreción. Su precio principal es: Dolor, Deuda espiritual, Fatiga mental. Limitaciones: Escala limitada, Requiere línea de visión. Se manifiesta como: Luz suave.",
+            "Riesgo": "14",
+            "tags": [
+                "time",
+                "rare",
+                "link",
+                "support",
+                "body",
+                "pulse",
+                "area",
+                "light",
+                "trigger",
+                "stealth",
+                "pain",
+                "debt",
+                "spiritual",
+                "mental_cost",
+                "limited_scale",
+                "vision"
+            ]
+        }
+    },
+    {
+        "id": "spell_20260625_173848_9181",
+        "name": "Criatura de Energía",
+        "type": "generated_spell",
+        "created_at": "2026-06-25T17:38:48.395725",
+        "blueprint": {
+            "id": "blueprint_1",
+            "name": "Hechizo menor"
+        },
+        "components": {
+            "source": {
+                "id": "source_1",
+                "name": "Energía elemental",
+                "description": "Fuerza primaria asociada a fuego, agua, aire, tierra u otros elementos.",
+                "tags": [
+                    "elemental",
+                    "natural"
+                ],
+                "effects": {
+                    "arcane": 1
+                },
+                "risk": 0
+            },
+            "action": {
+                "id": "action_2",
+                "name": "Mover",
+                "description": "Desplaza, empuja, atrae o redirige el objetivo.",
+                "tags": [
+                    "movement"
+                ],
+                "effects": {
+                    "control": 1,
+                    "initiative": 1
+                },
+                "risk": 0
+            },
+            "target": {
+                "id": "target_5",
+                "name": "Energía",
+                "description": "Afecta calor, electricidad, luz, fuerza, aura o poder bruto.",
+                "tags": [
+                    "energy"
+                ],
+                "effects": {
+                    "arcane": 1
+                },
+                "risk": 0
+            },
+            "form": {
+                "id": "form_7",
+                "name": "Criatura",
+                "description": "Adopta forma de ser, familiar, sombra, espíritu o constructo.",
+                "tags": [
+                    "creature",
+                    "summon"
+                ],
+                "effects": {
+                    "control": 1,
+                    "risk": 2
+                },
+                "risk": 2
+            },
+            "modifiers": [],
+            "costs": [],
+            "limitations": [
+                {
+                    "id": "limitation_6",
+                    "name": "Requiere silencio",
+                    "description": "No funciona bien con ruido, interrupciones o desorden.",
+                    "tags": [
+                        "silence"
+                    ],
+                    "effects": {},
+                    "risk": 0
+                }
+            ],
+            "manifestation": {
+                "id": "manifestation_6",
+                "name": "Sombra viva",
+                "description": "Las sombras se mueven de forma anormal.",
+                "tags": [
+                    "darkness"
+                ],
+                "effects": {},
+                "risk": 0
+            }
+        },
+        "description": "Usa Energía elemental para mover energía mediante una forma de criatura. Limitaciones: Requiere silencio. Se manifiesta como: Sombra viva.",
+        "effects": {
+            "arcane": 2,
+            "control": 2,
+            "initiative": 1,
+            "risk": 2
+        },
+        "risk": 4,
+        "data": {
+            "Categoría": "Hechizo modular",
+            "Descripción": "Usa Energía elemental para mover energía mediante una forma de criatura. Limitaciones: Requiere silencio. Se manifiesta como: Sombra viva.",
+            "Riesgo": "4",
+            "tags": [
+                "elemental",
+                "natural",
+                "movement",
+                "energy",
+                "creature",
+                "summon",
+                "darkness",
+                "silence"
+            ]
+        }
+    },
+    {
+        "id": "spell_20260625_173850_3564",
+        "name": "Aura del Pacto",
+        "type": "generated_spell",
+        "created_at": "2026-06-25T17:38:50.624079",
+        "blueprint": {
+            "id": "blueprint_2",
+            "name": "Hechizo avanzado"
+        },
+        "components": {
+            "source": {
+                "id": "source_15",
+                "name": "Pacto",
+                "description": "Poder prestado por una entidad, promesa, deuda o contrato.",
+                "tags": [
+                    "pact",
+                    "entity"
+                ],
+                "effects": {
+                    "influence": 1,
+                    "risk": 2
+                },
+                "risk": 2
+            },
+            "action": {
+                "id": "action_7",
+                "name": "Revelar",
+                "description": "Expone información, verdad, ubicación, intención o energía oculta.",
+                "tags": [
+                    "detection",
+                    "knowledge"
+                ],
+                "effects": {
+                    "knowledge": 2
+                },
+                "risk": 0
+            },
+            "target": {
+                "id": "target_10",
+                "name": "Tiempo",
+                "description": "Afecta duración, espera, envejecimiento, repetición o secuencia.",
+                "tags": [
+                    "time",
+                    "rare"
+                ],
+                "effects": {
+                    "control": 2,
+                    "risk": 2
+                },
+                "risk": 2
+            },
+            "form": {
+                "id": "form_3",
+                "name": "Aura",
+                "description": "Rodea al usuario o a un objetivo cercano.",
+                "tags": [
+                    "aura",
+                    "support"
+                ],
+                "effects": {
+                    "resistance": 1,
+                    "social": 1
+                },
+                "risk": 0
+            },
+            "modifiers": [],
+            "costs": [],
+            "limitations": [
+                {
+                    "id": "limitation_15",
+                    "name": "Depende del entorno",
+                    "description": "Necesita material, clima, energía o condición cercana.",
+                    "tags": [
+                        "environment"
+                    ],
+                    "effects": {},
+                    "risk": 0
+                }
+            ],
+            "manifestation": {
+                "id": "manifestation_6",
+                "name": "Sombra viva",
+                "description": "Las sombras se mueven de forma anormal.",
+                "tags": [
+                    "darkness"
+                ],
+                "effects": {},
+                "risk": 0
+            }
+        },
+        "description": "Usa Pacto para revelar tiempo mediante una forma de aura. Limitaciones: Depende del entorno. Se manifiesta como: Sombra viva.",
+        "effects": {
+            "influence": 1,
+            "risk": 4,
+            "knowledge": 2,
+            "control": 2,
+            "resistance": 1,
+            "social": 1
+        },
+        "risk": 8,
+        "data": {
+            "Categoría": "Hechizo modular",
+            "Descripción": "Usa Pacto para revelar tiempo mediante una forma de aura. Limitaciones: Depende del entorno. Se manifiesta como: Sombra viva.",
+            "Riesgo": "8",
+            "tags": [
+                "pact",
+                "entity",
+                "detection",
+                "knowledge",
+                "time",
+                "rare",
+                "aura",
+                "support",
+                "darkness",
+                "environment"
+            ]
+        }
+    },
+    {
+        "id": "spell_20260625_173852_4832",
+        "name": "Objeto de Cuerpo",
+        "type": "generated_spell",
+        "created_at": "2026-06-25T17:38:52.555952",
+        "blueprint": {
+            "id": "blueprint_2",
+            "name": "Hechizo avanzado"
+        },
+        "components": {
+            "source": {
+                "id": "source_11",
+                "name": "Vacío",
+                "description": "Poder de ausencia, silencio, borrado, negación o desconexión.",
+                "tags": [
+                    "void",
+                    "forbidden"
+                ],
+                "effects": {
+                    "arcane": 3,
+                    "risk": 3
+                },
+                "risk": 3
+            },
+            "action": {
+                "id": "action_8",
+                "name": "Unir",
+                "description": "Conecta cosas mediante vínculo, puente, contrato o resonancia.",
+                "tags": [
+                    "link",
+                    "support"
+                ],
+                "effects": {
+                    "social": 1,
+                    "control": 1
+                },
+                "risk": 0
+            },
+            "target": {
+                "id": "target_1",
+                "name": "Cuerpo",
+                "description": "Afecta carne, hueso, órganos, postura o resistencia.",
+                "tags": [
+                    "body"
+                ],
+                "effects": {
+                    "resistance": 1
+                },
+                "risk": 0
+            },
+            "form": {
+                "id": "form_6",
+                "name": "Objeto",
+                "description": "Crea, altera o se almacena en un objeto.",
+                "tags": [
+                    "object",
+                    "item"
+                ],
+                "effects": {
+                    "knowledge": 1
+                },
+                "risk": 0
+            },
+            "modifiers": [],
+            "costs": [],
+            "limitations": [
+                {
+                    "id": "limitation_5",
+                    "name": "Requiere concentración",
+                    "description": "Si el usuario se distrae, el efecto se debilita o falla.",
+                    "tags": [
+                        "concentration"
+                    ],
+                    "effects": {},
+                    "risk": 0
+                },
+                {
+                    "id": "limitation_8",
+                    "name": "Solo de noche",
+                    "description": "Depende de oscuridad, sueño, luna o ausencia de luz.",
+                    "tags": [
+                        "night"
+                    ],
+                    "effects": {},
+                    "risk": 0
+                }
+            ],
+            "manifestation": {
+                "id": "manifestation_12",
+                "name": "Viento circular",
+                "description": "El aire gira alrededor del punto de lanzamiento.",
+                "tags": [
+                    "air"
+                ],
+                "effects": {},
+                "risk": 0
+            }
+        },
+        "description": "Usa Vacío para unir cuerpo mediante una forma de objeto. Limitaciones: Requiere concentración, Solo de noche. Se manifiesta como: Viento circular.",
+        "effects": {
+            "arcane": 3,
+            "risk": 3,
+            "social": 1,
+            "control": 1,
+            "resistance": 1,
+            "knowledge": 1
+        },
+        "risk": 6,
+        "data": {
+            "Categoría": "Hechizo modular",
+            "Descripción": "Usa Vacío para unir cuerpo mediante una forma de objeto. Limitaciones: Requiere concentración, Solo de noche. Se manifiesta como: Viento circular.",
+            "Riesgo": "6",
+            "tags": [
+                "void",
+                "forbidden",
+                "link",
+                "support",
+                "body",
+                "object",
+                "item",
+                "air",
+                "concentration",
+                "night"
+            ]
+        }
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "id": "source_1",
+        "name": "Energía elemental",
+        "description": "Componente de hechizo asociado a energía elemental.",
+        "tags": [
+            "source",
+            "energía_elemental"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_2",
+        "name": "Energía vital",
+        "description": "Componente de hechizo asociado a energía vital.",
+        "tags": [
+            "source",
+            "energía_vital"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_3",
+        "name": "Energía espiritual",
+        "description": "Componente de hechizo asociado a energía espiritual.",
+        "tags": [
+            "source",
+            "energía_espiritual"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_4",
+        "name": "Energía mental",
+        "description": "Componente de hechizo asociado a energía mental.",
+        "tags": [
+            "source",
+            "energía_mental"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_5",
+        "name": "Sombra",
+        "description": "Componente de hechizo asociado a sombra.",
+        "tags": [
+            "source",
+            "sombra"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_6",
+        "name": "Luz",
+        "description": "Componente de hechizo asociado a luz.",
+        "tags": [
+            "source",
+            "luz"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_7",
+        "name": "Sangre",
+        "description": "Componente de hechizo asociado a sangre.",
+        "tags": [
+            "source",
+            "sangre"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_8",
+        "name": "Sueño",
+        "description": "Componente de hechizo asociado a sueño.",
+        "tags": [
+            "source",
+            "sueño"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_9",
+        "name": "Tiempo",
+        "description": "Componente de hechizo asociado a tiempo.",
+        "tags": [
+            "source",
+            "tiempo"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_10",
+        "name": "Espacio",
+        "description": "Componente de hechizo asociado a espacio.",
+        "tags": [
+            "source",
+            "espacio"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_11",
+        "name": "Vacío",
+        "description": "Componente de hechizo asociado a vacío.",
+        "tags": [
+            "source",
+            "vacío"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_12",
+        "name": "Tecnología arcana",
+        "description": "Componente de hechizo asociado a tecnología arcana.",
+        "tags": [
+            "source",
+            "tecnología_arcana"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_13",
+        "name": "Fuerza cósmica",
+        "description": "Componente de hechizo asociado a fuerza cósmica.",
+        "tags": [
+            "source",
+            "fuerza_cósmica"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_14",
+        "name": "Naturaleza",
+        "description": "Componente de hechizo asociado a naturaleza.",
+        "tags": [
+            "source",
+            "naturaleza"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_15",
+        "name": "Pacto",
+        "description": "Componente de hechizo asociado a pacto.",
+        "tags": [
+            "source",
+            "pacto"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_16",
+        "name": "Tormenta",
+        "description": "Componente de hechizo asociado a tormenta.",
+        "tags": [
+            "source",
+            "tormenta"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_17",
+        "name": "Hielo",
+        "description": "Componente de hechizo asociado a hielo.",
+        "tags": [
+            "source",
+            "hielo"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_18",
+        "name": "Fuego",
+        "description": "Componente de hechizo asociado a fuego.",
+        "tags": [
+            "source",
+            "fuego"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_19",
+        "name": "Agua",
+        "description": "Componente de hechizo asociado a agua.",
+        "tags": [
+            "source",
+            "agua"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_20",
+        "name": "Tierra",
+        "description": "Componente de hechizo asociado a tierra.",
+        "tags": [
+            "source",
+            "tierra"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_21",
+        "name": "Metal",
+        "description": "Componente de hechizo asociado a metal.",
+        "tags": [
+            "source",
+            "metal"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_22",
+        "name": "Veneno",
+        "description": "Componente de hechizo asociado a veneno.",
+        "tags": [
+            "source",
+            "veneno"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_23",
+        "name": "Eco",
+        "description": "Componente de hechizo asociado a eco.",
+        "tags": [
+            "source",
+            "eco"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_24",
+        "name": "Sonido",
+        "description": "Componente de hechizo asociado a sonido.",
+        "tags": [
+            "source",
+            "sonido"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_25",
+        "name": "Gravedad",
+        "description": "Componente de hechizo asociado a gravedad.",
+        "tags": [
+            "source",
+            "gravedad"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_26",
+        "name": "Dolor",
+        "description": "Componente de hechizo asociado a dolor.",
+        "tags": [
+            "source",
+            "dolor"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_27",
+        "name": "Deseo",
+        "description": "Componente de hechizo asociado a deseo.",
+        "tags": [
+            "source",
+            "deseo"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_28",
+        "name": "Miedo",
+        "description": "Componente de hechizo asociado a miedo.",
+        "tags": [
+            "source",
+            "miedo"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_29",
+        "name": "Fe",
+        "description": "Componente de hechizo asociado a fe.",
+        "tags": [
+            "source",
+            "fe"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_30",
+        "name": "Caos",
+        "description": "Componente de hechizo asociado a caos.",
+        "tags": [
+            "source",
+            "caos"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_31",
+        "name": "Orden",
+        "description": "Componente de hechizo asociado a orden.",
+        "tags": [
+            "source",
+            "orden"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_32",
+        "name": "Memoria del mundo",
+        "description": "Componente de hechizo asociado a memoria del mundo.",
+        "tags": [
+            "source",
+            "memoria_del_mundo"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_33",
+        "name": "Estrellas muertas",
+        "description": "Componente de hechizo asociado a estrellas muertas.",
+        "tags": [
+            "source",
+            "estrellas_muertas"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_34",
+        "name": "Raíz primordial",
+        "description": "Componente de hechizo asociado a raíz primordial.",
+        "tags": [
+            "source",
+            "raíz_primordial"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_35",
+        "name": "Ruido imposible",
+        "description": "Componente de hechizo asociado a ruido imposible.",
+        "tags": [
+            "source",
+            "ruido_imposible"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_36",
+        "name": "Materia onírica",
+        "description": "Componente de hechizo asociado a materia onírica.",
+        "tags": [
+            "source",
+            "materia_onírica"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_37",
+        "name": "Electricidad viva",
+        "description": "Componente de hechizo asociado a electricidad viva.",
+        "tags": [
+            "source",
+            "electricidad_viva"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_38",
+        "name": "Ceniza",
+        "description": "Componente de hechizo asociado a ceniza.",
+        "tags": [
+            "source",
+            "ceniza"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_39",
+        "name": "Cristal",
+        "description": "Componente de hechizo asociado a cristal.",
+        "tags": [
+            "source",
+            "cristal"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "source_40",
+        "name": "Nombre verdadero",
+        "description": "Componente de hechizo asociado a nombre verdadero.",
+        "tags": [
+            "source",
+            "nombre_verdadero"
+        ],
+        "effects": {
+            "arcane": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    }
+]

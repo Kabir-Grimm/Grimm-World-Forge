@@ -1,0 +1,249 @@
+[
+    {
+        "name": "Arcanum de Resonancia",
+        "type": "magic_systems",
+        "data": {
+            "Catalizador": "Voz, gesto o símbolo personal",
+            "Costo": "Fatiga mental proporcional al efecto",
+            "Fuente": "Resonancia entre voluntad, emoción y entorno",
+            "Rareza": "Común",
+            "Descripción": "Sistema inicial compatible con fantasía, moderno, cyberpunk o mundos híbridos.",
+            "tags": [
+                "magic_system",
+                "arcane",
+                "knowledge"
+            ]
+        },
+        "rarity": "Común",
+        "effects": {
+            "arcane": 2,
+            "control": 1,
+            "knowledge": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_magic_system_1"
+    },
+    {
+        "name": "Pactos del Umbral",
+        "type": "magic_systems",
+        "data": {
+            "Catalizador": "Juramento, marca, reliquia o entidad vinculada",
+            "Costo": "Obligaciones, deuda espiritual o consecuencias narrativas",
+            "Fuente": "Acuerdos con fuerzas externas o inteligencias antiguas",
+            "Rareza": "Rara",
+            "Descripción": "Sistema inicial compatible con fantasía, moderno, cyberpunk o mundos híbridos.",
+            "tags": [
+                "magic_system",
+                "arcane",
+                "knowledge"
+            ]
+        },
+        "rarity": "Rara",
+        "effects": {
+            "arcane": 3,
+            "influence": 2,
+            "risk": 2
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_magic_system_2"
+    },
+    {
+        "name": "Disciplina Elemental",
+        "type": "magic_systems",
+        "data": {
+            "Catalizador": "Movimiento corporal, foco o componente del elemento",
+            "Costo": "Desgaste físico y riesgo de descontrol ambiental",
+            "Fuente": "Fuerzas naturales o equivalentes del mundo",
+            "Rareza": "Común",
+            "Descripción": "Sistema inicial compatible con fantasía, moderno, cyberpunk o mundos híbridos.",
+            "tags": [
+                "magic_system",
+                "arcane",
+                "knowledge"
+            ]
+        },
+        "rarity": "Común",
+        "effects": {
+            "arcane": 3,
+            "damage": 1,
+            "control": 1,
+            "risk": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_magic_system_3"
+    },
+    {
+        "name": "Técnicas de Restauración",
+        "type": "magic_systems",
+        "data": {
+            "Catalizador": "Contacto, símbolo de sanación o concentración sostenida",
+            "Costo": "Cansancio, transferencia de dolor o consumo de recursos",
+            "Fuente": "Energía vital, memoria corporal o equilibrio interno",
+            "Rareza": "Poco común",
+            "Descripción": "Sistema inicial compatible con fantasía, moderno, cyberpunk o mundos híbridos.",
+            "tags": [
+                "magic_system",
+                "arcane",
+                "knowledge"
+            ]
+        },
+        "rarity": "Poco común",
+        "effects": {
+            "arcane": 2,
+            "resistance": 2,
+            "injury_risk": -2
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_magic_system_4"
+    },
+    {
+        "name": "Sombras y Velos",
+        "type": "magic_systems",
+        "data": {
+            "Catalizador": "Oscuridad, máscara, silencio o distorsión sensorial",
+            "Costo": "Pérdida temporal de claridad, identidad o confianza",
+            "Fuente": "Percepción, miedo, ausencia y ocultamiento",
+            "Rareza": "Poco común",
+            "Descripción": "Sistema inicial compatible con fantasía, moderno, cyberpunk o mundos híbridos.",
+            "tags": [
+                "magic_system",
+                "arcane",
+                "knowledge"
+            ]
+        },
+        "rarity": "Poco común",
+        "effects": {
+            "arcane": 2,
+            "stealth": 3,
+            "control": 1,
+            "risk": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_magic_system_5"
+    },
+    {
+        "name": "Geometría de Sellos",
+        "type": "magic_systems",
+        "data": {
+            "Catalizador": "Runas, patrones, círculos, diagramas o estructuras",
+            "Costo": "Tiempo de preparación y vulnerabilidad durante el trazado",
+            "Fuente": "Orden, forma, límites y reglas impuestas",
+            "Rareza": "Rara",
+            "Descripción": "Sistema inicial compatible con fantasía, moderno, cyberpunk o mundos híbridos.",
+            "tags": [
+                "magic_system",
+                "arcane",
+                "knowledge"
+            ]
+        },
+        "rarity": "Rara",
+        "effects": {
+            "arcane": 3,
+            "defense": 2,
+            "control": 2,
+            "knowledge": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_magic_system_6"
+    },
+    {
+        "name": "Alquimia de Transformación",
+        "type": "magic_systems",
+        "data": {
+            "Catalizador": "Materiales, reactivos, herramientas o intercambio equivalente",
+            "Costo": "Consumo de componentes y riesgo de reacción inestable",
+            "Fuente": "Cambio de estado, mezcla, materia y equivalencias",
+            "Rareza": "Poco común",
+            "Descripción": "Sistema inicial compatible con fantasía, moderno, cyberpunk o mundos híbridos.",
+            "tags": [
+                "magic_system",
+                "arcane",
+                "knowledge"
+            ]
+        },
+        "rarity": "Poco común",
+        "effects": {
+            "arcane": 2,
+            "knowledge": 3,
+            "control": 1,
+            "risk": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_magic_system_7"
+    },
+    {
+        "name": "Canto de Influencia",
+        "type": "magic_systems",
+        "data": {
+            "Catalizador": "Voz, música, ritmo, palabra verdadera o presencia escénica",
+            "Costo": "Exposición emocional y posibilidad de afectar aliados",
+            "Fuente": "Emoción colectiva, memoria, fe o armonía",
+            "Rareza": "Poco común",
+            "Descripción": "Sistema inicial compatible con fantasía, moderno, cyberpunk o mundos híbridos.",
+            "tags": [
+                "magic_system",
+                "arcane",
+                "knowledge"
+            ]
+        },
+        "rarity": "Poco común",
+        "effects": {
+            "arcane": 2,
+            "social": 3,
+            "influence": 2,
+            "risk": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_magic_system_8"
+    },
+    {
+        "name": "Tecnomancia Anómala",
+        "type": "magic_systems",
+        "data": {
+            "Catalizador": "Dispositivo, interfaz, circuito, archivo o patrón lógico",
+            "Costo": "Sobrecarga, corrupción de datos o fallo de sistemas cercanos",
+            "Fuente": "Información, energía, máquina, código o lógica sobrenatural",
+            "Rareza": "Rara",
+            "Descripción": "Sistema inicial compatible con fantasía, moderno, cyberpunk o mundos híbridos.",
+            "tags": [
+                "magic_system",
+                "arcane",
+                "knowledge"
+            ]
+        },
+        "rarity": "Rara",
+        "effects": {
+            "arcane": 2,
+            "knowledge": 3,
+            "control": 2,
+            "risk": 2
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_magic_system_9"
+    },
+    {
+        "name": "Memoria Ancestral",
+        "type": "magic_systems",
+        "data": {
+            "Catalizador": "Sangre, linaje, recuerdo, reliquia o lugar significativo",
+            "Costo": "Confusión entre memorias propias y ajenas",
+            "Fuente": "Ancestros, historia, ecos de vidas pasadas o memoria del mundo",
+            "Rareza": "Rara",
+            "Descripción": "Sistema inicial compatible con fantasía, moderno, cyberpunk o mundos híbridos.",
+            "tags": [
+                "magic_system",
+                "arcane",
+                "knowledge"
+            ]
+        },
+        "rarity": "Rara",
+        "effects": {
+            "arcane": 2,
+            "knowledge": 4,
+            "social": 1,
+            "risk": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_magic_system_10"
+    }
+]

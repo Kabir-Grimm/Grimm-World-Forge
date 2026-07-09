@@ -1,0 +1,4 @@
+Bajo
+Moderado
+Alto
+Mortal

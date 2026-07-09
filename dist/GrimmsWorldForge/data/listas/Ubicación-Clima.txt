@@ -1,0 +1,50 @@
+Cálido |0.9
+Frío |0.9
+Húmedo |0.9
+Seco |0.9
+Ventoso |0.9
+Lluvioso |0.9
+Nevado |0.9
+Tormentoso |0.9
+Nublado |0.9
+Despejado |0.9
+Oscuridad anómala – La luz solar se atenúa sin nubes, como un eclipse perpetuo. |0.7
+Bioluminiscente – El aire brilla con partículas de luz viva; todo resplandece. |0.7
+Eléctrico estático – Chispas flotan en el ambiente; el cabello se eriza y los metales zumban. |0.7
+Brumas sobrenaturales – Niebla que susurra o muestra visiones del pasado. |0.7
+Auroras o cielos anómalos – Cortinas de colores irreales en el cielo, incluso de día. |0.7
+Lluvia corrosiva – Las gotas queman lentamente madera, piedra o carne. |0.7
+Calma irritante – Silencio absoluto y ausencia total de viento; sensación de opresión. |0.7
+Gravedad irregular – Objetos y personas flotan o se vuelven pesados al azar. |0.7
+Temporal inestable – El clima cambia de lluvia a nieve a calor abrasador en minutos. |0.7
+Clima vivo – El tiempo parece tener voluntad; persigue a los viajeros o se enfurece. |0.7
+Lluvia de ceniza – Caen copos grises calientes; el cielo huele a hoguera. |0.5
+Tormenta de cristal – Granizo con fragmentos afilados como vidrio. |0.5
+Viento fantasma – Ráfagas frías que atraviesan la ropa sin mover las hojas. |0.5
+Niebla de olvido – Respirarla hace perder recuerdos recientes. |0.5
+Polen alucinógeno – Una nube dorada que provoca visiones o delirios. |0.5
+Luna de sangre – Solo ocurre de noche; la luz rojiza vuelve agresivos a los animales. |0.5
+Sol negro – El disco solar se ve negro con un halo blanco; la temperatura baja. |0.5
+Crepúsculo perpetuo – Siempre es atardecer; las sombras se alargan sin moverse. |0.5
+Rocío pesado – Las gotas de agua caen lentamente como si fueran de plomo. |0.5
+Sequía psíquica – No hay agua, pero tampoco emociones; todo es plano y gris. |0.5
+Lluvia inversa – Las gotas caen del suelo hacia el cielo. |0.2
+Tormenta de eco – Los truenos repiten sonidos del pasado (voces, batallas). |0.2
+Viento de agujas – Ráfagas que pican la piel como miles de alfileres invisibles. |0.2
+Marea etérea – El aire se ondula como el mar; se puede “navegar” con velas. |0.2
+Calor fantasma – Hace mucho calor pero no hay sudor ni sed; solo agotamiento mental. |0.2
+Escarcha cantante – El hielo emite melodías al romperse o pisarse. |0.2
+Lluvia de estrellas sólidas – Caen meteoritos pequeños que brillan y dejan cráteres. |0.2
+Polvo de espejos – El aire refleja imágenes distorsionadas de quienes lo respiran. |0.2
+Gel de humedad – La humedad se condensa en una gelatina flotante que atrapa insectos. |0.2
+Tormenta de silencio – Un trueno inicial, luego absoluta ausencia de sonido por horas. |0.2
+Respiración del bosque – El viento exhala aroma a tierra mojada y raíces; las plantas crecen a la vista. |0.05
+Susurro de las dunas – La arena canta o habla en lenguas muertas. |0.05
+Niebla de duendes – Bruma verde que desorienta y hace perder el norte. |0.05
+Lluvia de plumas – Caen plumas suaves de aves invisibles; son inofensivas pero inquietantes. |0.05
+Viento de las cenizas de fénix – Aire caliente que huele a incienso y puede curar heridas leves. |0.05
+Escarcha de dragón – Hielo azul que humea y no se derrite con fuego normal. |0.05
+Tormenta de relámpagos lentos – Los rayos bajan en cámara lenta y dejan rastros visibles. |0.05
+Aguacero de recuerdos – Cada gota que toca la piel hace revivir un momento olvidado. |0.05
+Clima de la paradoja – Hace frío y calor al mismo tiempo; la ropa mojada está seca. |0.05
+Cantos de las alturas – El viento en las cumbres produce armonías que calman o aterran. |0.05

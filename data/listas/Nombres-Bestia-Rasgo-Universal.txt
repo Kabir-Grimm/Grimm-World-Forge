@@ -1,0 +1,10 @@
+Nocturno|10
+Cornudo|8
+Gris|8
+Ciego|7
+Hambriento|7
+Acorazado|6
+Pálido|6
+Rojo|5
+Anciano|5
+Silencioso|4

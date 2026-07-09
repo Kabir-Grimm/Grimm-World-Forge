@@ -1,0 +1,100 @@
+Carnicero
+Cartógrafo
+Domador
+Tejedor
+Alquimista
+Herrero
+Granjero
+Susurrador
+Cantero
+Cerrajero
+Cazador de demonios
+Pastor
+Cultivador
+Exorcista
+Encantador
+Ilusionista
+Marionetista
+Joyero
+Guardián
+Reparador
+Bibliotecario
+Embalsamador
+Arquero
+Explorador
+Cronista
+Constructor
+Mercenario
+Navegante
+Oráculo
+Profeta
+Criador
+Comerciante
+Poeta
+Carcelero
+Artesano
+Recolector
+Pescador
+Juglar
+Herbolario
+Protector
+Arquitecto
+Tasador
+Tabernero
+Mensajero
+Carpintero
+Cazador de tesoros
+Forjador
+Guía
+Músico
+Médico
+Diplomático
+Barquero
+Cirquero
+Bufón
+Guardia
+Inspector
+Maestro
+Sastre
+Cazador de monstruos
+Fundidor
+Sanador
+Monje
+Escultor
+Jardinero
+Sectario
+Heraldo
+Custodio
+Traductor
+Prostituto
+Falsificador
+Sanador espíritual
+Investigador
+Encantador de armas y armaduras
+Cronista de mitos
+Descifrador
+Cuentacuentos
+Rastreador
+Soldado
+Comerciante de objetos raros
+Explorador de ruinas
+Juglar de dioses
+Defensor
+Fabricante
+Pionero
+Politico
+Ladrón
+Asesino a sueldo
+Comerciante de magia
+Guardián de reliquias
+Herrero de espadas
+Ladrón
+Estafador
+Vagabundo
+Medico Viajero
+Grabador de piedra
+Arqueólogo
+Iluminador
+Alquimista de venenos
+Inventor
+Constructor de arcas

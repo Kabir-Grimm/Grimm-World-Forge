@@ -1,0 +1,30 @@
+{attacker} ataca con {weapon} mientras activa {technique}.
+{attacker} usa {technique} para reforzar el golpe con {weapon}.
+{attacker} convierte {technique} en una ventaja durante su ofensiva.
+{attacker} presiona a {defender} usando {weapon} y {technique}.
+{attacker} deja ver {technique} justo antes de atacar {target_part}.
+{attacker} usa {technique} para cambiar el ritmo del combate.
+{attacker} aprovecha {technique} para atacar desde un ángulo inesperado.
+{attacker} manifiesta {technique} mientras avanza hacia {defender}.
+{attacker} usa {technique} para esconder su verdadera intención.
+{attacker} combina experiencia y {technique} en un ataque preciso.
+{attacker} convierte {technique} en impulso para golpear con {weapon}.
+{attacker} revela {technique} y obliga a {defender} a reaccionar.
+{attacker} usa {technique} para romper la lectura del combate.
+{attacker} ataca como si {technique} fuera parte natural de su cuerpo.
+{attacker} deja que {technique} guíe su ofensiva.
+{attacker} transforma una maniobra común usando {technique}.
+{attacker} usa {technique} para amenazar {target_part}.
+{attacker} fuerza una abertura con {technique}.
+{attacker} se apoya en {technique} para mantener la presión.
+{attacker} usa {technique} para corregir un movimiento arriesgado.
+{attacker} activa {technique} en el instante exacto del ataque.
+{attacker} convierte {weapon} en una extensión de {technique}.
+{attacker} usa {technique} para anticipar la defensa de {defender}.
+{attacker} presiona con una combinación de {weapon} y {technique}.
+{attacker} parece pelear siguiendo el ritmo de {technique}.
+{attacker} usa {technique} para negar la distancia.
+{attacker} amenaza con {weapon}, pero {technique} es el verdadero peligro.
+{attacker} usa {technique} para castigar una mala postura.
+{attacker} encadena {technique} con un ataque directo.
+{attacker} convierte {technique} en una ofensiva difícil de detener.

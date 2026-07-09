@@ -1,0 +1,12 @@
+Fuerza
+Magia
+Estrategia
+Diplomacia
+Sigilo
+Manipulación
+Conocimiento
+Fe
+Tecnología
+Recursos
+Intimidación
+Engaño

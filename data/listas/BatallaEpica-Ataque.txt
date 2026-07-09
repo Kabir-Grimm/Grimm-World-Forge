@@ -1,0 +1,30 @@
+{attacker} ataca con {weapon}, buscando abrir la defensa de {defender}.
+{attacker} usa {weapon} y dirige el ataque hacia {target_part}.
+{attacker} avanza con violencia calculada, usando {body_part} para apoyar el movimiento.
+{attacker} intenta romper el ritmo de {defender} con {weapon}.
+{attacker} finta hacia un lado antes de atacar con {weapon}.
+{attacker} descarga un golpe seco con {weapon}.
+{attacker} mide la distancia y lanza una ofensiva precisa.
+{attacker} presiona a {defender} con una secuencia de ataques cortos.
+{attacker} busca forzar un error en la guardia de {defender}.
+{attacker} golpea desde un ángulo incómodo usando {weapon}.
+{attacker} se lanza hacia adelante, apostando todo a un ataque frontal.
+{attacker} usa {body_part} para impulsarse antes de atacar.
+{attacker} amaga hacia {target_part} y cambia la trayectoria del golpe.
+{attacker} intenta acorralar a {defender} con pura presión física.
+{attacker} golpea con {weapon}, buscando quebrar la postura rival.
+{attacker} gira sobre su eje y lanza un ataque amplio.
+{attacker} intenta atravesar la defensa de {defender} con fuerza bruta.
+{attacker} usa el peso de su cuerpo para potenciar el ataque.
+{attacker} avanza paso a paso, obligando a {defender} a retroceder.
+{attacker} golpea hacia {target_part} con intención clara.
+{attacker} cambia el ritmo del combate y ataca sin advertencia.
+{attacker} intenta cerrar la distancia antes de que {defender} reaccione.
+{attacker} usa {weapon} para desviar la guardia y atacar.
+{attacker} ataca bajo, buscando desestabilizar a {defender}.
+{attacker} ataca alto, intentando superar la defensa de {defender}.
+{attacker} fuerza un intercambio directo contra {defender}.
+{attacker} aprovecha una abertura mínima para atacar con {weapon}.
+{attacker} golpea con rabia contenida.
+{attacker} usa una maniobra simple, pero peligrosa.
+{attacker} convierte la distancia corta en una amenaza inmediata.

@@ -1,0 +1,26 @@
+Infantería pesada|combat:+2|defense:+2|initiative:-1
+Infantería ligera|initiative:+2|stealth:+1
+Caballería pesada|combat:+3|damage:+2|initiative:+1|risk:+1
+Caballería ligera|initiative:+3|stealth:+1|defense:-1
+Arqueros|damage:+2|initiative:+1|defense:-1
+Ballesteros|damage:+3|initiative:-1
+Legión imperial|combat:+3|defense:+2|influence:+1
+Milicia campesina|combat:-1|resistance:+1|risk:+1
+Guardia real|combat:+2|defense:+3|influence:+2
+Mercenarios|combat:+2|influence:-1|risk:+1
+Orden sagrada|combat:+2|arcane:+1|influence:+2|risk:+1
+Fanáticos religiosos|combat:+3|resistance:+1|social:-2|risk:+3
+Ejército tribal|stealth:+2|resistance:+2|knowledge:-1
+Horda nómada|initiative:+3|damage:+1|defense:-1
+Ejército mecanizado|damage:+3|defense:+2|risk:+2
+Fuerzas psíquicas|arcane:+3|control:+1|risk:+3
+Ejército arcano|arcane:+4|control:+2|risk:+4
+Legión maldita|combat:+4|arcane:+2|social:-3|risk:+5
+Autómatas de guerra|combat:+3|defense:+3|social:-4|control:-1
+Constructos mágicos|defense:+4|arcane:+2|initiative:-2|risk:+2
+Bestias entrenadas|damage:+4|control:-2|risk:+3
+Monjes guerreros|combat:+2|control:+2|resistance:+2
+Infiltradores|stealth:+4|initiative:+2|defense:-2
+Cazadores de monstruos|combat:+2|knowledge:+3|risk:+1
+Caballería voladora|initiative:+4|damage:+2|risk:+2
+Criaturas esclavizadas|damage:+5|control:-4|risk:+5

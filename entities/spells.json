@@ -1,0 +1,488 @@
+[
+    {
+        "name": "Descarga menor",
+        "type": "spells",
+        "data": {
+            "Tipo": "Ofensivo",
+            "Costo": "Requiere concentración",
+            "Forma": "Línea, proyectil o impacto directo",
+            "Reaccion": "Chispa, onda o distorsión visible",
+            "Descripción": "Ataque básico de energía, elemento o fuerza adaptable.",
+            "tags": [
+                "spell",
+                "arcane",
+                "offense",
+                "basic"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "damage": 2,
+            "risk": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_1"
+    },
+    {
+        "name": "Barrera menor",
+        "type": "spells",
+        "data": {
+            "Tipo": "Protección",
+            "Costo": "Agota al usuario si se mantiene",
+            "Forma": "Escudo, sello o campo corto",
+            "Reaccion": "Aire tenso o borde luminoso",
+            "Descripción": "Defensa breve contra un ataque, accidente o amenaza cercana.",
+            "tags": [
+                "spell",
+                "arcane",
+                "protection",
+                "basic"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "defense": 2,
+            "control": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_2"
+    },
+    {
+        "name": "Restauración menor",
+        "type": "spells",
+        "data": {
+            "Tipo": "Restauración",
+            "Costo": "No elimina consecuencias graves",
+            "Forma": "Contacto o foco cercano",
+            "Reaccion": "Calor, luz suave o pulso vital",
+            "Descripción": "Estabiliza heridas, repara daño menor o reduce deterioro.",
+            "tags": [
+                "spell",
+                "arcane",
+                "healing",
+                "support"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "resistance": 2,
+            "injury_risk": -1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_3"
+    },
+    {
+        "name": "Velo de ocultamiento",
+        "type": "spells",
+        "data": {
+            "Tipo": "Ilusión",
+            "Costo": "Falla ante observación intensa",
+            "Forma": "Sombra, bruma o distorsión",
+            "Reaccion": "Los contornos se vuelven imprecisos",
+            "Descripción": "Dificulta ser visto, rastreado o recordado con claridad.",
+            "tags": [
+                "spell",
+                "arcane",
+                "stealth",
+                "illusion"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "stealth": 3,
+            "risk": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_4"
+    },
+    {
+        "name": "Impulso cinético",
+        "type": "spells",
+        "data": {
+            "Tipo": "Control",
+            "Costo": "Puede desestabilizar al usuario",
+            "Forma": "Gesto, palabra o foco",
+            "Reaccion": "Golpe invisible o vibración súbita",
+            "Descripción": "Empuja, atrae, derriba o desplaza un objetivo pequeño.",
+            "tags": [
+                "spell",
+                "arcane",
+                "control",
+                "utility"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "control": 3,
+            "damage": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_5"
+    },
+    {
+        "name": "Marca de rastreo",
+        "type": "spells",
+        "data": {
+            "Tipo": "Adivinación",
+            "Costo": "Requiere una pista o vínculo previo",
+            "Forma": "Marca, símbolo o fragmento",
+            "Reaccion": "El objetivo deja ecos perceptibles",
+            "Descripción": "Permite seguir ubicación, esencia o señal de un objetivo.",
+            "tags": [
+                "spell",
+                "arcane",
+                "detection",
+                "tracking"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "knowledge": 3,
+            "risk": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_6"
+    },
+    {
+        "name": "Lectura de aura",
+        "type": "spells",
+        "data": {
+            "Tipo": "Percepción",
+            "Costo": "Puede mostrar información incompleta",
+            "Forma": "Mirada, tacto o concentración",
+            "Reaccion": "Colores, sonidos o símbolos alrededor del objetivo",
+            "Descripción": "Revela estado emocional, peligro, energía o intención general.",
+            "tags": [
+                "spell",
+                "arcane",
+                "detection",
+                "social"
+            ]
+        },
+        "effects": {
+            "arcane": 1,
+            "knowledge": 3,
+            "social": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_7"
+    },
+    {
+        "name": "Sello de cierre",
+        "type": "spells",
+        "data": {
+            "Tipo": "Sello",
+            "Costo": "Puede romperse con fuerza o conocimiento suficiente",
+            "Forma": "Runa, patrón o gesto",
+            "Reaccion": "Líneas tensas sobre la superficie",
+            "Descripción": "Bloquea una puerta, objeto, paso o acción simple.",
+            "tags": [
+                "spell",
+                "arcane",
+                "seal",
+                "protection"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "defense": 1,
+            "control": 3
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_8"
+    },
+    {
+        "name": "Ruptura de defensa",
+        "type": "spells",
+        "data": {
+            "Tipo": "Transmutación",
+            "Costo": "Requiere precisión y oportunidad",
+            "Forma": "Palabra, toque o impacto",
+            "Reaccion": "Grietas luminosas o sombras alargadas",
+            "Descripción": "Debilita una protección física, mental, espiritual o energética.",
+            "tags": [
+                "spell",
+                "arcane",
+                "offense",
+                "debuff"
+            ]
+        },
+        "effects": {
+            "arcane": 3,
+            "damage": 2,
+            "defense": -2,
+            "risk": 2
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_9"
+    },
+    {
+        "name": "Purificación leve",
+        "type": "spells",
+        "data": {
+            "Tipo": "Restauración",
+            "Costo": "No funciona contra males profundos sin preparación",
+            "Forma": "Contacto, agua, luz o símbolo",
+            "Reaccion": "El aire se limpia o cambia de temperatura",
+            "Descripción": "Reduce contaminación, corrupción, veneno menor o influencia dañina.",
+            "tags": [
+                "spell",
+                "arcane",
+                "healing",
+                "cleanse"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "resistance": 2,
+            "risk": -1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_10"
+    },
+    {
+        "name": "Luz guía",
+        "type": "spells",
+        "data": {
+            "Tipo": "Utilidad",
+            "Costo": "Puede atraer atención no deseada",
+            "Forma": "Foco, palabra o intención",
+            "Reaccion": "Brillo flotante o señal persistente",
+            "Descripción": "Crea una señal, luz o presencia que orienta al usuario.",
+            "tags": [
+                "spell",
+                "arcane",
+                "utility",
+                "light"
+            ]
+        },
+        "effects": {
+            "arcane": 1,
+            "knowledge": 1,
+            "risk": -1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_11"
+    },
+    {
+        "name": "Silencio breve",
+        "type": "spells",
+        "data": {
+            "Tipo": "Ilusión",
+            "Costo": "Dura poco y requiere concentración",
+            "Forma": "Gesto, sombra o respiración controlada",
+            "Reaccion": "El sonido parece hundirse",
+            "Descripción": "Reduce sonido en una zona pequeña o sobre una acción concreta.",
+            "tags": [
+                "spell",
+                "arcane",
+                "stealth",
+                "control"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "stealth": 2,
+            "control": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_12"
+    },
+    {
+        "name": "Refuerzo temporal",
+        "type": "spells",
+        "data": {
+            "Tipo": "Alteración",
+            "Costo": "Después causa fatiga",
+            "Forma": "Pulso, respiración o marca",
+            "Reaccion": "Venas, runas o circuitos brillan",
+            "Descripción": "Mejora por poco tiempo fuerza, velocidad, defensa o resistencia.",
+            "tags": [
+                "spell",
+                "arcane",
+                "buff",
+                "combat"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "combat": 1,
+            "resistance": 1,
+            "initiative": 1,
+            "risk": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_13"
+    },
+    {
+        "name": "Lazo menor",
+        "type": "spells",
+        "data": {
+            "Tipo": "Vínculo",
+            "Costo": "Puede transmitir dolor o emociones",
+            "Forma": "Hilo, marca o contacto",
+            "Reaccion": "Un filamento visible solo por instantes",
+            "Descripción": "Une temporalmente dos objetivos para compartir sensación, ubicación o estado.",
+            "tags": [
+                "spell",
+                "arcane",
+                "link",
+                "support"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "social": 1,
+            "knowledge": 1,
+            "risk": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_14"
+    },
+    {
+        "name": "Interferencia",
+        "type": "spells",
+        "data": {
+            "Tipo": "Anulación",
+            "Costo": "Puede fallar ante efectos superiores",
+            "Forma": "Chasquido, palabra o pulso",
+            "Reaccion": "Estática, ruido o vibración",
+            "Descripción": "Interrumpe concentración, señal, ritual o mecanismo simple.",
+            "tags": [
+                "spell",
+                "arcane",
+                "counter",
+                "control"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "control": 2,
+            "knowledge": 1,
+            "risk": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_15"
+    },
+    {
+        "name": "Invocación menor",
+        "type": "spells",
+        "data": {
+            "Tipo": "Invocación",
+            "Costo": "La entidad o efecto puede tener voluntad limitada",
+            "Forma": "Nombre, círculo o componente",
+            "Reaccion": "Aparece una figura, eco o herramienta efímera",
+            "Descripción": "Llama una presencia, herramienta simple, espíritu menor o constructo breve.",
+            "tags": [
+                "spell",
+                "arcane",
+                "summon",
+                "utility"
+            ]
+        },
+        "effects": {
+            "arcane": 3,
+            "control": 1,
+            "risk": 2
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_16"
+    },
+    {
+        "name": "Paso velado",
+        "type": "spells",
+        "data": {
+            "Tipo": "Movimiento",
+            "Costo": "No vuelve invisible al usuario",
+            "Forma": "Sombra, respiración o ritmo",
+            "Reaccion": "Los pasos se sienten fuera de lugar",
+            "Descripción": "Permite moverse sin llamar atención durante un breve trayecto.",
+            "tags": [
+                "spell",
+                "arcane",
+                "movement",
+                "stealth"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "stealth": 2,
+            "initiative": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_17"
+    },
+    {
+        "name": "Golpe consagrado",
+        "type": "spells",
+        "data": {
+            "Tipo": "Ofensivo",
+            "Costo": "Requiere convicción o vínculo",
+            "Forma": "Arma, marca o palabra",
+            "Reaccion": "El impacto deja una huella brillante o resonante",
+            "Descripción": "Cubre un arma, herramienta o ataque con energía simbólica.",
+            "tags": [
+                "spell",
+                "arcane",
+                "offense",
+                "weapon"
+            ]
+        },
+        "effects": {
+            "arcane": 2,
+            "damage": 2,
+            "combat": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_18"
+    },
+    {
+        "name": "Muro momentáneo",
+        "type": "spells",
+        "data": {
+            "Tipo": "Protección",
+            "Costo": "Dura poco y puede romperse",
+            "Forma": "Trazo, sello o gesto amplio",
+            "Reaccion": "Aparece una pared translúcida o densa",
+            "Descripción": "Crea una obstrucción breve de fuerza, material, sombra o energía.",
+            "tags": [
+                "spell",
+                "arcane",
+                "protection",
+                "control"
+            ]
+        },
+        "effects": {
+            "arcane": 3,
+            "defense": 3,
+            "control": 1,
+            "risk": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_19"
+    },
+    {
+        "name": "Susurro distante",
+        "type": "spells",
+        "data": {
+            "Tipo": "Comunicación",
+            "Costo": "Puede ser interceptado o deformado",
+            "Forma": "Nombre, recuerdo o símbolo",
+            "Reaccion": "La voz llega como eco interno",
+            "Descripción": "Envía un mensaje corto a un objetivo conocido.",
+            "tags": [
+                "spell",
+                "arcane",
+                "communication",
+                "utility"
+            ]
+        },
+        "effects": {
+            "arcane": 1,
+            "social": 1,
+            "knowledge": 1
+        },
+        "created_at": "2026-06-19T05:03:23.355363",
+        "id": "default_spell_20"
+    }
+]

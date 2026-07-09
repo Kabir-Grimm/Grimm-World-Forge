@@ -1,0 +1,12 @@
+Espada|10
+Lanza|8
+Daga|8
+Arco|7
+Martillo|7
+Hacha|7
+Bastón|6
+Cuchilla|6
+Rifle|6
+Pistola|5
+Cañón|4
+Dispositivo ofensivo|3

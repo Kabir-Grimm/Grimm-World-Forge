@@ -1,0 +1,652 @@
+[
+    {
+        "id": "manifestation_1",
+        "name": "Runas flotantes",
+        "description": "Componente de hechizo asociado a runas flotantes.",
+        "tags": [
+            "manifestation",
+            "runas_flotantes"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_2",
+        "name": "Círculo luminoso",
+        "description": "Componente de hechizo asociado a círculo luminoso.",
+        "tags": [
+            "manifestation",
+            "círculo_luminoso"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_3",
+        "name": "Susurros",
+        "description": "Componente de hechizo asociado a susurros.",
+        "tags": [
+            "manifestation",
+            "susurros"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_4",
+        "name": "Frío repentino",
+        "description": "Componente de hechizo asociado a frío repentino.",
+        "tags": [
+            "manifestation",
+            "frío_repentino"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_5",
+        "name": "Calor intenso",
+        "description": "Componente de hechizo asociado a calor intenso.",
+        "tags": [
+            "manifestation",
+            "calor_intenso"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_6",
+        "name": "Sombra viva",
+        "description": "Componente de hechizo asociado a sombra viva.",
+        "tags": [
+            "manifestation",
+            "sombra_viva"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_7",
+        "name": "Luz suave",
+        "description": "Componente de hechizo asociado a luz suave.",
+        "tags": [
+            "manifestation",
+            "luz_suave"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_8",
+        "name": "Distorsión visual",
+        "description": "Componente de hechizo asociado a distorsión visual.",
+        "tags": [
+            "manifestation",
+            "distorsión_visual"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_9",
+        "name": "Olor metálico",
+        "description": "Componente de hechizo asociado a olor metálico.",
+        "tags": [
+            "manifestation",
+            "olor_metálico"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_10",
+        "name": "Chispas o estática",
+        "description": "Componente de hechizo asociado a chispas o estática.",
+        "tags": [
+            "manifestation",
+            "chispas_o_estática"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_11",
+        "name": "Marca corporal",
+        "description": "Componente de hechizo asociado a marca corporal.",
+        "tags": [
+            "manifestation",
+            "marca_corporal"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_12",
+        "name": "Viento circular",
+        "description": "Componente de hechizo asociado a viento circular.",
+        "tags": [
+            "manifestation",
+            "viento_circular"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_13",
+        "name": "Eco retardado",
+        "description": "Componente de hechizo asociado a eco retardado.",
+        "tags": [
+            "manifestation",
+            "eco_retardado"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_14",
+        "name": "Cristalización",
+        "description": "Componente de hechizo asociado a cristalización.",
+        "tags": [
+            "manifestation",
+            "cristalización"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_15",
+        "name": "Silencio absoluto",
+        "description": "Componente de hechizo asociado a silencio absoluto.",
+        "tags": [
+            "manifestation",
+            "silencio_absoluto"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_16",
+        "name": "Lágrimas negras",
+        "description": "Componente de hechizo asociado a lágrimas negras.",
+        "tags": [
+            "manifestation",
+            "lágrimas_negras"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_17",
+        "name": "Polvo dorado",
+        "description": "Componente de hechizo asociado a polvo dorado.",
+        "tags": [
+            "manifestation",
+            "polvo_dorado"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_18",
+        "name": "Sangre en el aire",
+        "description": "Componente de hechizo asociado a sangre en el aire.",
+        "tags": [
+            "manifestation",
+            "sangre_en_el_aire"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_19",
+        "name": "Grietas luminosas",
+        "description": "Componente de hechizo asociado a grietas luminosas.",
+        "tags": [
+            "manifestation",
+            "grietas_luminosas"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_20",
+        "name": "Grietas oscuras",
+        "description": "Componente de hechizo asociado a grietas oscuras.",
+        "tags": [
+            "manifestation",
+            "grietas_oscuras"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_21",
+        "name": "Voces familiares",
+        "description": "Componente de hechizo asociado a voces familiares.",
+        "tags": [
+            "manifestation",
+            "voces_familiares"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_22",
+        "name": "Olor a lluvia",
+        "description": "Componente de hechizo asociado a olor a lluvia.",
+        "tags": [
+            "manifestation",
+            "olor_a_lluvia"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_23",
+        "name": "Aves invisibles",
+        "description": "Componente de hechizo asociado a aves invisibles.",
+        "tags": [
+            "manifestation",
+            "aves_invisibles"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_24",
+        "name": "Sombras alargadas",
+        "description": "Componente de hechizo asociado a sombras alargadas.",
+        "tags": [
+            "manifestation",
+            "sombras_alargadas"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_25",
+        "name": "Luz de luna falsa",
+        "description": "Componente de hechizo asociado a luz de luna falsa.",
+        "tags": [
+            "manifestation",
+            "luz_de_luna_falsa"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_26",
+        "name": "Rostros en superficies",
+        "description": "Componente de hechizo asociado a rostros en superficies.",
+        "tags": [
+            "manifestation",
+            "rostros_en_superficies"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_27",
+        "name": "Campanas lejanas",
+        "description": "Componente de hechizo asociado a campanas lejanas.",
+        "tags": [
+            "manifestation",
+            "campanas_lejanas"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_28",
+        "name": "Vibración en huesos",
+        "description": "Componente de hechizo asociado a vibración en huesos.",
+        "tags": [
+            "manifestation",
+            "vibración_en_huesos"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_29",
+        "name": "Parpadeo de realidad",
+        "description": "Componente de hechizo asociado a parpadeo de realidad.",
+        "tags": [
+            "manifestation",
+            "parpadeo_de_realidad"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_30",
+        "name": "Fuego sin calor",
+        "description": "Componente de hechizo asociado a fuego sin calor.",
+        "tags": [
+            "manifestation",
+            "fuego_sin_calor"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_31",
+        "name": "Hielo negro",
+        "description": "Componente de hechizo asociado a hielo negro.",
+        "tags": [
+            "manifestation",
+            "hielo_negro"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_32",
+        "name": "Humo inverso",
+        "description": "Componente de hechizo asociado a humo inverso.",
+        "tags": [
+            "manifestation",
+            "humo_inverso"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_33",
+        "name": "Flores repentinas",
+        "description": "Componente de hechizo asociado a flores repentinas.",
+        "tags": [
+            "manifestation",
+            "flores_repentinas"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_34",
+        "name": "Ceniza ascendente",
+        "description": "Componente de hechizo asociado a ceniza ascendente.",
+        "tags": [
+            "manifestation",
+            "ceniza_ascendente"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_35",
+        "name": "Ojos brillantes",
+        "description": "Componente de hechizo asociado a ojos brillantes.",
+        "tags": [
+            "manifestation",
+            "ojos_brillantes"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_36",
+        "name": "Halo quebrado",
+        "description": "Componente de hechizo asociado a halo quebrado.",
+        "tags": [
+            "manifestation",
+            "halo_quebrado"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_37",
+        "name": "Sombra sin dueño",
+        "description": "Componente de hechizo asociado a sombra sin dueño.",
+        "tags": [
+            "manifestation",
+            "sombra_sin_dueño"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_38",
+        "name": "Ruido de engranes",
+        "description": "Componente de hechizo asociado a ruido de engranes.",
+        "tags": [
+            "manifestation",
+            "ruido_de_engranes"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_39",
+        "name": "Texto en la piel",
+        "description": "Componente de hechizo asociado a texto en la piel.",
+        "tags": [
+            "manifestation",
+            "texto_en_la_piel"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_40",
+        "name": "Estrellas en miniatura",
+        "description": "Componente de hechizo asociado a estrellas en miniatura.",
+        "tags": [
+            "manifestation",
+            "estrellas_en_miniatura"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_41",
+        "name": "Manchas de tinta",
+        "description": "Componente de hechizo asociado a manchas de tinta.",
+        "tags": [
+            "manifestation",
+            "manchas_de_tinta"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_42",
+        "name": "Cristales flotantes",
+        "description": "Componente de hechizo asociado a cristales flotantes.",
+        "tags": [
+            "manifestation",
+            "cristales_flotantes"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_43",
+        "name": "Zumbido bajo",
+        "description": "Componente de hechizo asociado a zumbido bajo.",
+        "tags": [
+            "manifestation",
+            "zumbido_bajo"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_44",
+        "name": "Risa distante",
+        "description": "Componente de hechizo asociado a risa distante.",
+        "tags": [
+            "manifestation",
+            "risa_distante"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_45",
+        "name": "Latido audible",
+        "description": "Componente de hechizo asociado a latido audible.",
+        "tags": [
+            "manifestation",
+            "latido_audible"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_46",
+        "name": "Mapa efímero",
+        "description": "Componente de hechizo asociado a mapa efímero.",
+        "tags": [
+            "manifestation",
+            "mapa_efímero"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_47",
+        "name": "Máscara de luz",
+        "description": "Componente de hechizo asociado a máscara de luz.",
+        "tags": [
+            "manifestation",
+            "máscara_de_luz"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_48",
+        "name": "Mariposas de sombra",
+        "description": "Componente de hechizo asociado a mariposas de sombra.",
+        "tags": [
+            "manifestation",
+            "mariposas_de_sombra"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_49",
+        "name": "Lluvia suspendida",
+        "description": "Componente de hechizo asociado a lluvia suspendida.",
+        "tags": [
+            "manifestation",
+            "lluvia_suspendida"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "manifestation_50",
+        "name": "Vidrio invisible",
+        "description": "Componente de hechizo asociado a vidrio invisible.",
+        "tags": [
+            "manifestation",
+            "vidrio_invisible"
+        ],
+        "effects": {},
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    }
+]

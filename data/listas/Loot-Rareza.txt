@@ -1,0 +1,20 @@
+Extremadamente común|20
+Común|40
+Frecuente|25
+Poco común|20
+Inusual|15
+Escaso|15
+Difícil de encontrar|10
+Raro|10
+Muy raro|6
+Excepcional|5
+Superior|5
+Extraordinario|4
+Legendario|2
+Único|1
+Último conocido|1
+Prohibido|2
+Olvidado|2
+Desconocido|2
+Experimental|2
+Irrepetible|1

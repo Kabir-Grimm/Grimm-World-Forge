@@ -1,0 +1,10 @@
+Llave|10
+Orbe|8
+Corona|8
+Fragmento|8
+Máscara|7
+Anillo|7
+Libro|6
+Relicario|6
+Núcleo|5
+Sello|5

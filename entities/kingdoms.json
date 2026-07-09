@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Sin nombreSin nombreSin nombre",
+        "type": "kingdoms",
+        "data": {
+            "Control de ubicación": "Facción Militar",
+            "Distintivo de población": "Gárgolas que giran solas para mirar a los forasteros.",
+            "Elementos llamativos": "Forja",
+            "Estado del lugar": "En declive por plagas, hambre o éxodo.",
+            "Nivel de peligro": "Conflicto abierto, guerra o rebelión.",
+            "Nivel tecnológico": "Transhumanismo",
+            "Particularidades del mundo": "Un único continente",
+            "Peculiaridad": "Ninguna",
+            "Religión": "Politeísmo con múltiples dioses.",
+            "Tamaño población": "Pueblo consolidado (500-2000 habitantes)",
+            "Tipo de gobierno": "Gobierno por Lotería",
+            "Tipo de creación": "Reino",
+            "Clasificación": "Reino"
+        },
+        "effects": {
+            "influence": 3,
+            "social": 2,
+            "knowledge": 1,
+            "resistance": 1,
+            "risk": 1
+        },
+        "created_at": "2026-06-29T22:36:53.433942",
+        "id": "kingdoms_1"
+    },
+    {
+        "name": "Paranka",
+        "type": "kingdoms",
+        "data": {
+            "Control de ubicación": "Comerciantes",
+            "Distintivo de población": "Túneles que cantan cuando se los recorre en silencio.",
+            "Elementos llamativos": "Nido de Bestias",
+            "Estado del lugar": "En declive por plagas, hambre o éxodo.",
+            "Nivel de peligro": "Seguridad fuerte con murallas y patrullas.",
+            "Nivel tecnológico": "Primitivo",
+            "Particularidades del mundo": "Comercio basado en trueque, sin monedas",
+            "Peculiaridad": "Una fuente de energía mágica",
+            "Religión": "Sin religión, ateísmo generalizado.",
+            "Tamaño población": "Aldea en crecimiento (100-500 habitantes)",
+            "Tipo de gobierno": "Burocracia Extrema",
+            "Tipo de creación": "Reino",
+            "Clasificación": "Reino"
+        },
+        "effects": {
+            "influence": 3,
+            "social": 2,
+            "knowledge": 1,
+            "resistance": 1,
+            "risk": 1
+        },
+        "created_at": "2026-06-29T22:37:31.168519",
+        "id": "kingdoms_2"
+    },
+    {
+        "name": "Santuario Sagrado",
+        "type": "kingdoms",
+        "data": {
+            "Control de ubicación": "Fenómeno Natural/Mágico",
+            "Distintivo de población": "Marcas en las piedras que se renuevan solas con runas indescifrables.",
+            "Elementos llamativos": "Ruinas Abandonadas",
+            "Estado del lugar": "Expansión rápida por recursos o influencia.",
+            "Nivel de peligro": "Guardia estable y eficiente.",
+            "Nivel tecnológico": "Inteligencia Artificial Autónoma",
+            "Particularidades del mundo": "Magia escrita en la piel de los habitantes",
+            "Peculiaridad": "Un lugar donde los dioses pueden comunicarse",
+            "Religión": "Religión dominante con control político.",
+            "Tamaño población": "Sitio fantasma (0 habitantes vivos)",
+            "Tipo de gobierno": "Corporocracia",
+            "Tipo de creación": "Reino",
+            "Clasificación": "Reino"
+        },
+        "effects": {
+            "influence": 3,
+            "social": 2,
+            "knowledge": 1,
+            "resistance": 1,
+            "risk": 1
+        },
+        "created_at": "2026-06-30T13:16:22.182076",
+        "id": "kingdoms_3"
+    },
+    {
+        "name": "Santuario Sagrado",
+        "type": "kingdoms",
+        "data": {
+            "Control de ubicación": "Fenómeno Natural/Mágico",
+            "Distintivo de población": "Marcas en las piedras que se renuevan solas con runas indescifrables.",
+            "Elementos llamativos": "Ruinas Abandonadas",
+            "Estado del lugar": "Expansión rápida por recursos o influencia.",
+            "Nivel de peligro": "Guardia estable y eficiente.",
+            "Nivel tecnológico": "Inteligencia Artificial Autónoma",
+            "Particularidades del mundo": "Magia escrita en la piel de los habitantes",
+            "Peculiaridad": "Un lugar donde los dioses pueden comunicarse",
+            "Religión": "Religión dominante con control político.",
+            "Tamaño población": "Sitio fantasma (0 habitantes vivos)",
+            "Tipo de gobierno": "Corporocracia",
+            "Tipo de creación": "Reino",
+            "Clasificación": "Reino"
+        },
+        "effects": {
+            "influence": 3,
+            "social": 2,
+            "knowledge": 1,
+            "resistance": 1,
+            "risk": 1
+        },
+        "created_at": "2026-06-30T13:23:51.657657",
+        "id": "kingdoms_4"
+    }
+]

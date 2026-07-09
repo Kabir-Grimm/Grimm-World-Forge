@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Kluxen",
+        "type": "creatures",
+        "data": {
+            "Carácteristicas especiales": "Células regenerativas",
+            "Comportamiento": "Enjambre, actúa en grupo con otros de su especie",
+            "Desplazamiento": "Corriendo con patas múltiples",
+            "Dieta": "Umbrovoro-Se nutre de sombras.",
+            "Forma Corporal": "Máquina o ser artificial",
+            "Habilidad especial": "Fase fantasmal",
+            "Origen": "Fue invocado por un ritual arcano",
+            "Tamaño": "Mediana",
+            "Rareza": "Común"
+        },
+        "rarity": "Común",
+        "effects": {
+            "resistance": 5,
+            "social": -3,
+            "combat": 4,
+            "risk": 11,
+            "initiative": 3,
+            "stealth": 6,
+            "arcane": 7,
+            "defense": 7,
+            "control": 1,
+            "damage": 2
+        },
+        "created_at": "2026-05-18T12:38:50.025908",
+        "id": "creatures_1",
+        "memory": [
+            {
+                "type": "epic_battle_loser",
+                "description": "Fue derrotado por Manelli en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T12:47:03.819133"
+            }
+        ],
+        "reputation": {
+            "military": -2
+        },
+        "meta": {
+            "status": "Capturado"
+        }
+    },
+    {
+        "name": "Gurralo",
+        "type": "creatures",
+        "data": {
+            "Carácteristicas especiales": "Secreción neurotóxica",
+            "Comportamiento": "Neutro, ignora a la mayoría de los seres",
+            "Desplazamiento": "Saltando con potencia animal",
+            "Dieta": "Carnívoro-Caza activamente.",
+            "Forma Corporal": "Masa amorfa o gelatinosa",
+            "Habilidad especial": "Resistencia mágica",
+            "Origen": "Criatura prehistórica que ha sobrevivido hasta hoy",
+            "Tamaño": "Extrema",
+            "Rareza": "Poco común"
+        },
+        "rarity": "Poco común",
+        "effects": {
+            "damage": 15,
+            "control": 2,
+            "risk": 15,
+            "social": -1,
+            "initiative": -3,
+            "combat": 15,
+            "defense": 13,
+            "stealth": -11,
+            "arcane": 5,
+            "resistance": 11,
+            "knowledge": -1
+        },
+        "created_at": "2026-05-20T12:49:51.392302",
+        "id": "creatures_2",
+        "memory": [
+            {
+                "type": "epic_battle_loser",
+                "description": "Fue derrotado por Awlys en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T20:10:28.329398"
+            },
+            {
+                "type": "epic_battle_loser",
+                "description": "Fue derrotado por Markus en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T13:16:44.188277"
+            },
+            {
+                "type": "epic_battle_loser",
+                "description": "Fue derrotado por Markus en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T13:15:59.984933"
+            },
+            {
+                "type": "epic_battle_loser",
+                "description": "Fue derrotado por Markus en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T13:14:17.725572"
+            },
+            {
+                "type": "epic_battle_loser",
+                "description": "Fue derrotado por Manelli en una batalla épica.",
+                "importance": 5,
+                "year": null,
+                "source": "epic_battle",
+                "created_at": "2026-05-20T12:51:13.316060"
+            }
+        ],
+        "reputation": {
+            "military": -4,
+            "social": -3,
+            "heroic": 1,
+            "monstrous": 1
+        },
+        "meta": {
+            "status": "Aterrorizado"
+        }
+    }
+]

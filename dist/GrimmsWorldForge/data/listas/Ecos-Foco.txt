@@ -1,0 +1,13 @@
+Personaje
+NPC
+Ubicación
+Facción
+Mundo
+Relación
+Recurso
+Amenaza
+Secreto
+Conflicto activo
+Lugar olvidado
+Objeto importante
+Poder superior

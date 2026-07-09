@@ -1,0 +1,40 @@
+Viajante|10
+Custodio|10
+Oráculo|9
+Testigo|9
+Portador|8
+Errante|8
+Heraldo|8
+Elegido|7
+Representante|7
+Agente|7
+Guía|7
+Voz|6
+Sombra|6
+Eco|6
+Nómada|6
+Explorador|5
+Cronista|5
+Archivista|5
+Sabio|5
+Entidad|5
+Visitante|4
+Forastero|4
+Vidente|4
+Mensajero|4
+Protector|4
+Caminante|3
+Observador|3
+Soñador|3
+Iniciado|3
+Guardián|3
+El Eco|2
+La Voz|2
+El Recuerdo|2
+La Presencia|2
+El Testimonio|2
+El Fragmento|1
+La Memoria|1
+El Perdido|1
+El Renacido|1
+Sin Nombre|1

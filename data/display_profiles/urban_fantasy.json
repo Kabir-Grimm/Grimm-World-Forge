@@ -1,0 +1,45 @@
+{
+  "profile_name": "Fantasía Urbana",
+
+  "ui": {
+    "characters": "👤 Personajes",
+    "equipment": "🎒 Equipo",
+    "locations": "🏙 Distritos",
+    "relations": "🔗 Relaciones",
+    "relation_graph": "🕸 Red Sobrenatural",
+    "entity_editor": "📝 Editor de Entidades",
+    "worlds": "🌍 Mundos",
+    "power_systems": "🕯  Sistemas Sobrenaturales",
+    "powers": "🌙 Poderes y Rituales",
+    "consumables": "🍖 Consumibles",
+    "weapons": "⚔ Armas",
+    "armors": "🛡 Protección",
+    "artifacts": "🏺 Objetos Extraños",
+    "factions": "🏴 Círculos y Organizaciones",
+    "creatures": "🧬 Entidades",
+    "forces": "⚔ Bandas",
+    "simulation": "🌌 Simulación",
+    "echoes": "✦ Ecos Narrativos",
+    "encounters": "⚔ Encuentros",
+    "dramatic_battles": "🔥 Confrontaciones Sobrenaturales"
+  },
+
+  "entity_types": {
+    "creatures": "Entidades / Criaturas",
+    "factions": "Círculos / Organizaciones",
+    "relics": "Objetos Extraños / Reliquias",
+    "magic_systems": "Sistemas Sobrenaturales",
+    "spells": "Poderes / Rituales"
+  },
+
+  "stats": {
+    "arcane": "Sobrenatural"
+  },
+
+  "reputation": {
+    "criminal": "Bajo Mundo",
+    "monstrous": "Amenaza"
+  },
+
+  "meta": {}
+}

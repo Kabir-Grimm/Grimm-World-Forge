@@ -1,0 +1,10 @@
+Orden|10
+Casa|8
+Clan|8
+Hermandad|8
+Círculo|7
+Legión|7
+Concilio|6
+Pacto|6
+Compañía|5
+Culto|4

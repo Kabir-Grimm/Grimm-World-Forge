@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Oclaria",
+        "type": "world",
+        "description": "uwu",
+        "entities": [
+            {
+                "id": "npcs_1",
+                "name": "Claude",
+                "type": "npcs"
+            },
+            {
+                "id": "locations_1",
+                "name": "Malikot",
+                "type": "locations"
+            },
+            {
+                "id": "npcs_3",
+                "name": "Alma",
+                "type": "npcs"
+            },
+            {
+                "id": "weapons_3",
+                "name": "Lucero del anochecer",
+                "type": "weapons"
+            },
+            {
+                "id": "creatures_1",
+                "name": "Kluxen",
+                "type": "creatures"
+            },
+            {
+                "id": "npcs_4",
+                "name": "Markus",
+                "type": "npcs"
+            },
+            {
+                "id": "npcs_5",
+                "name": "Minale",
+                "type": "npcs"
+            },
+            {
+                "id": "weapons_4",
+                "name": "Cadena de Alma",
+                "type": "weapons"
+            },
+            {
+                "id": "spells_1",
+                "name": "Ama'tys",
+                "type": "spells"
+            },
+            {
+                "id": "creatures_2",
+                "name": "Gurralo",
+                "type": "creatures"
+            },
+            {
+                "id": "npcs_7",
+                "name": "Awlys",
+                "type": "npcs"
+            },
+            {
+                "id": "spells_2",
+                "name": "Du'tlwe",
+                "type": "spells"
+            },
+            {
+                "id": "spells_3",
+                "name": "Lok'cvu",
+                "type": "spells"
+            }
+        ],
+        "id": "world_1",
+        "created_at": "2026-05-14T00:00:16.851120"
+    }
+]

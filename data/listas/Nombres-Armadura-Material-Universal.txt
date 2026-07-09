@@ -1,0 +1,10 @@
+Hierro|10
+Acero|9
+Cristal|7
+Cuero|7
+Hueso|6
+Obsidiana|6
+Plata|5
+Oro viejo|5
+Aleación|5
+Sombra|3

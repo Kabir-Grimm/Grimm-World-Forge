@@ -1,0 +1,20 @@
+Humanoide|social:+1|combat:+1
+Reptiliana|defense:+2|resistance:+1|social:-1
+Insectoide|defense:+2|stealth:+1|social:-2
+Bestia cuadrúpeda|combat:+2|initiative:+2|social:-1
+Ser etéreo (sin forma física estable)|arcane:+4|defense:+2|combat:-2|risk:+3
+Masa amorfa o gelatinosa|defense:+3|stealth:+1|initiative:-2|social:-2
+Aviana (con alas, similar a un ave o murciélago)|initiative:+3|stealth:+1|defense:-1
+Annelida (serpentina o con cuerpo segmentado)|stealth:+2|resistance:+2|combat:+1
+Acuática (forma de pez, cefalópodo o similar)|stealth:+2|initiative:+1|risk:+1
+Planta o ente fúngico viviente|resistance:+3|initiative:-2|arcane:+1
+Máquina o ser artificial|defense:+3|control:+2|social:-4|risk:+1
+Esqueleto animado o cuerpo sin piel|resistance:+2|social:-3|arcane:+1
+Golem de material único (piedra, metal, cristal, etc.)|defense:+5|resistance:+4|initiative:-4|social:-3
+Ser bicéfalo o con múltiples cabezas|knowledge:+2|control:-1|risk:+1
+Criatura fusionada de dos especies distintas|combat:+2|arcane:+1|risk:+2
+Criatura sin ojos pero con otros sentidos avanzados|stealth:+2|knowledge:+1|risk:+1
+Parásito o criatura simbiótica|stealth:+3|risk:+3|social:-2
+Criatura con extremidades redundantes (varios brazos, patas, alas, etc.)|combat:+2|initiative:+1|risk:+1
+Organismo titánico (de tamaño colosal)|combat:+6|damage:+5|defense:+5|initiative:-4|risk:+5
+Forma completamente alienígena e indescriptible|arcane:+4|social:-5|risk:+5

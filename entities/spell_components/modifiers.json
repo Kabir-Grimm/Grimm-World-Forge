@@ -1,0 +1,752 @@
+[
+    {
+        "id": "modifier_1",
+        "name": "Potencia",
+        "description": "Componente de hechizo asociado a potencia.",
+        "tags": [
+            "modifier",
+            "potencia"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_2",
+        "name": "Precisión",
+        "description": "Componente de hechizo asociado a precisión.",
+        "tags": [
+            "modifier",
+            "precisión"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_3",
+        "name": "Duración",
+        "description": "Componente de hechizo asociado a duración.",
+        "tags": [
+            "modifier",
+            "duración"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_4",
+        "name": "Alcance",
+        "description": "Componente de hechizo asociado a alcance.",
+        "tags": [
+            "modifier",
+            "alcance"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_5",
+        "name": "Expansión",
+        "description": "Componente de hechizo asociado a expansión.",
+        "tags": [
+            "modifier",
+            "expansión"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_6",
+        "name": "Estabilidad",
+        "description": "Componente de hechizo asociado a estabilidad.",
+        "tags": [
+            "modifier",
+            "estabilidad"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_7",
+        "name": "Repetición",
+        "description": "Componente de hechizo asociado a repetición.",
+        "tags": [
+            "modifier",
+            "repetición"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_8",
+        "name": "Automatización",
+        "description": "Componente de hechizo asociado a automatización.",
+        "tags": [
+            "modifier",
+            "automatización"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_9",
+        "name": "Discreción",
+        "description": "Componente de hechizo asociado a discreción.",
+        "tags": [
+            "modifier",
+            "discreción"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_10",
+        "name": "Vínculo",
+        "description": "Componente de hechizo asociado a vínculo.",
+        "tags": [
+            "modifier",
+            "vínculo"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_11",
+        "name": "Sacrificio",
+        "description": "Componente de hechizo asociado a sacrificio.",
+        "tags": [
+            "modifier",
+            "sacrificio"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_12",
+        "name": "Inversión",
+        "description": "Componente de hechizo asociado a inversión.",
+        "tags": [
+            "modifier",
+            "inversión"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_13",
+        "name": "Condensación",
+        "description": "Componente de hechizo asociado a condensación.",
+        "tags": [
+            "modifier",
+            "condensación"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_14",
+        "name": "Propagación",
+        "description": "Componente de hechizo asociado a propagación.",
+        "tags": [
+            "modifier",
+            "propagación"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_15",
+        "name": "Silenciamiento",
+        "description": "Componente de hechizo asociado a silenciamiento.",
+        "tags": [
+            "modifier",
+            "silenciamiento"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_16",
+        "name": "Retardo",
+        "description": "Componente de hechizo asociado a retardo.",
+        "tags": [
+            "modifier",
+            "retardo"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_17",
+        "name": "Condición",
+        "description": "Componente de hechizo asociado a condición.",
+        "tags": [
+            "modifier",
+            "condición"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_18",
+        "name": "Persistencia",
+        "description": "Componente de hechizo asociado a persistencia.",
+        "tags": [
+            "modifier",
+            "persistencia"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_19",
+        "name": "Fragilidad",
+        "description": "Componente de hechizo asociado a fragilidad.",
+        "tags": [
+            "modifier",
+            "fragilidad"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_20",
+        "name": "Fijación",
+        "description": "Componente de hechizo asociado a fijación.",
+        "tags": [
+            "modifier",
+            "fijación"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_21",
+        "name": "Persecución",
+        "description": "Componente de hechizo asociado a persecución.",
+        "tags": [
+            "modifier",
+            "persecución"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_22",
+        "name": "Eco",
+        "description": "Componente de hechizo asociado a eco.",
+        "tags": [
+            "modifier",
+            "eco"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_23",
+        "name": "Doble filo",
+        "description": "Componente de hechizo asociado a doble filo.",
+        "tags": [
+            "modifier",
+            "doble_filo"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_24",
+        "name": "Pureza",
+        "description": "Componente de hechizo asociado a pureza.",
+        "tags": [
+            "modifier",
+            "pureza"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_25",
+        "name": "Contaminación",
+        "description": "Componente de hechizo asociado a contaminación.",
+        "tags": [
+            "modifier",
+            "contaminación"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_26",
+        "name": "Ocultamiento parcial",
+        "description": "Componente de hechizo asociado a ocultamiento parcial.",
+        "tags": [
+            "modifier",
+            "ocultamiento_parcial"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_27",
+        "name": "Firma visible",
+        "description": "Componente de hechizo asociado a firma visible.",
+        "tags": [
+            "modifier",
+            "firma_visible"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_28",
+        "name": "Límite amable",
+        "description": "Componente de hechizo asociado a límite amable.",
+        "tags": [
+            "modifier",
+            "límite_amable"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_29",
+        "name": "Sin filtro",
+        "description": "Componente de hechizo asociado a sin filtro.",
+        "tags": [
+            "modifier",
+            "sin_filtro"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_30",
+        "name": "Carga acumulada",
+        "description": "Componente de hechizo asociado a carga acumulada.",
+        "tags": [
+            "modifier",
+            "carga_acumulada"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_31",
+        "name": "Respuesta automática",
+        "description": "Componente de hechizo asociado a respuesta automática.",
+        "tags": [
+            "modifier",
+            "respuesta_automática"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_32",
+        "name": "Memoria del lanzador",
+        "description": "Componente de hechizo asociado a memoria del lanzador.",
+        "tags": [
+            "modifier",
+            "memoria_del_lanzador"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_33",
+        "name": "Imitación",
+        "description": "Componente de hechizo asociado a imitación.",
+        "tags": [
+            "modifier",
+            "imitación"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_34",
+        "name": "Reversibilidad",
+        "description": "Componente de hechizo asociado a reversibilidad.",
+        "tags": [
+            "modifier",
+            "reversibilidad"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_35",
+        "name": "Irreversibilidad",
+        "description": "Componente de hechizo asociado a irreversibilidad.",
+        "tags": [
+            "modifier",
+            "irreversibilidad"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_36",
+        "name": "Simetría",
+        "description": "Componente de hechizo asociado a simetría.",
+        "tags": [
+            "modifier",
+            "simetría"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_37",
+        "name": "Asimetría",
+        "description": "Componente de hechizo asociado a asimetría.",
+        "tags": [
+            "modifier",
+            "asimetría"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_38",
+        "name": "Resonancia",
+        "description": "Componente de hechizo asociado a resonancia.",
+        "tags": [
+            "modifier",
+            "resonancia"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_39",
+        "name": "Absorción parcial",
+        "description": "Componente de hechizo asociado a absorción parcial.",
+        "tags": [
+            "modifier",
+            "absorción_parcial"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_40",
+        "name": "Ligereza",
+        "description": "Componente de hechizo asociado a ligereza.",
+        "tags": [
+            "modifier",
+            "ligereza"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_41",
+        "name": "Peso",
+        "description": "Componente de hechizo asociado a peso.",
+        "tags": [
+            "modifier",
+            "peso"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_42",
+        "name": "Reflejo",
+        "description": "Componente de hechizo asociado a reflejo.",
+        "tags": [
+            "modifier",
+            "reflejo"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_43",
+        "name": "Fragmentación",
+        "description": "Componente de hechizo asociado a fragmentación.",
+        "tags": [
+            "modifier",
+            "fragmentación"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_44",
+        "name": "Convergencia",
+        "description": "Componente de hechizo asociado a convergencia.",
+        "tags": [
+            "modifier",
+            "convergencia"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_45",
+        "name": "Divergencia",
+        "description": "Componente de hechizo asociado a divergencia.",
+        "tags": [
+            "modifier",
+            "divergencia"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_46",
+        "name": "Ajuste emocional",
+        "description": "Componente de hechizo asociado a ajuste emocional.",
+        "tags": [
+            "modifier",
+            "ajuste_emocional"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_47",
+        "name": "Ajuste ambiental",
+        "description": "Componente de hechizo asociado a ajuste ambiental.",
+        "tags": [
+            "modifier",
+            "ajuste_ambiental"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_48",
+        "name": "Efecto residual",
+        "description": "Componente de hechizo asociado a efecto residual.",
+        "tags": [
+            "modifier",
+            "efecto_residual"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_49",
+        "name": "Falso positivo",
+        "description": "Componente de hechizo asociado a falso positivo.",
+        "tags": [
+            "modifier",
+            "falso_positivo"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 0.55,
+        "risk": 2,
+        "created_at": "2026-06-25T23:45:49.592854"
+    },
+    {
+        "id": "modifier_50",
+        "name": "Eco heredado",
+        "description": "Componente de hechizo asociado a eco heredado.",
+        "tags": [
+            "modifier",
+            "eco_heredado"
+        ],
+        "effects": {
+            "risk": 1
+        },
+        "weight": 1,
+        "risk": 0,
+        "created_at": "2026-06-25T23:45:49.592854"
+    }
+]

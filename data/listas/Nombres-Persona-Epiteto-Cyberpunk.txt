@@ -1,0 +1,49 @@
+el Fantasma de Neón|10
+la Mano de Cromo|10
+el Sin Registro|10
+la Voz del Cable|9
+el Error Vivo|9
+la Sombra Digital|9
+el Último Orgánico|8
+la Primera Sintética|8
+el Fragmento Perdido|8
+la Señal Fantasma|8
+el Hacker Negro|7
+la Reina del Código|7
+el Corredor Fantasma|7
+la Cazadora de Datos|7
+el Virus Humano|6
+la Llave Maestra|6
+el Destructor de Firewalls|6
+la Arquitecta Digital|6
+el Ojo de la Red|6
+la Voz del Sistema|5
+el Código Roto|5
+la Memoria Perdida|5
+el Proyecto Olvidado|5
+la Última Actualización|5
+el Usuario Cero|4
+la Operadora Final|4
+el Protocolo Viviente|4
+la Máquina con Alma|4
+el Traidor Corporativo|4
+la Pesadilla de las Megacorporaciones|3
+el Nacido en Laboratorio|3
+la Creación Prohibida|3
+el Que Hackeó su Destino|3
+la Que Rompió su Código|3
+el Portador del Virus|2
+la Dueña del Núcleo|2
+el Error del Sistema|2
+la Conciencia Despierta|2
+el Eco Artificial|2
+la Última Humana|1
+el Último Humano|1
+quien escapó de la simulación|1
+quien vio detrás del código|1
+quien recuerda el mundo anterior|1
+la anomalía imposible|1
+el fallo perfecto|1
+el alma en la máquina|1
+la sombra del servidor|1
+la identidad perdida|1

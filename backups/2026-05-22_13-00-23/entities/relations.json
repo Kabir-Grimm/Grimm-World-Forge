@@ -1,0 +1,802 @@
+[
+    {
+        "id": "relation_1",
+        "source": {
+            "id": "npcs_3",
+            "name": "Alma",
+            "type": "npcs"
+        },
+        "relation_type": "familiar de",
+        "target": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "notes": "Es una nota de test",
+        "created_at": "2026-05-13T21:28:21.510390"
+    },
+    {
+        "id": "relation_2",
+        "source": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "relation_type": "vive en",
+        "target": {
+            "id": "locations_2",
+            "name": "Ubicación Sin Nombre",
+            "type": "locations"
+        },
+        "notes": "",
+        "created_at": "2026-05-13T21:28:39.722568"
+    },
+    {
+        "id": "relation_3",
+        "source": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "relation_type": "entrenó en",
+        "target": {
+            "id": "locations_1",
+            "name": "Ubicación Sin Nombre",
+            "type": "locations"
+        },
+        "notes": "",
+        "created_at": "2026-05-13T21:28:55.262992"
+    },
+    {
+        "id": "relation_4",
+        "source": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "relation_type": "habita",
+        "target": {
+            "id": "world_1",
+            "name": "Oclaria",
+            "type": "world"
+        },
+        "notes": "",
+        "created_at": "2026-05-14T11:03:57.883604"
+    },
+    {
+        "id": "relation_5",
+        "source": {
+            "id": "world_1",
+            "name": "Oclaria",
+            "type": "world"
+        },
+        "relation_type": "purifica",
+        "target": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "notes": "Consecuencia automática de eco: Purificar / Genera paranoia",
+        "created_at": "2026-05-15T09:25:54.759421"
+    },
+    {
+        "id": "relation_6",
+        "source": {
+            "id": "world_1",
+            "name": "Oclaria",
+            "type": "world"
+        },
+        "relation_type": "fortalece relación con",
+        "target": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "notes": "Consecuencia automática de eco: Infectar / Fortalece una relación",
+        "created_at": "2026-05-15T09:37:18.421623"
+    },
+    {
+        "id": "relation_7",
+        "source": {
+            "id": "world_1",
+            "name": "Oclaria",
+            "type": "world"
+        },
+        "relation_type": "usurpa",
+        "target": {
+            "id": "npcs_3",
+            "name": "Alma",
+            "type": "npcs"
+        },
+        "notes": "Consecuencia automática de eco: Usurpar / Produce corrupción",
+        "created_at": "2026-05-15T09:37:18.477320"
+    },
+    {
+        "id": "relation_8",
+        "source": {
+            "id": "world_1",
+            "name": "Oclaria",
+            "type": "world"
+        },
+        "relation_type": "persigue",
+        "target": {
+            "id": "npcs_3",
+            "name": "Alma",
+            "type": "npcs"
+        },
+        "notes": "Consecuencia automática de eco: Perseguir / Despierta interés religioso",
+        "created_at": "2026-05-15T09:37:18.497840"
+    },
+    {
+        "id": "relation_9",
+        "source": {
+            "id": "world_1",
+            "name": "Oclaria",
+            "type": "world"
+        },
+        "relation_type": "inspira",
+        "target": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "notes": "Consecuencia automática de eco: Inspirar / Expone secretos",
+        "created_at": "2026-05-15T09:37:33.086169"
+    },
+    {
+        "id": "relation_10",
+        "source": {
+            "id": "world_1",
+            "name": "Oclaria",
+            "type": "world"
+        },
+        "relation_type": "revela",
+        "target": {
+            "id": "locations_1",
+            "name": "Malikot",
+            "type": "locations"
+        },
+        "notes": "Consecuencia automática de eco: Revelar / Complica negociaciones",
+        "created_at": "2026-05-15T09:37:33.107666"
+    },
+    {
+        "id": "relation_11",
+        "source": {
+            "id": "world_1",
+            "name": "Oclaria",
+            "type": "world"
+        },
+        "relation_type": "fortalece relación con",
+        "target": {
+            "id": "locations_1",
+            "name": "Malikot",
+            "type": "locations"
+        },
+        "notes": "Consecuencia automática de eco: Manipular / Fortalece una relación",
+        "created_at": "2026-05-15T09:37:33.146897"
+    },
+    {
+        "id": "relation_12_3235b272",
+        "source": {
+            "id": "npcs_3",
+            "name": "Alma",
+            "type": "npcs"
+        },
+        "relation_type": "empuña",
+        "target": {
+            "id": "weapons_3",
+            "name": "Lucero del anochecer",
+            "type": "weapons"
+        },
+        "notes": "Asignado desde pestaña de equipamiento.",
+        "created_at": "2026-05-17T21:08:32.750206"
+    },
+    {
+        "id": "relation_15_6dd2c219",
+        "source": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "relation_type": "rival",
+        "target": {
+            "id": "npcs_3",
+            "name": "Alma",
+            "type": "npcs"
+        },
+        "notes": "",
+        "created_at": "2026-05-17T23:41:54.131412"
+    },
+    {
+        "id": "relation_16_93616c47",
+        "source": {
+            "id": "npcs_3",
+            "name": "Alma",
+            "type": "npcs"
+        },
+        "relation_type": "posee",
+        "target": {
+            "id": "default_relic_1",
+            "name": "Amuleto de ceniza",
+            "type": "relics"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-19T11:42:49.532806"
+    },
+    {
+        "id": "relation_16_3eb7d74f",
+        "source": {
+            "id": "npcs_3",
+            "name": "Alma",
+            "type": "npcs"
+        },
+        "relation_type": "viste",
+        "target": {
+            "id": "default_armor_1",
+            "name": "Armadura de cuero",
+            "type": "armors"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-19T11:42:59.546188"
+    },
+    {
+        "id": "relation_17_385386bb",
+        "source": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "relation_type": "empuña",
+        "target": {
+            "id": "default_weapon_2",
+            "name": "Hacha pesada",
+            "type": "weapons"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-19T15:10:57.985067"
+    },
+    {
+        "id": "relation_18_36335f3d",
+        "source": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "relation_type": "porta",
+        "target": {
+            "id": "default_armor_1",
+            "name": "Armadura de cuero",
+            "type": "armors"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-19T15:19:44.633236"
+    },
+    {
+        "id": "relation_18_e2567709",
+        "source": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "relation_type": "viste",
+        "target": {
+            "id": "weapons_3",
+            "name": "Lucero del anochecer",
+            "type": "weapons"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-19T15:20:09.080705"
+    },
+    {
+        "id": "relation_19_0683ba16",
+        "source": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "relation_type": "viste",
+        "target": {
+            "id": "relics_1",
+            "name": "Ojo de gato",
+            "type": "relics"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-19T15:25:39.696910"
+    },
+    {
+        "id": "relation_20_9b2df705",
+        "source": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "relation_type": "admira",
+        "target": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "notes": "",
+        "created_at": "2026-05-19T15:27:31.923879"
+    },
+    {
+        "id": "relation_21_a6a10ac5",
+        "source": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "relation_type": "rival de",
+        "target": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "notes": "",
+        "created_at": "2026-05-19T15:52:41.847609"
+    },
+    {
+        "id": "relation_22_6d7e34e4",
+        "source": {
+            "id": "npcs_1",
+            "name": "Claude",
+            "type": "npcs"
+        },
+        "relation_type": "viste",
+        "target": {
+            "id": "default_magic_1",
+            "name": "Rudimentos de magia ígnea",
+            "type": "magic_systems"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-19T18:50:33.421319"
+    },
+    {
+        "id": "relation_23_de0f7b1b",
+        "source": {
+            "id": "npcs_6",
+            "name": "Manelli",
+            "type": "npcs"
+        },
+        "relation_type": "derrotó en batalla épica",
+        "target": {
+            "id": "npcs_5",
+            "name": "Minale",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T09:33:17.732578"
+    },
+    {
+        "id": "relation_24_c6b547cf",
+        "source": {
+            "id": "npcs_5",
+            "name": "Minale",
+            "type": "npcs"
+        },
+        "relation_type": "juró venganza contra",
+        "target": {
+            "id": "npcs_6",
+            "name": "Manelli",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T09:33:17.741372"
+    },
+    {
+        "id": "relation_25_f0ada813",
+        "source": {
+            "id": "npcs_6",
+            "name": "Manelli",
+            "type": "npcs"
+        },
+        "relation_type": "empuña",
+        "target": {
+            "id": "weapons_4",
+            "name": "Cadena de Alma",
+            "type": "weapons"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-20T11:37:35.001475"
+    },
+    {
+        "id": "relation_26_b632b2f3",
+        "source": {
+            "id": "npcs_6",
+            "name": "Manelli",
+            "type": "npcs"
+        },
+        "relation_type": "perdonó tras vencer",
+        "target": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T11:39:55.443673"
+    },
+    {
+        "id": "relation_27_54211a63",
+        "source": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "relation_type": "teme",
+        "target": {
+            "id": "npcs_6",
+            "name": "Manelli",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T11:39:55.451490"
+    },
+    {
+        "id": "relation_28_cdaff7aa",
+        "source": {
+            "id": "npcs_6",
+            "name": "Manelli",
+            "type": "npcs"
+        },
+        "relation_type": "superó en duelo",
+        "target": {
+            "id": "creatures_1",
+            "name": "Kluxen",
+            "type": "creatures"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T12:47:03.972545"
+    },
+    {
+        "id": "relation_29_829b2012",
+        "source": {
+            "id": "creatures_1",
+            "name": "Kluxen",
+            "type": "creatures"
+        },
+        "relation_type": "juró venganza contra",
+        "target": {
+            "id": "npcs_6",
+            "name": "Manelli",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T12:47:03.980362"
+    },
+    {
+        "id": "relation_30_8f667720",
+        "source": {
+            "id": "armies_1",
+            "name": "Luz sagrada",
+            "type": "armies"
+        },
+        "relation_type": "conoce",
+        "target": {
+            "id": "spells_1",
+            "name": "Ama'tys",
+            "type": "spells"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-20T12:49:27.209966"
+    },
+    {
+        "id": "relation_31_6c5f5361",
+        "source": {
+            "id": "npcs_6",
+            "name": "Manelli",
+            "type": "npcs"
+        },
+        "relation_type": "superó en duelo",
+        "target": {
+            "id": "creatures_2",
+            "name": "Gurralo",
+            "type": "creatures"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T12:51:13.476761"
+    },
+    {
+        "id": "relation_32_6f9eb94a",
+        "source": {
+            "id": "creatures_2",
+            "name": "Gurralo",
+            "type": "creatures"
+        },
+        "relation_type": "odia",
+        "target": {
+            "id": "npcs_6",
+            "name": "Manelli",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T12:51:13.484578"
+    },
+    {
+        "id": "relation_34_0a82613c",
+        "source": {
+            "id": "npcs_7",
+            "name": "Awlys",
+            "type": "npcs"
+        },
+        "relation_type": "conoce",
+        "target": {
+            "id": "spells_1",
+            "name": "Ama'tys",
+            "type": "spells"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-20T12:55:29.491830"
+    },
+    {
+        "id": "relation_35_05e9c263",
+        "source": {
+            "id": "npcs_7",
+            "name": "Awlys",
+            "type": "npcs"
+        },
+        "relation_type": "conoce",
+        "target": {
+            "id": "spells_3",
+            "name": "Lok'cvu",
+            "type": "spells"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-20T12:55:31.291223"
+    },
+    {
+        "id": "relation_36_bb7d1ab6",
+        "source": {
+            "id": "npcs_7",
+            "name": "Awlys",
+            "type": "npcs"
+        },
+        "relation_type": "derrotó en batalla épica",
+        "target": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T12:56:44.941735"
+    },
+    {
+        "id": "relation_37_c06ffb57",
+        "source": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "relation_type": "teme",
+        "target": {
+            "id": "npcs_7",
+            "name": "Awlys",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T12:56:44.950529"
+    },
+    {
+        "id": "relation_38_d635459e",
+        "source": {
+            "id": "npcs_6",
+            "name": "Manelli",
+            "type": "npcs"
+        },
+        "relation_type": "perdonó tras vencer",
+        "target": {
+            "id": "npcs_7",
+            "name": "Awlys",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T12:58:49.849850"
+    },
+    {
+        "id": "relation_39_bedf31cc",
+        "source": {
+            "id": "npcs_7",
+            "name": "Awlys",
+            "type": "npcs"
+        },
+        "relation_type": "rival",
+        "target": {
+            "id": "npcs_6",
+            "name": "Manelli",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T12:58:49.857666"
+    },
+    {
+        "id": "relation_39_7cb28e10",
+        "source": {
+            "id": "npcs_6",
+            "name": "Manelli",
+            "type": "npcs"
+        },
+        "relation_type": "conoce",
+        "target": {
+            "id": "spells_2",
+            "name": "Du'tlwe",
+            "type": "spells"
+        },
+        "notes": "Obtenido como botín en una batalla épica.",
+        "created_at": "2026-05-20T12:58:49.957839"
+    },
+    {
+        "id": "relation_40_f462b9a0",
+        "source": {
+            "id": "npcs_7",
+            "name": "Awlys",
+            "type": "npcs"
+        },
+        "relation_type": "conoce",
+        "target": {
+            "id": "spells_2",
+            "name": "Du'tlwe",
+            "type": "spells"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-20T12:59:50.043986"
+    },
+    {
+        "id": "relation_41_2acdde33",
+        "source": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "relation_type": "superó en duelo",
+        "target": {
+            "id": "creatures_2",
+            "name": "Gurralo",
+            "type": "creatures"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T13:14:17.883406"
+    },
+    {
+        "id": "relation_42_28c5aece",
+        "source": {
+            "id": "creatures_2",
+            "name": "Gurralo",
+            "type": "creatures"
+        },
+        "relation_type": "teme",
+        "target": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T13:14:17.891223"
+    },
+    {
+        "id": "relation_43_7f0fa61f",
+        "source": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "relation_type": "bendecido por",
+        "target": {
+            "id": "default_armor_2",
+            "name": "Cota de malla",
+            "type": "armors"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-20T13:15:24.529428"
+    },
+    {
+        "id": "relation_44_fe143238",
+        "source": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "relation_type": "bendecido por",
+        "target": {
+            "id": "default_weapon_2",
+            "name": "Hacha pesada",
+            "type": "weapons"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-05-20T13:15:27.408156"
+    },
+    {
+        "id": "relation_45_e58b51c1",
+        "source": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "relation_type": "derrotó en batalla épica",
+        "target": {
+            "id": "creatures_2",
+            "name": "Gurralo",
+            "type": "creatures"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T13:16:00.133967"
+    },
+    {
+        "id": "relation_46_61ead003",
+        "source": {
+            "id": "creatures_2",
+            "name": "Gurralo",
+            "type": "creatures"
+        },
+        "relation_type": "odia",
+        "target": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T13:16:00.141784"
+    },
+    {
+        "id": "relation_47_40c248ac",
+        "source": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "relation_type": "superó en duelo",
+        "target": {
+            "id": "creatures_2",
+            "name": "Gurralo",
+            "type": "creatures"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T13:16:44.342667"
+    },
+    {
+        "id": "relation_48_6cbb5dc8",
+        "source": {
+            "id": "creatures_2",
+            "name": "Gurralo",
+            "type": "creatures"
+        },
+        "relation_type": "teme",
+        "target": {
+            "id": "npcs_4",
+            "name": "Markus",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T13:16:44.351586"
+    },
+    {
+        "id": "relation_49_14212a76",
+        "source": {
+            "id": "npcs_7",
+            "name": "Awlys",
+            "type": "npcs"
+        },
+        "relation_type": "derrotó en batalla épica",
+        "target": {
+            "id": "creatures_2",
+            "name": "Gurralo",
+            "type": "creatures"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T20:10:28.480855"
+    },
+    {
+        "id": "relation_50_e245d341",
+        "source": {
+            "id": "creatures_2",
+            "name": "Gurralo",
+            "type": "creatures"
+        },
+        "relation_type": "evita confrontar a",
+        "target": {
+            "id": "npcs_7",
+            "name": "Awlys",
+            "type": "npcs"
+        },
+        "notes": "Relación creada por batalla épica.",
+        "created_at": "2026-05-20T20:10:28.489649"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "name": "Malikot",
+        "type": "locations",
+        "data": {
+            "Tipo": "Terreno salvaje",
+            "Terreno": "Pantano brumoso",
+            "Elementos llamativos": "Ciudad Fantasma",
+            "Peculiaridad": "Un fenómeno climático extraño",
+            "Nivel de peligro": "Soldados corruptos y abusivos.",
+            "Particularidades del mundo": "Reencarnación común"
+        },
+        "created_at": "2026-05-13T21:27:21.483884",
+        "id": "locations_1",
+        "notes": "uwu"
+    },
+    {
+        "name": "Ubicación Sin Nombre",
+        "type": "locations",
+        "data": {
+            "Tipo": "Estructura",
+            "Terreno": "Ruinas olvidadas",
+            "Elementos llamativos": "Mina abandonada",
+            "Estado del lugar": "Expansión rápida por recursos o influencia.",
+            "Control de ubicación": "Neutral",
+            "Peculiaridad": "Una bestia mitológica vinculada al lugar",
+            "Nivel tecnológico": "Singularidad Tecnológica",
+            "Nivel de peligro": "Fortaleza inexpugnable con ejército poderoso.",
+            "Particularidades del mundo": "Esqueletos de dioses en la superficie"
+        },
+        "created_at": "2026-05-13T21:27:24.646169",
+        "id": "locations_2"
+    },
+    {
+        "name": "Ubicación Sin Nombre",
+        "type": "locations",
+        "data": {
+            "Tipo": "Asentamiento",
+            "Terreno": "Ruinas olvidadas",
+            "Elementos llamativos": "Academia Arcanum",
+            "Tamaño población": "Aldea en crecimiento (100-500 habitantes)",
+            "Tipo de gobierno": "Patriarcado",
+            "Nivel tecnológico": "Era Digital",
+            "Control de ubicación": "Rebeldes",
+            "Estado del lugar": "En ruinas debido a guerra o desastre.",
+            "Religión": "Monoteísmo, una deidad principal.",
+            "Distintivo de población": "Un artefacto olvidado que genera clima artificial alrededor del pueblo.",
+            "Particularidades del mundo": "Héroes inmortales reencarnan cíclicamente",
+            "Nivel de peligro": "Soldados corruptos y abusivos."
+        },
+        "created_at": "2026-05-13T21:27:27.229318",
+        "id": "locations_3"
+    }
+]

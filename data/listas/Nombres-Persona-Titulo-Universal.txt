@@ -1,0 +1,13 @@
+Señor|10
+Señora|10
+Capitán|8
+Maestro|8
+Maestra|8
+Guardián|7
+Viajero|7
+Forastero|6
+Custodio|6
+Heredero|5
+Exiliado|5
+Portador|5
+Oráculo|3

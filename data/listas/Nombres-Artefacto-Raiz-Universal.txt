@@ -1,0 +1,10 @@
+Eco|10
+Umbral|8
+Aurora|8
+Ceniza|7
+Eclipse|7
+Juramento|6
+Memoria|6
+Ruina|5
+Destino|5
+Abismo|4

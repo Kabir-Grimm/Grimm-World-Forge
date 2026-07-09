@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ojo de gato",
+        "type": "relics",
+        "data": {
+            "Cualidad única": "Exige un precio por su uso",
+            "Forma": "Un fragmento de estrella o meteorito",
+            "Origen o Creador": "Un artesano desconocido",
+            "Propósito": "Control",
+            "Rareza": "Poco común"
+        },
+        "rarity": "Poco común",
+        "effects": {
+            "control": 2,
+            "risk": 1
+        },
+        "created_at": "2026-05-19T15:25:23.341811",
+        "id": "relics_1"
+    }
+]

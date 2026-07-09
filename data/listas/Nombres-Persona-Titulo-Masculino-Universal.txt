@@ -1,0 +1,49 @@
+Señor|10
+Capitán|10
+Maestro|9
+Guardián|9
+Viajero|8
+Forastero|8
+Custodio|8
+Heredero|7
+Exiliado|7
+Portador|7
+Caballero|7
+Comandante|6
+General|6
+Sabio|6
+Cazador|6
+Explorador|6
+Mercader|5
+Artesano|5
+Protector|5
+Elegido|5
+Emperador|5
+Rey|5
+Príncipe|4
+Duque|4
+Barón|4
+Lord|4
+Profeta|4
+Oráculo|4
+Iniciado|3
+Discípulo|3
+Campeón|3
+Guerrero|3
+Mago|3
+Hechicero|3
+Alquimista|2
+Cronista|2
+Archivista|2
+Errante|2
+Nómada|2
+Invocador|2
+Vidente|2
+El Primero|1
+El Último|1
+El Perdido|1
+El Renacido|1
+El Antiguo|1
+El Marcado|1
+El Inmortal|1
+El Desconocido|1

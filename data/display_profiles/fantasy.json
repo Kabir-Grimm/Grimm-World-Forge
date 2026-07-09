@@ -1,0 +1,49 @@
+{
+  "profile_name": "Fantasía",
+
+  "ui": {
+    "characters": "👤 Aventureros y NPCs",
+    "equipment": "🎒 Equipo de Aventurero",
+    "locations": "🏰 Reinos y Lugares",
+    "relations": "🔗 Relaciones",
+    "relation_graph": "🕸 Mapa de Relaciones",
+    "entity_editor": "📝 Editor de Entidades",
+    "worlds": "🌍 Mundos",
+    "power_systems": "🔮 Sistemas de Magia",
+    "powers": "✨ Hechizos",
+    "consumables": "🍖 Provisiones",
+    "weapons": "⚔ Armas",
+    "armors": "🛡 Armaduras",
+    "artifacts": "🏺 Reliquias",
+    "factions": "🏴 Gremios y Órdenes",
+    "creatures": "🐉 Criaturas",
+    "forces": "⚔ Ejércitos",
+    "simulation": "🌌 Simulación",
+    "echoes": "✦ Ecos Narrativos",
+    "encounters": "⚔ Encuentros",
+    "dramatic_battles": "🔥 Batallas Épicas"
+  },
+
+  "entity_types": {
+    "npcs": "NPCs / Aventureros",
+    "creatures": "Criaturas",
+    "locations": "Lugares / Reinos",
+    "kingdoms": "Reinos / Imperios",
+    "factions": "Gremios / Órdenes",
+    "armies": "Ejércitos",
+    "relics": "Reliquias",
+    "magic_systems": "Sistemas de Magia",
+    "spells": "Hechizos"
+  },
+
+  "stats": {
+    "arcane": "Magia"
+  },
+
+  "reputation": {
+    "arcane": "Prestigio Arcano",
+    "monstrous": "Monstruoso"
+  },
+
+  "meta": {}
+}

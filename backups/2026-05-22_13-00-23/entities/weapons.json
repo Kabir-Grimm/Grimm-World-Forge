@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Cadena",
+        "type": "weapons",
+        "data": {
+            "Forma": "En cadena o flexible",
+            "Limitación": "Solo puede ser usada un número limitado de veces antes de romperse",
+            "Material Principal": "Hueso o marfil endurecido",
+            "Método de ataque": "Utiliza mecanismos giratorios o de sierra",
+            "Rasgo especial": "Se auto-repara con el tiempo",
+            "Tamaño": "Usable con una o dos manos"
+        },
+        "created_at": "2026-05-14T16:41:41.619660",
+        "id": "weapons_1"
+    },
+    {
+        "name": "Punzada",
+        "type": "weapons",
+        "data": {
+            "Forma": "Pesada y robusta",
+            "Limitación": "Su poder solo funciona en ciertas condiciones",
+            "Material Principal": "Material indestructible o fuera de la realidad",
+            "Método de ataque": "Genera vibraciones o impactos sónicos",
+            "Rasgo especial": "Ninguno",
+            "Tamaño": "De una mano, mediana"
+        },
+        "created_at": "2026-05-15T10:48:10.179214",
+        "id": "weapons_2"
+    },
+    {
+        "name": "Lucero del anochecer",
+        "type": "weapons",
+        "data": {
+            "Forma": "Curvada o segmentada",
+            "Limitación": "Consume la energía vital de quien la usa",
+            "Material Principal": "Algún organismo vivo o mutante",
+            "Método de ataque": "Corta o desgarra",
+            "Rasgo especial": "Ninguno",
+            "Tamaño": "De una mano, grande pero ligera"
+        },
+        "created_at": "2026-05-17T21:08:15.344926",
+        "id": "weapons_3"
+    },
+    {
+        "name": "Cadena de Alma",
+        "type": "weapons",
+        "data": {
+            "Forma": "Curvada o segmentada",
+            "Limitación": "No puede ser desenvainada sin una razón válida",
+            "Material Principal": "Arcano, compuesto por magia sólida",
+            "Método de ataque": "Corta o desgarra",
+            "Rasgo especial": "Puede separarse en múltiples partes",
+            "Tamaño": "Usable con una o dos manos",
+            "Rareza": "Épico"
+        },
+        "rarity": "Épico",
+        "effects": {
+            "initiative": 3,
+            "combat": 3
+        },
+        "created_at": "2026-05-20T11:37:22.242192",
+        "id": "weapons_4"
+    }
+]

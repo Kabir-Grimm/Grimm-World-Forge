@@ -1,0 +1,11 @@
+2026-05-06T15:32:56.667051|Kabir|{'dice': 'D20', 'result': 10, 'context': 'uwu'}|af39077f1443ac6ffaa48932e1b26ed1816abed24c28d8c90893f82ce1fb7e83
+2026-05-06T15:35:24.536027|Kabir|{'dice': 'D100', 'result': 42, 'context': 'destino'}|78082bada47f72626968aa77b29b738b9c792f15fa0c98dcdf2618640ce44b15
+2026-05-06T15:52:35.481672|Kabir|{'dice': 'D100', 'result': 94, 'context': 'owo'}|613a338318868980805d8ddeb8414de34d9b5e85d03d15e615199e0bff172b16
+2026-05-06T15:55:03.053875|Kabir|{'dice': 'D100', 'result': 48, 'context': 'owo'}|6ffb2683e12161ad28e00686c21ce7af06d6d449293bc29f8c29387c318300b1
+2026-05-06T15:55:06.065186|Kabir|{'dice': 'D20', 'result': 10, 'context': 'owo'}|3fe730283ec8c75171adce3b9f23643a147927d0ab3054f523e52aa057d39f36
+2026-05-06T15:55:06.539166|Kabir|{'dice': 'D20', 'result': 9, 'context': 'owo'}|4439f6805a795f5123f2d622e8177c37fb42eacaafe1cecec56933e3dc99f716
+2026-05-06T15:55:06.794270|Kabir|{'dice': 'D20', 'result': 5, 'context': 'owo'}|70ee99a2a0f593f135a668a8d65c3829c4d397f5190e0c1e80eaee8eda25608e
+2026-05-06T15:55:06.963315|Kabir|{'dice': 'D20', 'result': 8, 'context': 'owo'}|ad4ec0635e68138910eb5aabfb24bd64a72e307b9f9e4d83cdf443e2c2ecaad6
+2026-05-06T15:55:07.327040|Kabir|{'dice': 'D20', 'result': 17, 'context': 'owo'}|e56016cd69157922eceb0a8b3e56710d09c2d1b7c225abe4189f39483eba74e6
+2026-05-06T15:55:07.500063|Kabir|{'dice': 'D20', 'result': 13, 'context': 'owo'}|93c0d27e4648f1558d3b427143b8ae8c22774ff4e217b75d59e2257985a7a169
+2026-05-06T16:55:09.059169|Kabir|{'dice': 'D20', 'result': 4, 'context': 'owo'}|46d0def9e9e268d40115fd5d22f608242d5d88eda42d5f16a50dc9963904f401

@@ -1,0 +1,10 @@
+Juramento|10
+Ceniza|8
+Ruina|8
+Sangre|7
+Eclipse|7
+Corona|6
+Lamento|6
+Tormenta|6
+Abismo|5
+Aurora|5
