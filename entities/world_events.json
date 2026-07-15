@@ -20092,5 +20092,766 @@
                 "actor_status": "Recuperado"
             }
         }
+    },
+    {
+        "id": "event_20260715_085812_9582",
+        "created_at": "2026-07-15T08:58:12.673220",
+        "world_date": "Año 1, Mes 11, Día 29 — Turno 328",
+        "world_time": {
+            "turn": 328,
+            "day": 29,
+            "month": 11,
+            "year": 1
+        },
+        "event_type": "movement",
+        "title": "Kael Bright viajó hacia Ruina Plateado",
+        "description": "Kael Bright avanzó hacia Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "destination": {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations",
+                "x": -373.0,
+                "y": 36.0,
+                "reason": "world_travel",
+                "assigned_at": "2026-07-01T11:24:31.624136"
+            },
+            "zone_name": null,
+            "travel_cost": null
+        }
+    },
+    {
+        "id": "event_20260715_085812_6977",
+        "created_at": "2026-07-15T08:58:12.674198",
+        "world_date": "Año 1, Mes 11, Día 29 — Turno 328",
+        "world_time": {
+            "turn": 328,
+            "day": 29,
+            "month": 11,
+            "year": 1
+        },
+        "event_type": "npc_location_reaction",
+        "title": "Kael Bright descansó en Bastión Maldito",
+        "description": "Kael Bright se recuperó en Bastión Maldito.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [
+            {
+                "entity_id": "locations_4",
+                "name": "Bastión Maldito",
+                "type": "locations"
+            }
+        ],
+        "extra": {
+            "reaction_key": "rest",
+            "effects": {
+                "actor_status": "Recuperado"
+            }
+        }
+    },
+    {
+        "id": "event_20260715_085813_2709",
+        "created_at": "2026-07-15T08:58:13.322803",
+        "world_date": "Año 1, Mes 11, Día 30 — Turno 329",
+        "world_time": {
+            "turn": 329,
+            "day": 30,
+            "month": 11,
+            "year": 1
+        },
+        "event_type": "movement",
+        "title": "Kael Bright viajó hacia Ruina Plateado",
+        "description": "Kael Bright avanzó hacia Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "destination": {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations",
+                "x": -373.0,
+                "y": 36.0,
+                "reason": "world_travel",
+                "assigned_at": "2026-07-01T11:24:31.624136"
+            },
+            "zone_name": null,
+            "travel_cost": null
+        }
+    },
+    {
+        "id": "event_20260715_085813_8035",
+        "created_at": "2026-07-15T08:58:13.322803",
+        "world_date": "Año 1, Mes 11, Día 30 — Turno 329",
+        "world_time": {
+            "turn": 329,
+            "day": 30,
+            "month": 11,
+            "year": 1
+        },
+        "event_type": "movement",
+        "title": "Elegida Kaia Nightfall viajó hacia Ruina Plateado",
+        "description": "Elegida Kaia Nightfall avanzó hacia Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_5",
+            "name": "Elegida Kaia Nightfall",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "destination": {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations",
+                "x": -373.0,
+                "y": 36.0,
+                "reason": "world_travel",
+                "assigned_at": "2026-07-01T11:24:30.085409"
+            },
+            "zone_name": null,
+            "travel_cost": null
+        }
+    },
+    {
+        "id": "event_20260715_085813_5451",
+        "created_at": "2026-07-15T08:58:13.322803",
+        "world_date": "Año 1, Mes 11, Día 30 — Turno 329",
+        "world_time": {
+            "turn": 329,
+            "day": 30,
+            "month": 11,
+            "year": 1
+        },
+        "event_type": "npc_location_reaction",
+        "title": "Kael Bright descansó en Bastión Maldito",
+        "description": "Kael Bright se recuperó en Bastión Maldito.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [
+            {
+                "entity_id": "locations_4",
+                "name": "Bastión Maldito",
+                "type": "locations"
+            }
+        ],
+        "extra": {
+            "reaction_key": "rest",
+            "effects": {
+                "actor_status": "Recuperado"
+            }
+        }
+    },
+    {
+        "id": "event_20260715_085813_8822",
+        "created_at": "2026-07-15T08:58:13.787037",
+        "world_date": "Año 1, Mes 12, Día 1 — Turno 330",
+        "world_time": {
+            "turn": 330,
+            "day": 1,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "movement",
+        "title": "Kael Bright viajó hacia Ruina Plateado",
+        "description": "Kael Bright avanzó hacia Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "destination": {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations",
+                "x": -373.0,
+                "y": 36.0,
+                "reason": "world_travel",
+                "assigned_at": "2026-07-01T11:24:31.624136"
+            },
+            "zone_name": null,
+            "travel_cost": null
+        }
+    },
+    {
+        "id": "event_20260715_085813_4908",
+        "created_at": "2026-07-15T08:58:13.787037",
+        "world_date": "Año 1, Mes 12, Día 1 — Turno 330",
+        "world_time": {
+            "turn": 330,
+            "day": 1,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "arrival",
+        "title": "Elegida Kaia Nightfall llegó a Ruina Plateado",
+        "description": "Elegida Kaia Nightfall llegó a Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_5",
+            "name": "Elegida Kaia Nightfall",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "destination": {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations",
+                "x": -373.0,
+                "y": 36.0,
+                "reason": "world_travel",
+                "assigned_at": "2026-07-01T11:24:30.085409"
+            },
+            "zone_name": null,
+            "travel_cost": 1.0
+        }
+    },
+    {
+        "id": "event_20260715_085813_5434",
+        "created_at": "2026-07-15T08:58:13.787037",
+        "world_date": "Año 1, Mes 12, Día 1 — Turno 330",
+        "world_time": {
+            "turn": 330,
+            "day": 1,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "npc_location_reaction",
+        "title": "Kael Bright descansó en Bastión Maldito",
+        "description": "Kael Bright se recuperó en Bastión Maldito.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [
+            {
+                "entity_id": "locations_4",
+                "name": "Bastión Maldito",
+                "type": "locations"
+            }
+        ],
+        "extra": {
+            "reaction_key": "rest",
+            "effects": {
+                "actor_status": "Recuperado"
+            }
+        }
+    },
+    {
+        "id": "event_20260715_085813_2020",
+        "created_at": "2026-07-15T08:58:13.787037",
+        "world_date": "Año 1, Mes 12, Día 1 — Turno 330",
+        "world_time": {
+            "turn": 330,
+            "day": 1,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "npc_location_reaction",
+        "title": "Elegida Kaia Nightfall aprendió rumores útiles en Ruina Plateado",
+        "description": "Elegida Kaia Nightfall obtuvo información sobre conflictos, rutas o peligros cercanos en Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_5",
+            "name": "Elegida Kaia Nightfall",
+            "type": "npcs"
+        },
+        "related": [
+            {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations"
+            }
+        ],
+        "extra": {
+            "reaction_key": "learn",
+            "effects": {
+                "actor_knowledge": "Rumores locales"
+            }
+        }
+    },
+    {
+        "id": "event_20260715_085815_7602",
+        "created_at": "2026-07-15T08:58:15.004101",
+        "world_date": "Año 1, Mes 12, Día 2 — Turno 331",
+        "world_time": {
+            "turn": 331,
+            "day": 2,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "npc_location_reaction",
+        "title": "Kael Bright compró provisiones en Bastión Maldito",
+        "description": "Kael Bright consiguió recursos básicos en Bastión Maldito.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [
+            {
+                "entity_id": "locations_4",
+                "name": "Bastión Maldito",
+                "type": "locations"
+            }
+        ],
+        "extra": {
+            "reaction_key": "trade",
+            "effects": {
+                "actor_inventory_note": "Provisiones adquiridas"
+            }
+        }
+    },
+    {
+        "id": "event_20260715_085815_5661",
+        "created_at": "2026-07-15T08:58:15.624749",
+        "world_date": "Año 1, Mes 12, Día 3 — Turno 332",
+        "world_time": {
+            "turn": 332,
+            "day": 3,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "movement",
+        "title": "Elegida Kaia Nightfall viajó hacia Ruina Plateado",
+        "description": "Elegida Kaia Nightfall avanzó hacia Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_5",
+            "name": "Elegida Kaia Nightfall",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "destination": {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations",
+                "x": -373.0,
+                "y": 36.0,
+                "reason": "world_travel",
+                "assigned_at": "2026-07-15T08:58:15.624749"
+            },
+            "zone_name": null,
+            "travel_cost": 1.0
+        }
+    },
+    {
+        "id": "event_20260715_085815_1481",
+        "created_at": "2026-07-15T08:58:15.624749",
+        "world_date": "Año 1, Mes 12, Día 3 — Turno 332",
+        "world_time": {
+            "turn": 332,
+            "day": 3,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "npc_location_reaction",
+        "title": "Kael Bright compró provisiones en Bastión Maldito",
+        "description": "Kael Bright consiguió recursos básicos en Bastión Maldito.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [
+            {
+                "entity_id": "locations_4",
+                "name": "Bastión Maldito",
+                "type": "locations"
+            }
+        ],
+        "extra": {
+            "reaction_key": "trade",
+            "effects": {
+                "actor_inventory_note": "Provisiones adquiridas"
+            }
+        }
+    },
+    {
+        "id": "event_20260715_085815_7719",
+        "created_at": "2026-07-15T08:58:15.624749",
+        "world_date": "Año 1, Mes 12, Día 3 — Turno 332",
+        "world_time": {
+            "turn": 332,
+            "day": 3,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "npc_location_reaction",
+        "title": "Elegida Kaia Nightfall recibió una misión en Ruina Plateado",
+        "description": "Elegida Kaia Nightfall encontró una oportunidad de trabajo o una petición local en Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_5",
+            "name": "Elegida Kaia Nightfall",
+            "type": "npcs"
+        },
+        "related": [
+            {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations"
+            }
+        ],
+        "extra": {
+            "reaction_key": "mission",
+            "effects": {
+                "actor_goal": "Misión local"
+            }
+        }
+    },
+    {
+        "id": "event_20260715_085816_3043",
+        "created_at": "2026-07-15T08:58:16.173962",
+        "world_date": "Año 1, Mes 12, Día 4 — Turno 333",
+        "world_time": {
+            "turn": 333,
+            "day": 4,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "movement",
+        "title": "Kael Bright viajó hacia Ruina Plateado",
+        "description": "Kael Bright avanzó hacia Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "destination": {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations",
+                "x": -373.0,
+                "y": 36.0,
+                "reason": "world_travel",
+                "assigned_at": "2026-07-01T11:24:31.624136"
+            },
+            "zone_name": null,
+            "travel_cost": null
+        }
+    },
+    {
+        "id": "event_20260715_085816_6857",
+        "created_at": "2026-07-15T08:58:16.173962",
+        "world_date": "Año 1, Mes 12, Día 4 — Turno 333",
+        "world_time": {
+            "turn": 333,
+            "day": 4,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "movement",
+        "title": "Elegida Kaia Nightfall viajó hacia Ruina Plateado",
+        "description": "Elegida Kaia Nightfall avanzó hacia Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_5",
+            "name": "Elegida Kaia Nightfall",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "destination": {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations",
+                "x": -373.0,
+                "y": 36.0,
+                "reason": "world_travel",
+                "assigned_at": "2026-07-15T08:58:15.624749"
+            },
+            "zone_name": null,
+            "travel_cost": 1.0
+        }
+    },
+    {
+        "id": "event_20260715_085816_4038",
+        "created_at": "2026-07-15T08:58:16.173962",
+        "world_date": "Año 1, Mes 12, Día 4 — Turno 333",
+        "world_time": {
+            "turn": 333,
+            "day": 4,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "travel_reflection",
+        "title": "Elegida Kaia Nightfall recordó una promesa",
+        "description": "Elegida Kaia Nightfall recordó una deuda, promesa o deseo que aún no ha cumplido.",
+        "source": {
+            "entity_id": "npcs_5",
+            "name": "Elegida Kaia Nightfall",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "reflection": true
+        }
+    },
+    {
+        "id": "event_20260715_085816_1637",
+        "created_at": "2026-07-15T08:58:16.173962",
+        "world_date": "Año 1, Mes 12, Día 4 — Turno 333",
+        "world_time": {
+            "turn": 333,
+            "day": 4,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "npc_location_reaction",
+        "title": "Kael Bright compró provisiones en Bastión Maldito",
+        "description": "Kael Bright consiguió recursos básicos en Bastión Maldito.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [
+            {
+                "entity_id": "locations_4",
+                "name": "Bastión Maldito",
+                "type": "locations"
+            }
+        ],
+        "extra": {
+            "reaction_key": "trade",
+            "effects": {
+                "actor_inventory_note": "Provisiones adquiridas"
+            }
+        }
+    },
+    {
+        "id": "event_20260715_085816_5708",
+        "created_at": "2026-07-15T08:58:16.173962",
+        "world_date": "Año 1, Mes 12, Día 4 — Turno 333",
+        "world_time": {
+            "turn": 333,
+            "day": 4,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "npc_location_reaction",
+        "title": "Elegida Kaia Nightfall aprendió rumores útiles en Ruina Plateado",
+        "description": "Elegida Kaia Nightfall obtuvo información sobre conflictos, rutas o peligros cercanos en Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_5",
+            "name": "Elegida Kaia Nightfall",
+            "type": "npcs"
+        },
+        "related": [
+            {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations"
+            }
+        ],
+        "extra": {
+            "reaction_key": "learn",
+            "effects": {
+                "actor_knowledge": "Rumores locales"
+            }
+        }
+    },
+    {
+        "id": "event_20260715_085817_2101",
+        "created_at": "2026-07-15T08:58:17.200441",
+        "world_date": "Año 1, Mes 12, Día 5 — Turno 334",
+        "world_time": {
+            "turn": 334,
+            "day": 5,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "movement",
+        "title": "Kael Bright viajó hacia Ruina Plateado",
+        "description": "Kael Bright avanzó hacia Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "destination": {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations",
+                "x": -373.0,
+                "y": 36.0,
+                "reason": "world_travel",
+                "assigned_at": "2026-07-01T11:24:31.624136"
+            },
+            "zone_name": null,
+            "travel_cost": null
+        }
+    },
+    {
+        "id": "event_20260715_085817_8673",
+        "created_at": "2026-07-15T08:58:17.200441",
+        "world_date": "Año 1, Mes 12, Día 5 — Turno 334",
+        "world_time": {
+            "turn": 334,
+            "day": 5,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "movement",
+        "title": "Elegida Kaia Nightfall viajó hacia Ruina Plateado",
+        "description": "Elegida Kaia Nightfall avanzó hacia Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_5",
+            "name": "Elegida Kaia Nightfall",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "destination": {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations",
+                "x": -373.0,
+                "y": 36.0,
+                "reason": "world_travel",
+                "assigned_at": "2026-07-15T08:58:15.624749"
+            },
+            "zone_name": null,
+            "travel_cost": 1.0
+        }
+    },
+    {
+        "id": "event_20260715_090301_4930",
+        "created_at": "2026-07-15T09:03:01.690172",
+        "world_date": "Año 1, Mes 12, Día 6 — Turno 335",
+        "world_time": {
+            "turn": 335,
+            "day": 6,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "movement",
+        "title": "Kael Bright viajó hacia Ruina Plateado",
+        "description": "Kael Bright avanzó hacia Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "destination": {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations",
+                "x": -373.0,
+                "y": 36.0,
+                "reason": "world_travel",
+                "assigned_at": "2026-07-01T11:24:31.624136"
+            },
+            "zone_name": null,
+            "travel_cost": null
+        }
+    },
+    {
+        "id": "event_20260715_090301_2198",
+        "created_at": "2026-07-15T09:03:01.690172",
+        "world_date": "Año 1, Mes 12, Día 6 — Turno 335",
+        "world_time": {
+            "turn": 335,
+            "day": 6,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "travel_reflection",
+        "title": "Kael Bright empezó a temer el camino",
+        "description": "Kael Bright sintió que el viaje podía ser más peligroso de lo esperado.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [],
+        "extra": {
+            "reflection": true
+        }
+    },
+    {
+        "id": "event_20260715_090301_2615",
+        "created_at": "2026-07-15T09:03:01.690172",
+        "world_date": "Año 1, Mes 12, Día 6 — Turno 335",
+        "world_time": {
+            "turn": 335,
+            "day": 6,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "npc_location_reaction",
+        "title": "Kael Bright compró provisiones en Bastión Maldito",
+        "description": "Kael Bright consiguió recursos básicos en Bastión Maldito.",
+        "source": {
+            "entity_id": "npcs_6",
+            "name": "Kael Bright",
+            "type": "npcs"
+        },
+        "related": [
+            {
+                "entity_id": "locations_4",
+                "name": "Bastión Maldito",
+                "type": "locations"
+            }
+        ],
+        "extra": {
+            "reaction_key": "trade",
+            "effects": {
+                "actor_inventory_note": "Provisiones adquiridas"
+            }
+        }
+    },
+    {
+        "id": "event_20260715_090301_3767",
+        "created_at": "2026-07-15T09:03:01.690172",
+        "world_date": "Año 1, Mes 12, Día 6 — Turno 335",
+        "world_time": {
+            "turn": 335,
+            "day": 6,
+            "month": 12,
+            "year": 1
+        },
+        "event_type": "npc_location_reaction",
+        "title": "Elegida Kaia Nightfall descansó en Ruina Plateado",
+        "description": "Elegida Kaia Nightfall se recuperó en Ruina Plateado.",
+        "source": {
+            "entity_id": "npcs_5",
+            "name": "Elegida Kaia Nightfall",
+            "type": "npcs"
+        },
+        "related": [
+            {
+                "entity_id": "locations_1",
+                "name": "Ruina Plateado",
+                "type": "locations"
+            }
+        ],
+        "extra": {
+            "reaction_key": "rest",
+            "effects": {
+                "actor_status": "Recuperado"
+            }
+        }
     }
 ]

@@ -9,5 +9,16 @@
             "year": 1
         },
         "created_at": "2026-07-01T11:25:04.833300"
+    },
+    {
+        "id": "era_2_20260715_090255",
+        "name": "Era del humo",
+        "started_at": {
+            "turn": 334,
+            "day": 5,
+            "month": 12,
+            "year": 1
+        },
+        "created_at": "2026-07-15T09:02:55.869210"
     }
 ]

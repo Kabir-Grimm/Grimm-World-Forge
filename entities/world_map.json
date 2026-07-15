@@ -7,18 +7,19 @@
             "x": -373.0,
             "y": 36.0,
             "map_enabled": false,
+            "location_role": null,
+            "tags": [],
+            "data": {},
+            "meta": {},
+            "effects": {},
+            "zone": null,
             "state": {},
             "resources": {},
             "party_id": null,
             "relations": {},
             "knowledge": [],
             "inventory_notes": [],
-            "location_role": null,
-            "tags": [],
-            "data": {},
-            "meta": {},
-            "effects": {},
-            "zone": null
+            "memory": []
         },
         {
             "entity_id": "locations_2",
@@ -27,18 +28,19 @@
             "x": 44.785484496960976,
             "y": -224.23292796871667,
             "map_enabled": false,
+            "location_role": null,
+            "tags": [],
+            "data": {},
+            "meta": {},
+            "effects": {},
+            "zone": null,
             "state": {},
             "resources": {},
             "party_id": null,
             "relations": {},
             "knowledge": [],
             "inventory_notes": [],
-            "location_role": null,
-            "tags": [],
-            "data": {},
-            "meta": {},
-            "effects": {},
-            "zone": null
+            "memory": []
         },
         {
             "entity_id": "locations_3",
@@ -47,29 +49,36 @@
             "x": 433.28709301823415,
             "y": -2.9295671798357716,
             "map_enabled": false,
+            "location_role": null,
+            "tags": [],
+            "data": {},
+            "meta": {},
+            "effects": {},
+            "zone": null,
             "state": {},
             "resources": {},
             "party_id": null,
             "relations": {},
             "knowledge": [],
             "inventory_notes": [],
-            "location_role": null,
-            "tags": [],
-            "data": {},
-            "meta": {},
-            "effects": {},
-            "zone": null
+            "memory": []
         },
         {
             "entity_id": "npcs_6",
             "name": "Kael Bright",
             "type": "npcs",
-            "x": 129.1125237962627,
-            "y": 236.042954794877,
+            "x": -121.71410361121204,
+            "y": 136.11296438463106,
             "map_enabled": false,
+            "location_role": null,
+            "tags": [],
+            "data": {},
+            "meta": {},
+            "effects": {},
+            "zone": null,
             "state": {
                 "goal": "Misión local",
-                "status": "Recuperado",
+                "status": "Inquieto",
                 "current_location": {
                     "entity_id": "kingdoms_4",
                     "name": "Santuario Sagrado",
@@ -155,28 +164,39 @@
                 "Provisiones adquiridas",
                 "Provisiones adquiridas",
                 "Provisiones adquiridas",
+                "Provisiones adquiridas",
+                "Provisiones adquiridas",
+                "Provisiones adquiridas",
+                "Provisiones adquiridas",
                 "Provisiones adquiridas"
             ],
-            "location_role": null,
-            "tags": [],
-            "data": {},
-            "meta": {},
-            "effects": {},
-            "zone": null
+            "memory": [
+                {
+                    "description": "Kael Bright sintió que el viaje podía ser más peligroso de lo esperado.",
+                    "importance": 1,
+                    "created_at": "2026-07-15T09:03:01.690172"
+                }
+            ]
         },
         {
             "entity_id": "npcs_5",
             "name": "Elegida Kaia Nightfall",
             "type": "npcs",
-            "x": -298.979973554137,
-            "y": -10.106073391999029,
+            "x": -373.0,
+            "y": 36.0,
             "map_enabled": false,
+            "location_role": null,
+            "tags": [],
+            "data": {},
+            "meta": {},
+            "effects": {},
+            "zone": null,
             "state": {
-                "status": "Inquieto",
+                "status": "Recuperado",
                 "goal": "Cumplir una promesa",
                 "current_location": {
-                    "entity_id": "locations_2",
-                    "name": "Sin nombreSin nombreSin nombre",
+                    "entity_id": "locations_1",
+                    "name": "Ruina Plateado",
                     "type": "locations"
                 },
                 "destination": {
@@ -186,7 +206,7 @@
                     "x": -373.0,
                     "y": 36.0,
                     "reason": "world_travel",
-                    "assigned_at": "2026-07-01T11:24:30.085409"
+                    "assigned_at": "2026-07-15T08:58:15.624749"
                 }
             },
             "resources": {},
@@ -195,6 +215,8 @@
                 "npcs_6": "conocido"
             },
             "knowledge": [
+                "Rumores locales",
+                "Rumores locales",
                 "Rumores locales",
                 "Rumores locales",
                 "Rumores locales",
@@ -245,17 +267,16 @@
                 "Provisiones adquiridas",
                 "Provisiones adquiridas"
             ],
-            "location_role": null,
-            "tags": [],
-            "data": {},
-            "meta": {},
-            "effects": {},
-            "zone": null,
             "memory": [
                 {
                     "description": "Elegida Kaia Nightfall sintió que el viaje podía ser más peligroso de lo esperado.",
                     "importance": 1,
                     "created_at": "2026-07-01T11:25:16.629711"
+                },
+                {
+                    "description": "Elegida Kaia Nightfall recordó una deuda, promesa o deseo que aún no ha cumplido.",
+                    "importance": 1,
+                    "created_at": "2026-07-15T08:58:16.173962"
                 }
             ]
         },
@@ -266,18 +287,19 @@
             "x": 254.52583750000008,
             "y": 286.00794999999994,
             "map_enabled": false,
+            "location_role": null,
+            "tags": [],
+            "data": {},
+            "meta": {},
+            "effects": {},
+            "zone": null,
             "state": {},
             "resources": {},
             "party_id": null,
             "relations": {},
             "knowledge": [],
             "inventory_notes": [],
-            "location_role": null,
-            "tags": [],
-            "data": {},
-            "meta": {},
-            "effects": {},
-            "zone": null
+            "memory": []
         },
         {
             "entity_id": "locations_4",
@@ -286,20 +308,21 @@
             "x": -90.40762499999988,
             "y": 222.89262500000007,
             "map_enabled": false,
+            "location_role": null,
+            "tags": [],
+            "data": {},
+            "meta": {},
+            "effects": {},
+            "zone": null,
             "state": {},
             "resources": {},
             "party_id": null,
             "relations": {},
             "knowledge": [],
             "inventory_notes": [],
-            "location_role": null,
-            "tags": [],
-            "data": {},
-            "meta": {},
-            "effects": {},
-            "zone": null
+            "memory": []
         }
     ],
     "created_at": "2026-06-26T14:21:49.295291",
-    "updated_at": "2026-07-01T11:25:16.629711"
+    "updated_at": "2026-07-15T09:03:01.690172"
 }

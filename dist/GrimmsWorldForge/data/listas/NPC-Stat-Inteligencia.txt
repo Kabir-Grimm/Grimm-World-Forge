@@ -1,7 +1,0 @@
-Idiota (Incapaz de comprender lo básico)|.4
-Limitado (Aprende con mucha dificultad)|.8
-Normal (Intelecto promedio)|1
-Ingenioso (Aprende rápido y resuelve problemas)|.8
-Brillante (Destaca en estrategia y lógica)|.08
-Genio (Capaz de grandes invenciones y tácticas)|.05
-Omnisciente (Sabe cosas que no debería saber)|.01

@@ -1,5 +1,0 @@
-{attacker} ataca con {weapon} mientras activa {technique}.
-{attacker} usa {technique} para reforzar el golpe con {weapon}.
-{attacker} convierte {technique} en una ventaja durante su ofensiva.
-{attacker} presiona a {defender} usando {weapon} y {technique}.
-{attacker} deja ver {technique} justo antes de atacar {target_part}.

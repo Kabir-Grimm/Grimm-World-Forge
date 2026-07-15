@@ -218,6 +218,21 @@ def save_world_events(events):
     save_json(WORLD_EVENTS_PATH, events)
 
 
+def add_generated_events(new_events, generated):
+    if not generated:
+        return
+
+    if isinstance(generated, list):
+        new_events.extend(
+            event for event in generated
+            if isinstance(event, dict)
+        )
+        return
+
+    if isinstance(generated, dict):
+        new_events.append(generated)
+
+
 def distance_between(a, b):
     ax = float(a.get("x", 0))
     ay = float(a.get("y", 0))
@@ -782,7 +797,8 @@ def advance_world_turn():
         zone_name = movement_result.get("zone_name")
 
         if movement_result.get("arrived"):
-            new_events.append(
+            add_generated_events(
+                new_events,
                 create_event(
                     "arrival",
                     f"{node.get('name', 'Entidad')} llegó a {destination_name}",
@@ -800,7 +816,8 @@ def advance_world_turn():
         else:
             zone_text = f" atravesando {zone_name}" if zone_name else ""
 
-            new_events.append(
+            add_generated_events(
+                new_events,
                 create_event(
                     "movement",
                     f"{node.get('name', 'Entidad')} viajó hacia {destination_name}",
@@ -822,7 +839,7 @@ def advance_world_turn():
                 world_time
             )
 
-            new_events.extend(side_events)
+            add_generated_events(new_events, side_events)
 
     production_events = generate_location_production_events(
         nodes,
@@ -834,8 +851,8 @@ def advance_world_turn():
         world_time
     )
 
-    new_events.extend(production_events)
-    new_events.extend(reaction_events)
+    add_generated_events(new_events, production_events)
+    add_generated_events(new_events, reaction_events)
 
     world_map["nodes"] = nodes
     save_world_map(world_map)

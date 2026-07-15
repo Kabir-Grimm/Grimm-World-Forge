@@ -1,7 +1,0 @@
-Débil (No puede cargar su propio peso)|.4
-Baja (Fuerza de un niño o anciano)|.8
-Promedio (Fuerza humana normal)|1
-Destacado (Más fuerte que el promedio)|.8
-Excepcional (Capaz de romper madera con golpes)|.08
-Sobrehumano (Levanta enormes pesos sin esfuerzo)|.05
-Titánico (Fuerza monstruosa capaz de hazañas increíbles)|.01
