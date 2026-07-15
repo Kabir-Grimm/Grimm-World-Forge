@@ -1,0 +1,2528 @@
+{
+    "prefix": "Raza-",
+    "oracles": {
+        "Raza-Cabeza": [
+            {
+                "value": "Cabeza con tres ojos",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza alargada en forma de cilindro",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza sin boca visible",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con cuernos en espiral",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de forma piramidal",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de lagarto",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con runas tatuadas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza en forma de calavera",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza en forma de flor abierta",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con una sola oreja",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con cresta ósea",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza cubierta de plumas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con una corona de fuego",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con hocico largo y fino",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de aspecto metálico",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con runas luminosas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza flotante, sin cuello",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con una gran mandíbula",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de dragón con cuernos",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con espinas venenosas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de insecto, con ojos compuestos",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con dos rostros (uno en la parte posterior)",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con colmillos visibles",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza en forma de triángulo",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza cubierta de ojos pequeños",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de roca, sólida y angulosa",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza sin nariz",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza en forma de caparazón",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con cuernos ramificados",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de cabra",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con ojos sin pupilas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de lobo",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con cresta dorsal",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza en forma de llama",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con cuernos huecos",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con espinas dorsales",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con una sola antena larga",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de serpiente",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza cubierta de escamas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de apariencia vegetal",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con cuernos hacia abajo",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza transparente",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de cuervo",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con pico de águila",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza sin ojos",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza rodeada de sombras",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza en forma de diamante",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con branquias visibles",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de tortuga",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza cubierta de cristales",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con cuernos dobles",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con aletas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de ciervo con cornamenta",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de pez, con escamas suaves",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con varios hocicos",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con ojos en la frente",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza en forma de estrella",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con cresta dorsal de plumas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de murciélago",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de jabalí",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza rodeada de vapor",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con marcas de runas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de estilo alienígena",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de ciempiés, con ojos múltiples",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de piedra",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con cuernos afilados",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de felino",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con tentáculos",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de forma angular",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza en espiral",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con una gema central",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con dientes pequeños y afilados",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de tortuga con cuernos",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de araña",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de aspecto acuático",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de llama o fuego",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con orejas puntiagudas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza sin boca",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de apariencia de cristal",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con plumas y escamas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de serpiente con ojos múltiples",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza en forma de esfera",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de búho",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de apariencia espectral",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con espinas frontales",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de demonio, con colmillos",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza alargada y fina",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de ave sin ojos",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza en forma de cuenco",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de golem con marcas rúnicas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con pelaje suave",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de cocodrilo",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de león",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza flotante, desconectada del cuerpo",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con un tercer ojo en la frente",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de forma cúbica",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con antenas ramificadas",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de caballo",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza con picos traseros",
+                "weight": 1
+            },
+            {
+                "value": "Cabeza de estilo humanoide, con rasgos animales",
+                "weight": 1
+            }
+        ],
+        "Raza-Torso": [
+            {
+                "value": "Torso con corazas de hueso",
+                "weight": 1
+            },
+            {
+                "value": "Torso cubierto de escamas",
+                "weight": 1
+            },
+            {
+                "value": "Torso translúcido, donde se ven los órganos",
+                "weight": 1
+            },
+            {
+                "value": "Torso con marcas rúnicas",
+                "weight": 1
+            },
+            {
+                "value": "Torso de piedra",
+                "weight": 1
+            },
+            {
+                "value": "Torso alargado y estilizado",
+                "weight": 1
+            },
+            {
+                "value": "Torso con espinas dorsales",
+                "weight": 1
+            },
+            {
+                "value": "Torso con una cavidad luminosa en el pecho",
+                "weight": 1
+            },
+            {
+                "value": "Torso musculoso",
+                "weight": 1
+            },
+            {
+                "value": "Torso de apariencia acuática",
+                "weight": 1
+            },
+            {
+                "value": "Torso de madera",
+                "weight": 1
+            },
+            {
+                "value": "Torso con escamas metálicas",
+                "weight": 1
+            },
+            {
+                "value": "Torso cubierto de plumas",
+                "weight": 1
+            },
+            {
+                "value": "Torso con piel que cambia de color",
+                "weight": 1
+            },
+            {
+                "value": "Torso con múltiples brazos",
+                "weight": 1
+            },
+            {
+                "value": "Torso con runas grabadas",
+                "weight": 1
+            },
+            {
+                "value": "Torso que emite vapor",
+                "weight": 1
+            },
+            {
+                "value": "Torso con placas de cristal",
+                "weight": 1
+            },
+            {
+                "value": "Torso con espinas venenosas",
+                "weight": 1
+            },
+            {
+                "value": "Torso rodeado de energía",
+                "weight": 1
+            },
+            {
+                "value": "Torso de piel mimética",
+                "weight": 1
+            },
+            {
+                "value": "Torso segmentado, como un insecto",
+                "weight": 1
+            },
+            {
+                "value": "Torso con garras retráctiles en el pecho",
+                "weight": 1
+            },
+            {
+                "value": "Torso con hendiduras donde surgen llamas",
+                "weight": 1
+            },
+            {
+                "value": "Torso de apariencia espectral",
+                "weight": 1
+            },
+            {
+                "value": "Torso cubierto de musgo o plantas",
+                "weight": 1
+            },
+            {
+                "value": "Torso sin costillas visibles",
+                "weight": 1
+            },
+            {
+                "value": "Torso con placas óseas",
+                "weight": 1
+            },
+            {
+                "value": "Torso con una gema central",
+                "weight": 1
+            },
+            {
+                "value": "Torso envuelto en sombras",
+                "weight": 1
+            },
+            {
+                "value": "Torso con un orbe de luz en el centro",
+                "weight": 1
+            },
+            {
+                "value": "Torso con texturas que imitan escamas de pez",
+                "weight": 1
+            },
+            {
+                "value": "Torso de fuego",
+                "weight": 1
+            },
+            {
+                "value": "Torso con tentáculos",
+                "weight": 1
+            },
+            {
+                "value": "Torso con múltiples ojos",
+                "weight": 1
+            },
+            {
+                "value": "Torso de aspecto robótico",
+                "weight": 1
+            },
+            {
+                "value": "Torso blindado como un golem",
+                "weight": 1
+            },
+            {
+                "value": "Torso cubierto de arcilla",
+                "weight": 1
+            },
+            {
+                "value": "Torso de hielo",
+                "weight": 1
+            },
+            {
+                "value": "Torso envuelto en raíces",
+                "weight": 1
+            },
+            {
+                "value": "Torso de cristal iridiscente",
+                "weight": 1
+            },
+            {
+                "value": "Torso con placas de magma",
+                "weight": 1
+            },
+            {
+                "value": "Torso con cuencas de luz",
+                "weight": 1
+            },
+            {
+                "value": "Torso segmentado, con secciones movibles",
+                "weight": 1
+            },
+            {
+                "value": "Torso con escamas de dragón",
+                "weight": 1
+            },
+            {
+                "value": "Torso de piel metálica",
+                "weight": 1
+            },
+            {
+                "value": "Torso en forma de caparazón",
+                "weight": 1
+            },
+            {
+                "value": "Torso que refleja la luz",
+                "weight": 1
+            },
+            {
+                "value": "Torso con tentáculos en los costados",
+                "weight": 1
+            },
+            {
+                "value": "Torso de apariencia orgánica y vegetal",
+                "weight": 1
+            },
+            {
+                "value": "Torso con alas membranosas en los costados",
+                "weight": 1
+            },
+            {
+                "value": "Torso que emite humo constantemente",
+                "weight": 1
+            },
+            {
+                "value": "Torso transparente como agua",
+                "weight": 1
+            },
+            {
+                "value": "Torso de piedra rugosa",
+                "weight": 1
+            },
+            {
+                "value": "Torso que late con energía mágica",
+                "weight": 1
+            },
+            {
+                "value": "Torso con plumas rígidas",
+                "weight": 1
+            },
+            {
+                "value": "Torso con marcas sagradas o de sacrificio",
+                "weight": 1
+            },
+            {
+                "value": "Torso con placas que parecen escamas de tortuga",
+                "weight": 1
+            },
+            {
+                "value": "Torso con heridas autogeneradas y cicatrices",
+                "weight": 1
+            },
+            {
+                "value": "Torso de aspecto cambiante",
+                "weight": 1
+            },
+            {
+                "value": "Torso blindado como una armadura natural",
+                "weight": 1
+            },
+            {
+                "value": "Torso de lava solidificada",
+                "weight": 1
+            },
+            {
+                "value": "Torso que parece tallado en madera",
+                "weight": 1
+            },
+            {
+                "value": "Torso con picos sobresalientes",
+                "weight": 1
+            },
+            {
+                "value": "Torso segmentado como un exoesqueleto",
+                "weight": 1
+            },
+            {
+                "value": "Torso con líneas de energía que pulsan",
+                "weight": 1
+            },
+            {
+                "value": "Torso con una abertura que muestra un orbe en su interior",
+                "weight": 1
+            },
+            {
+                "value": "Torso alargado y flexible",
+                "weight": 1
+            },
+            {
+                "value": "Torso con piel que se parece a la arena",
+                "weight": 1
+            },
+            {
+                "value": "Torso con marcas de quemaduras",
+                "weight": 1
+            },
+            {
+                "value": "Torso de apariencia arcillosa",
+                "weight": 1
+            },
+            {
+                "value": "Torso con agujeros por donde sale viento",
+                "weight": 1
+            },
+            {
+                "value": "Torso cubierto de pequeñas escamas brillantes",
+                "weight": 1
+            },
+            {
+                "value": "Torso con placas de hueso puntiagudas",
+                "weight": 1
+            },
+            {
+                "value": "Torso con varios orificios de donde salen llamas",
+                "weight": 1
+            },
+            {
+                "value": "Torso con piel de reptil",
+                "weight": 1
+            },
+            {
+                "value": "Torso de apariencia gelatinosa",
+                "weight": 1
+            },
+            {
+                "value": "Torso con patrones de lava en movimiento",
+                "weight": 1
+            },
+            {
+                "value": "Torso de mármol",
+                "weight": 1
+            },
+            {
+                "value": "Torso cubierto de musgo y líquenes",
+                "weight": 1
+            },
+            {
+                "value": "Torso de apariencia líquida, siempre en movimiento",
+                "weight": 1
+            },
+            {
+                "value": "Torso de roca cubierta de minerales",
+                "weight": 1
+            },
+            {
+                "value": "Torso con placas de hierro",
+                "weight": 1
+            },
+            {
+                "value": "Torso con finas escamas que cambian de color",
+                "weight": 1
+            },
+            {
+                "value": "Torso con orificios que emiten sonidos",
+                "weight": 1
+            },
+            {
+                "value": "Torso con patrones de hielo fracturado",
+                "weight": 1
+            },
+            {
+                "value": "Torso con una coraza natural, como la de un cangrejo",
+                "weight": 1
+            },
+            {
+                "value": "Torso cubierto de plumas en patrones exóticos",
+                "weight": 1
+            },
+            {
+                "value": "Torso de una sustancia etérea",
+                "weight": 1
+            },
+            {
+                "value": "Torso con cicatrices que se iluminan",
+                "weight": 1
+            },
+            {
+                "value": "Torso con segmentos de piel que levitan",
+                "weight": 1
+            },
+            {
+                "value": "Torso con cristales que parecen crecer en él",
+                "weight": 1
+            },
+            {
+                "value": "Torso de metal bruñido",
+                "weight": 1
+            },
+            {
+                "value": "Torso de apariencia esquelética",
+                "weight": 1
+            },
+            {
+                "value": "Torso rodeado de partículas brillantes",
+                "weight": 1
+            },
+            {
+                "value": "Torso de aspecto vegetal, con raíces visibles",
+                "weight": 1
+            },
+            {
+                "value": "Torso que cambia de textura según el ambiente",
+                "weight": 1
+            },
+            {
+                "value": "Torso cubierto de polvo de estrellas",
+                "weight": 1
+            },
+            {
+                "value": "Torso con placas translúcidas",
+                "weight": 1
+            },
+            {
+                "value": "Torso con fibras luminosas entrelazadas",
+                "weight": 1
+            }
+        ],
+        "Raza-Piernas": [
+            {
+                "value": "Piernas cubiertas de escamas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de insecto, segmentadas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con pezuñas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas musculosas y fuertes",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con espinas afiladas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas alargadas y delgadas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con garras retráctiles",
+                "weight": 1
+            },
+            {
+                "value": "Piernas que terminan en tentáculos",
+                "weight": 1
+            },
+            {
+                "value": "Piernas cubiertas de plumas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de aspecto cristalino",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de aspecto metálico",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de fuego constante",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con textura de madera",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con múltiples articulaciones",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de apariencia espectral",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con marcas rúnicas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de aspecto vegetal, como raíces",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de roca y minerales",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de hielo",
+                "weight": 1
+            },
+            {
+                "value": "Piernas envueltas en sombras",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con garras afiladas en los dedos",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con una estructura ósea visible",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con escamas de dragón",
+                "weight": 1
+            },
+            {
+                "value": "Piernas transparentes, como agua",
+                "weight": 1
+            },
+            {
+                "value": "Piernas cubiertas de pelaje denso",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con espinas venenosas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de forma serpenteante",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de ciempiés, con muchas secciones",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de tortuga, pesadas y sólidas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de cristal iridiscente",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con articulaciones invertidas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de apariencia viscosa",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con agujeros que emiten vapor",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con marcas luminosas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas que terminan en ventosas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de apariencia insectoide",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con cuernos o picos sobresalientes",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de roca volcánica",
+                "weight": 1
+            },
+            {
+                "value": "Piernas rodeadas de enredaderas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas que flotan ligeramente por magia",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de caracol, con una base gelatinosa",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con púas en los costados",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de estilo golem, pesadas y angulosas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de aspecto fantasmagórico",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con membranas entre los dedos",
+                "weight": 1
+            },
+            {
+                "value": "Piernas segmentadas como las de un cangrejo",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de apariencia metálica pulida",
+                "weight": 1
+            },
+            {
+                "value": "Piernas que se adaptan al terreno",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de aspecto reptiliano",
+                "weight": 1
+            },
+            {
+                "value": "Piernas cubiertas de un líquido brillante",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con articulaciones flotantes",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de apariencia cristalina, frágil",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de piedra rugosa",
+                "weight": 1
+            },
+            {
+                "value": "Piernas cubiertas de polvo de estrellas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de lava sólida y ardiente",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con patrones rúnicos antiguos",
+                "weight": 1
+            },
+            {
+                "value": "Piernas envueltas en llamas azules",
+                "weight": 1
+            },
+            {
+                "value": "Piernas cubiertas de algas o líquenes",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de espinas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con garras en las rodillas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de planta, como un tallo grueso",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de aspecto humanoide pero con escamas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con branquias en los costados",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de vidrio transparente",
+                "weight": 1
+            },
+            {
+                "value": "Piernas cubiertas de piel camaleónica",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con un brillo natural",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de aspecto licántropo",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de una textura similar a la arcilla",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con placas de piedra como protección",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de apariencia acuática",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de estructura sólida y angular",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de hueso descubierto",
+                "weight": 1
+            },
+            {
+                "value": "Piernas que emiten una niebla mágica",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con pinzas en las rodillas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con texturas de corteza de árbol",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de piel metálica y brillante",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con plumas doradas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de roca con cristales incrustados",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de apariencia fantasmal",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con garras afiladas en las pantorrillas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas cubiertas de pelos oscuros",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de mariposa, con patrones coloridos",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de madera, firmes y resistentes",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con fibras musculares expuestas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de apariencia alienígena",
+                "weight": 1
+            },
+            {
+                "value": "Piernas que emiten una luz suave",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con textura de arena",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de estilo serpentino",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de apariencia de concha marina",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de piedra lisa y pulida",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de piel mimética que cambia de color",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de aspecto cuasi-humanoide, pero muy largas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas cubiertas de hiedra y flores",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con escamas y plumas combinadas",
+                "weight": 1
+            },
+            {
+                "value": "Piernas que emiten un resplandor etéreo",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de fuego congelado",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con pinchos en los tobillos",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de apariencia arcillosa y flexible",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de textura líquida, siempre en movimiento",
+                "weight": 1
+            },
+            {
+                "value": "Piernas con forma de raíces entrelazadas",
+                "weight": 1
+            }
+        ],
+        "Raza-Brazos": [
+            {
+                "value": "Brazos cubiertos de escamas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos largos y delgados",
+                "weight": 1
+            },
+            {
+                "value": "Brazos musculosos y robustos",
+                "weight": 1
+            },
+            {
+                "value": "Brazos segmentados como insecto",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de metal brillante",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con tentáculos en lugar de dedos",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de roca",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con garras afiladas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos que terminan en pezuñas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con espinas dorsales",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de apariencia fantasmagórica",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de aspecto vegetal, como ramas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con múltiples articulaciones",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de fuego ardiente",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con plumas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de cristal",
+                "weight": 1
+            },
+            {
+                "value": "Brazos cubiertos de piel camaleónica",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de hielo",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con garras retráctiles",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de apariencia serpenteante",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con cuernos o picos",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de una textura similar a la arcilla",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de energía pura",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de textura líquida",
+                "weight": 1
+            },
+            {
+                "value": "Brazos segmentados como un exoesqueleto",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de madera con corteza",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de piedra pulida",
+                "weight": 1
+            },
+            {
+                "value": "Brazos alargados y flexibles",
+                "weight": 1
+            },
+            {
+                "value": "Brazos cubiertos de runas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de humo",
+                "weight": 1
+            },
+            {
+                "value": "Brazos que emiten un brillo etéreo",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con placas óseas visibles",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con tentáculos en los codos",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de roca volcánica",
+                "weight": 1
+            },
+            {
+                "value": "Brazos cubiertos de musgo y líquenes",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con púas venenosas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos que terminan en ventosas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con patrones luminiscentes",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de un material cristalino iridiscente",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con plumas brillantes",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de hueso expuesto",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con escamas de dragón",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de apariencia espectral, translúcidos",
+                "weight": 1
+            },
+            {
+                "value": "Brazos cubiertos de plantas pequeñas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con garras en el antebrazo",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de piedra y minerales",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con tatuajes vivos",
+                "weight": 1
+            },
+            {
+                "value": "Brazos que se ramifican en varios puntos",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con piel mimética",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de una textura parecida a la arena",
+                "weight": 1
+            },
+            {
+                "value": "Brazos cubiertos de una sustancia viscosa",
+                "weight": 1
+            },
+            {
+                "value": "Brazos que emiten un calor constante",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de metal forjado",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de apariencia acuática, como piel de pez",
+                "weight": 1
+            },
+            {
+                "value": "Brazos que reflejan la luz",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con membranas de alas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de apariencia robótica",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de arcilla",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con múltiples ojos en el antebrazo",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con espinas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de apariencia cambiante",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con marcas de quemaduras",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con patrones de energía pulsante",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de cristal sólido",
+                "weight": 1
+            },
+            {
+                "value": "Brazos segmentados y flexibles",
+                "weight": 1
+            },
+            {
+                "value": "Brazos cubiertos de polvo de estrellas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con púas en los codos",
+                "weight": 1
+            },
+            {
+                "value": "Brazos envueltos en llamas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de apariencia alienígena",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con escamas doradas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con gemas incrustadas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos que parecen estar hechos de raíces",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con pinzas al final",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de apariencia de arcilla endurecida",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de mármol",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con púas retráctiles",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de forma gaseosa",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de cristal líquido",
+                "weight": 1
+            },
+            {
+                "value": "Brazos cubiertos de una piel escamosa iridiscente",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con aletas en el antebrazo",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con cuchillas óseas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos que emiten una niebla",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de piel metálica",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de humo denso y oscuro",
+                "weight": 1
+            },
+            {
+                "value": "Brazos que cambian de forma según el estado emocional",
+                "weight": 1
+            },
+            {
+                "value": "Brazos cubiertos de espinas venenosas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con forma de alas plegadas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de roca que emiten chispas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de agua sólida",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con segmentos de piel cristalina",
+                "weight": 1
+            },
+            {
+                "value": "Brazos cubiertos de texturas vegetales",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de textura gelatinosa",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de metal oxidado",
+                "weight": 1
+            },
+            {
+                "value": "Brazos cubiertos de pequeñas conchas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de lava solidificada",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de apariencia insectoide",
+                "weight": 1
+            },
+            {
+                "value": "Brazos rodeados de energía mágica",
+                "weight": 1
+            },
+            {
+                "value": "Brazos con cristales en crecimiento",
+                "weight": 1
+            },
+            {
+                "value": "Brazos de piedra cubierta de runas",
+                "weight": 1
+            },
+            {
+                "value": "Brazos que parecen tallados en hielo",
+                "weight": 1
+            }
+        ],
+        "Raza-Caracteristicas": [
+            {
+                "value": "Cuernos rectos",
+                "weight": 1
+            },
+            {
+                "value": "Cuernos en espiral",
+                "weight": 1
+            },
+            {
+                "value": "Cola de lagarto",
+                "weight": 1
+            },
+            {
+                "value": "Cola de serpiente",
+                "weight": 1
+            },
+            {
+                "value": "Alas de murciélago",
+                "weight": 1
+            },
+            {
+                "value": "Alas de plumas",
+                "weight": 1
+            },
+            {
+                "value": "Alas translúcidas",
+                "weight": 1
+            },
+            {
+                "value": "Alas de insecto",
+                "weight": 1
+            },
+            {
+                "value": "Ojos adicionales en la frente",
+                "weight": 1
+            },
+            {
+                "value": "Ojos adicionales en los hombros",
+                "weight": 1
+            },
+            {
+                "value": "Mandíbulas dobles",
+                "weight": 1
+            },
+            {
+                "value": "Garras retráctiles",
+                "weight": 1
+            },
+            {
+                "value": "Piel escamosa",
+                "weight": 1
+            },
+            {
+                "value": "Piel de roca",
+                "weight": 1
+            },
+            {
+                "value": "Cabello en llamas",
+                "weight": 1
+            },
+            {
+                "value": "Cabello que se mueve solo",
+                "weight": 1
+            },
+            {
+                "value": "Escamas de dragón",
+                "weight": 1
+            },
+            {
+                "value": "Escamas de cristal",
+                "weight": 1
+            },
+            {
+                "value": "Escamas venenosas",
+                "weight": 1
+            },
+            {
+                "value": "Piel luminosa",
+                "weight": 1
+            },
+            {
+                "value": "Piel de camuflaje",
+                "weight": 1
+            },
+            {
+                "value": "Piel de sombras",
+                "weight": 1
+            },
+            {
+                "value": "Orejas puntiagudas",
+                "weight": 1
+            },
+            {
+                "value": "Orejas con plumas",
+                "weight": 1
+            },
+            {
+                "value": "Orejas grandes y sensibles",
+                "weight": 1
+            },
+            {
+                "value": "Colmillos visibles",
+                "weight": 1
+            },
+            {
+                "value": "Dientes afilados",
+                "weight": 1
+            },
+            {
+                "value": "Colmillos de serpiente",
+                "weight": 1
+            },
+            {
+                "value": "Manos con tentáculos",
+                "weight": 1
+            },
+            {
+                "value": "Tentáculos en la espalda",
+                "weight": 1
+            },
+            {
+                "value": "Lengua bífida",
+                "weight": 1
+            },
+            {
+                "value": "Lengua muy larga",
+                "weight": 1
+            },
+            {
+                "value": "Lengua venenosa",
+                "weight": 1
+            },
+            {
+                "value": "Ojos reptilianos",
+                "weight": 1
+            },
+            {
+                "value": "Ojos sin pupilas",
+                "weight": 1
+            },
+            {
+                "value": "Piel metálica",
+                "weight": 1
+            },
+            {
+                "value": "Piel dorada",
+                "weight": 1
+            },
+            {
+                "value": "Cuernos huecos",
+                "weight": 1
+            },
+            {
+                "value": "Cuernos ramificados",
+                "weight": 1
+            },
+            {
+                "value": "Cuernos de cristal",
+                "weight": 1
+            },
+            {
+                "value": "Cuernos múltiples",
+                "weight": 1
+            },
+            {
+                "value": "Piel de hielo",
+                "weight": 1
+            },
+            {
+                "value": "Piel transparente",
+                "weight": 1
+            },
+            {
+                "value": "Espinas en la espalda",
+                "weight": 1
+            },
+            {
+                "value": "Escamas de fuego",
+                "weight": 1
+            },
+            {
+                "value": "Escamas de agua",
+                "weight": 1
+            },
+            {
+                "value": "Garras de cristal",
+                "weight": 1
+            },
+            {
+                "value": "Garras de obsidiana",
+                "weight": 1
+            },
+            {
+                "value": "Alas con garras",
+                "weight": 1
+            },
+            {
+                "value": "Alas de humo",
+                "weight": 1
+            },
+            {
+                "value": "Piel de arcilla",
+                "weight": 1
+            },
+            {
+                "value": "Piel de mármol",
+                "weight": 1
+            },
+            {
+                "value": "Cuernos etéreos",
+                "weight": 1
+            },
+            {
+                "value": "Cuerpo semitransparente",
+                "weight": 1
+            },
+            {
+                "value": "Ojos de gato",
+                "weight": 1
+            },
+            {
+                "value": "Ojos brillantes",
+                "weight": 1
+            },
+            {
+                "value": "Cicatrices que se mueven",
+                "weight": 1
+            },
+            {
+                "value": "Escamas con runas",
+                "weight": 1
+            },
+            {
+                "value": "Cuernos retorcidos",
+                "weight": 1
+            },
+            {
+                "value": "Cuernos de bestia",
+                "weight": 1
+            },
+            {
+                "value": "Garras en los pies",
+                "weight": 1
+            },
+            {
+                "value": "Piel con runas mágicas",
+                "weight": 1
+            },
+            {
+                "value": "Cola prensil",
+                "weight": 1
+            },
+            {
+                "value": "Pelo cambiante",
+                "weight": 1
+            },
+            {
+                "value": "Patas de animal",
+                "weight": 1
+            },
+            {
+                "value": "Piel de agua",
+                "weight": 1
+            },
+            {
+                "value": "Mandíbulas extensibles",
+                "weight": 1
+            },
+            {
+                "value": "Piel de bronce",
+                "weight": 1
+            },
+            {
+                "value": "Cuerpo cubierto de plumas",
+                "weight": 1
+            },
+            {
+                "value": "Cuerpo de sombra",
+                "weight": 1
+            },
+            {
+                "value": "Piel de magma",
+                "weight": 1
+            },
+            {
+                "value": "Ojos de niebla",
+                "weight": 1
+            },
+            {
+                "value": "Ojos múltiples en el torso",
+                "weight": 1
+            },
+            {
+                "value": "Piernas de insecto",
+                "weight": 1
+            },
+            {
+                "value": "Cuerpo de cristal",
+                "weight": 1
+            },
+            {
+                "value": "Orejas con escamas",
+                "weight": 1
+            },
+            {
+                "value": "Cuernos magnéticos",
+                "weight": 1
+            },
+            {
+                "value": "Cuerpo de metal",
+                "weight": 1
+            },
+            {
+                "value": "Cuernos ramificados en múltiples direcciones",
+                "weight": 1
+            },
+            {
+                "value": "Escamas reflectantes",
+                "weight": 1
+            },
+            {
+                "value": "Piel de seda",
+                "weight": 1
+            },
+            {
+                "value": "Cuernos de demonio",
+                "weight": 1
+            },
+            {
+                "value": "Ojos que ven el futuro",
+                "weight": 1
+            },
+            {
+                "value": "Mandíbulas reforzadas",
+                "weight": 1
+            },
+            {
+                "value": "Cuernos recubiertos de oro",
+                "weight": 1
+            },
+            {
+                "value": "Escamas iridiscentes",
+                "weight": 1
+            },
+            {
+                "value": "Placas óseas externas",
+                "weight": 1
+            },
+            {
+                "value": "Escamas frías al tacto",
+                "weight": 1
+            },
+            {
+                "value": "Piel que cambia de color",
+                "weight": 1
+            },
+            {
+                "value": "Tentáculos de luz",
+                "weight": 1
+            },
+            {
+                "value": "Alas tatuadas con runas",
+                "weight": 1
+            },
+            {
+                "value": "Ojos sin párpados",
+                "weight": 1
+            },
+            {
+                "value": "Piel de vidrio",
+                "weight": 1
+            },
+            {
+                "value": "Patas en forma de pezuñas",
+                "weight": 1
+            },
+            {
+                "value": "Escamas con propiedades curativas",
+                "weight": 1
+            },
+            {
+                "value": "Lengua con sabor a minerales",
+                "weight": 1
+            },
+            {
+                "value": "Cuerpo emite humo o niebla",
+                "weight": 1
+            },
+            {
+                "value": "Piel brillante bajo la luna",
+                "weight": 1
+            },
+            {
+                "value": "Cuerpo cubierto de musgo o vegetación",
+                "weight": 1
+            }
+        ],
+        "Raza-Origen": [
+            {
+                "value": "Ascenso",
+                "weight": 1
+            },
+            {
+                "value": "Furia",
+                "weight": 1
+            },
+            {
+                "value": "Eclipse",
+                "weight": 1
+            },
+            {
+                "value": "Sangre",
+                "weight": 1
+            },
+            {
+                "value": "Abismo",
+                "weight": 1
+            },
+            {
+                "value": "Legado",
+                "weight": 1
+            },
+            {
+                "value": "Forja",
+                "weight": 1
+            },
+            {
+                "value": "Crepúsculo",
+                "weight": 1
+            },
+            {
+                "value": "Exilio",
+                "weight": 1
+            },
+            {
+                "value": "Juramento",
+                "weight": 1
+            },
+            {
+                "value": "Sacrificio",
+                "weight": 1
+            },
+            {
+                "value": "Redención",
+                "weight": 1
+            },
+            {
+                "value": "Perdición",
+                "weight": 1
+            },
+            {
+                "value": "Silencio",
+                "weight": 1
+            },
+            {
+                "value": "Despertar",
+                "weight": 1
+            },
+            {
+                "value": "Sombra",
+                "weight": 1
+            },
+            {
+                "value": "Herencia",
+                "weight": 1
+            },
+            {
+                "value": "Éxtasis",
+                "weight": 1
+            },
+            {
+                "value": "Caída",
+                "weight": 1
+            },
+            {
+                "value": "Renacimiento",
+                "weight": 1
+            },
+            {
+                "value": "Profecía",
+                "weight": 1
+            },
+            {
+                "value": "Traición",
+                "weight": 1
+            },
+            {
+                "value": "Éxodo",
+                "weight": 1
+            },
+            {
+                "value": "Oscuridad",
+                "weight": 1
+            },
+            {
+                "value": "Ira",
+                "weight": 1
+            },
+            {
+                "value": "Bendición",
+                "weight": 1
+            },
+            {
+                "value": "Destino",
+                "weight": 1
+            },
+            {
+                "value": "Miseria",
+                "weight": 1
+            },
+            {
+                "value": "Venganza",
+                "weight": 1
+            },
+            {
+                "value": "Gloria",
+                "weight": 1
+            },
+            {
+                "value": "Libertad",
+                "weight": 1
+            },
+            {
+                "value": "Honor",
+                "weight": 1
+            },
+            {
+                "value": "Vórtice",
+                "weight": 1
+            },
+            {
+                "value": "Espejismo",
+                "weight": 1
+            },
+            {
+                "value": "Miedo",
+                "weight": 1
+            },
+            {
+                "value": "Escudo",
+                "weight": 1
+            },
+            {
+                "value": "Sigilo",
+                "weight": 1
+            },
+            {
+                "value": "Tormento",
+                "weight": 1
+            },
+            {
+                "value": "Desdicha",
+                "weight": 1
+            },
+            {
+                "value": "Épica",
+                "weight": 1
+            },
+            {
+                "value": "Sabiduría",
+                "weight": 1
+            },
+            {
+                "value": "Testamento",
+                "weight": 1
+            },
+            {
+                "value": "Alma",
+                "weight": 1
+            },
+            {
+                "value": "Implacable",
+                "weight": 1
+            },
+            {
+                "value": "Promesa",
+                "weight": 1
+            },
+            {
+                "value": "Armonía",
+                "weight": 1
+            },
+            {
+                "value": "Fulgor",
+                "weight": 1
+            },
+            {
+                "value": "Virtud",
+                "weight": 1
+            },
+            {
+                "value": "Niebla",
+                "weight": 1
+            },
+            {
+                "value": "Corazón",
+                "weight": 1
+            },
+            {
+                "value": "Sombras",
+                "weight": 1
+            },
+            {
+                "value": "Susurro",
+                "weight": 1
+            },
+            {
+                "value": "Gracia",
+                "weight": 1
+            },
+            {
+                "value": "Pacto",
+                "weight": 1
+            },
+            {
+                "value": "Tempestad",
+                "weight": 1
+            },
+            {
+                "value": "Bestia",
+                "weight": 1
+            },
+            {
+                "value": "Aliento",
+                "weight": 1
+            },
+            {
+                "value": "Visión",
+                "weight": 1
+            },
+            {
+                "value": "Aullido",
+                "weight": 1
+            },
+            {
+                "value": "Mártir",
+                "weight": 1
+            },
+            {
+                "value": "Piedra",
+                "weight": 1
+            },
+            {
+                "value": "Sable",
+                "weight": 1
+            },
+            {
+                "value": "Dualidad",
+                "weight": 1
+            },
+            {
+                "value": "Refugio",
+                "weight": 1
+            },
+            {
+                "value": "Solsticio",
+                "weight": 1
+            },
+            {
+                "value": "Pérdida",
+                "weight": 1
+            },
+            {
+                "value": "Fortaleza",
+                "weight": 1
+            },
+            {
+                "value": "Inmortalidad",
+                "weight": 1
+            },
+            {
+                "value": "Lágrima",
+                "weight": 1
+            },
+            {
+                "value": "Esencia",
+                "weight": 1
+            },
+            {
+                "value": "Laberinto",
+                "weight": 1
+            },
+            {
+                "value": "Fénix",
+                "weight": 1
+            },
+            {
+                "value": "Expiación",
+                "weight": 1
+            },
+            {
+                "value": "Ruina",
+                "weight": 1
+            },
+            {
+                "value": "Enigma",
+                "weight": 1
+            },
+            {
+                "value": "Vínculo",
+                "weight": 1
+            },
+            {
+                "value": "Clamor",
+                "weight": 1
+            },
+            {
+                "value": "Duda",
+                "weight": 1
+            },
+            {
+                "value": "Fábula",
+                "weight": 1
+            },
+            {
+                "value": "Empatía",
+                "weight": 1
+            },
+            {
+                "value": "Pesadilla",
+                "weight": 1
+            },
+            {
+                "value": "Ritual",
+                "weight": 1
+            },
+            {
+                "value": "Castigo",
+                "weight": 1
+            },
+            {
+                "value": "Cataclismo",
+                "weight": 1
+            },
+            {
+                "value": "Éter",
+                "weight": 1
+            },
+            {
+                "value": "Temor",
+                "weight": 1
+            },
+            {
+                "value": "Deseo",
+                "weight": 1
+            },
+            {
+                "value": "Quimera",
+                "weight": 1
+            },
+            {
+                "value": "Destierro",
+                "weight": 1
+            },
+            {
+                "value": "Paz",
+                "weight": 1
+            },
+            {
+                "value": "Frontera",
+                "weight": 1
+            },
+            {
+                "value": "Cicatriz",
+                "weight": 1
+            },
+            {
+                "value": "Espíritu",
+                "weight": 1
+            },
+            {
+                "value": "Voluntad",
+                "weight": 1
+            },
+            {
+                "value": "Memoria",
+                "weight": 1
+            },
+            {
+                "value": "Deuda",
+                "weight": 1
+            },
+            {
+                "value": "Discordia",
+                "weight": 1
+            }
+        ],
+        "Raza-Categorias": [
+            {
+                "value": "Nombre de la Raza",
+                "description": "Nombre de la raza o especie.",
+                "weight": 1
+            },
+            {
+                "value": "Apariencia Física",
+                "description": "Características físicas generales (altura, peso, color de piel, tipo de cabello, etc.).",
+                "weight": 1
+            },
+            {
+                "value": "Rasgos Distintivos",
+                "description": "Rasgos únicos como orejas largas, cuernos, colas, ojos de reptil, alas, etc.",
+                "weight": 1
+            },
+            {
+                "value": "Esperanza de Vida",
+                "description": "Edad promedio de los individuos de la raza.",
+                "weight": 1
+            },
+            {
+                "value": "Ciclo de Vida",
+                "description": "Cómo envejecen y las etapas de su vida (niñez, adultez, vejez).",
+                "weight": 1
+            },
+            {
+                "value": "Capacidades Físicas",
+                "description": "Fuerza, agilidad, resistencia, capacidad de vuelo, velocidad, etc.",
+                "weight": 1
+            },
+            {
+                "value": "Capacidades Mentales",
+                "description": "Inteligencia, percepción, creatividad, intuición, etc.",
+                "weight": 1
+            },
+            {
+                "value": "Afinidad Mágica",
+                "description": "Relación de la raza con la magia (alta, baja, nula; tipos de magia que dominan).",
+                "weight": 1
+            },
+            {
+                "value": "Relación con la Naturaleza",
+                "description": "Cómo interactúan con el entorno natural (armónicos, destructivos, neutrales).",
+                "weight": 1
+            },
+            {
+                "value": "Rasgos Sociales",
+                "description": "Cómo son sus interacciones sociales: jerarquía, sistemas de familia, tribus, etc.",
+                "weight": 1
+            },
+            {
+                "value": "Cultura y Tradiciones",
+                "description": "Costumbres, rituales, festividades, creencias, y religión.",
+                "weight": 1
+            },
+            {
+                "value": "Religión o Deidades",
+                "description": "Dioses o deidades que veneran, rituales y prácticas religiosas.",
+                "weight": 1
+            },
+            {
+                "value": "Estructura Política",
+                "description": "Organización de su sociedad: monarquía, repúblicas, clanes, tribus, etc.",
+                "weight": 1
+            },
+            {
+                "value": "Relación con otras Razas",
+                "description": "Cómo se relacionan con otras especies (aliados, enemigos, neutrales).",
+                "weight": 1
+            },
+            {
+                "value": "Debilidades",
+                "description": "Puntos débiles o limitaciones físicas, mágicas, o mentales.",
+                "weight": 1
+            },
+            {
+                "value": "Fortalezas",
+                "description": "Habilidades o ventajas particulares (visión nocturna, inmortalidad, regeneración).",
+                "weight": 1
+            },
+            {
+                "value": "Historia o Origen",
+                "description": "Leyendas o mitos sobre el origen de la raza y su historia.",
+                "weight": 1
+            },
+            {
+                "value": "Personalidad Típica",
+                "description": "Rasgos de comportamiento comunes entre los individuos de la raza (agresivos, sabios, pacíficos).",
+                "weight": 1
+            },
+            {
+                "value": "Tamaño y Estructura del Cuerpo",
+                "description": "¿Son humanoides, cuadrúpedos, insectoides, con varias extremidades? ¿Cómo es su esqueleto?",
+                "weight": 1
+            },
+            {
+                "value": "Tipo de Sociedad",
+                "description": "Matriarcal, patriarcal, anarquista, igualitaria, etc.",
+                "weight": 1
+            },
+            {
+                "value": "Arte y Cultura",
+                "description": "Tipo de arte, música, y otras formas de expresión cultural propias de la raza.",
+                "weight": 1
+            },
+            {
+                "value": "Ejército o Defensa",
+                "description": "Formas en que defienden sus territorios, tipo de ejército o milicias.",
+                "weight": 1
+            },
+            {
+                "value": "Ritos de Pasaje",
+                "description": "Ceremonias importantes, como la mayoría de edad, funerales, bodas.",
+                "weight": 1
+            },
+            {
+                "value": "Relación con la Magia",
+                "description": "¿Cómo interactúan con lo sobrenatural o lo arcano? (creadores, usuarios, resistentes).",
+                "weight": 1
+            },
+            {
+                "value": "Simbolismo y Tótems",
+                "description": "Símbolos sagrados, tótems o íconos que representan su cultura o religión.",
+                "weight": 1
+            }
+        ]
+    }
+}

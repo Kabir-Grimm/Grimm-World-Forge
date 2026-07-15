@@ -110,5 +110,21 @@
         },
         "notes": "Relación generada automáticamente por la simulación del mundo.",
         "created_at": "2026-07-01T00:20:41.999410"
+    },
+    {
+        "id": "relation_8_1c095a95",
+        "source": {
+            "id": "npcs_5",
+            "name": "Elegida Kaia Nightfall",
+            "type": "npcs"
+        },
+        "relation_type": "bendecido por",
+        "target": {
+            "id": "default_spell_2",
+            "name": "Barrera menor",
+            "type": "spells"
+        },
+        "notes": "Asignado desde equipamiento.",
+        "created_at": "2026-07-11T13:27:30.731810"
     }
 ]

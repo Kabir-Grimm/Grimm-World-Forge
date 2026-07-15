@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Elemento religioso o espiritual - Objeto complejo",
+        "type": "loot",
+        "meta": {
+            "focus": "Botín común",
+            "category": "Elemento religioso o espiritual",
+            "rarity": "Común",
+            "state": "Antiguo",
+            "active": true
+        },
+        "data": {
+            "Enfoque": "Botín común",
+            "Categoría": "Elemento religioso o espiritual",
+            "Forma": "Objeto complejo",
+            "Rareza": "Común",
+            "Estado": "Antiguo",
+            "Origen": "Fabricado para una misión concreta",
+            "Propiedad": "Puede combinarse con otros objetos",
+            "Historia": "Fue la causa de una disputa",
+            "Complicación": "No funciona como debería",
+            "Nombre sugerido": "Elemento religioso o espiritual - Objeto complejo"
+        },
+        "created_at": "2026-07-11T13:32:43.380237",
+        "id": "loot_1"
+    }
+]

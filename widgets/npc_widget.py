@@ -4,7 +4,8 @@ from PySide6.QtWidgets import (
     QCheckBox,
     QComboBox,
     QLabel,
-    QHBoxLayout
+    QHBoxLayout,
+    QPushButton
 )
 
 from core.parser import weighted_choice
@@ -12,6 +13,13 @@ from utils.ui_helpers import sort_combobox
 from core.parser import load_all_lists
 from services.name_generator_service import generate_entity_name
 from services.npc_loadout_service import generate_npc_loadout
+from services.species_service import (
+    load_species,
+    get_random_species,
+    generate_species_from_oracles,
+    save_species,
+    get_species_by_id
+)
 
 
 class NPCWidget(BaseGeneratorWidget):
@@ -24,6 +32,7 @@ class NPCWidget(BaseGeneratorWidget):
         super().__init__(history_widget)
 
         self.generated_meta = {}
+        self.generated_species = None
 
         meta_layout = QHBoxLayout()
 
@@ -101,6 +110,17 @@ class NPCWidget(BaseGeneratorWidget):
 
         meta_layout.addWidget(self.gender_combo)
 
+        meta_layout.addWidget(QLabel("Raza / Especie:"))
+
+        self.species_combo = QComboBox()
+        self.load_species_options()
+        meta_layout.addWidget(self.species_combo)
+
+        self.refresh_species_btn = QPushButton("🔄")
+        self.refresh_species_btn.setToolTip("Recargar especies guardadas")
+        self.refresh_species_btn.clicked.connect(self.load_species_options)
+        meta_layout.addWidget(self.refresh_species_btn)
+
         self.layout().insertLayout(1, meta_layout)
 
         self.hero_checkbox = QCheckBox("🌟 NPC Héroe")
@@ -118,10 +138,107 @@ class NPCWidget(BaseGeneratorWidget):
         self.auto_magic_checkbox.setChecked(True)
         self.layout().insertWidget(5, self.auto_magic_checkbox)
 
+    # =====================================
+    # Especies / razas
+    # =====================================
+
+    def load_species_options(self):
+        current = None
+
+        if hasattr(self, "species_combo"):
+            current = self.species_combo.currentData()
+            self.species_combo.clear()
+
+        self.species_combo.addItem("Aleatoria guardada", "random_saved")
+        self.species_combo.addItem("Generar nueva especie", "generate_new")
+        self.species_combo.addItem("Usar oráculo antiguo", "legacy_oracle")
+
+        for species in load_species():
+            self.species_combo.addItem(
+                f"{species.get('name')} ({species.get('id')})",
+                species.get("id")
+            )
+
+        if current:
+            index = self.species_combo.findData(current)
+
+            if index >= 0:
+                self.species_combo.setCurrentIndex(index)
+
+    def resolve_species_for_npc(self):
+        selected = self.species_combo.currentData()
+
+        if selected == "random_saved":
+            return get_random_species()
+
+        if selected == "generate_new":
+            species = generate_species_from_oracles()
+            save_species(species)
+            self.load_species_options()
+            return species
+
+        if selected == "legacy_oracle":
+            return None
+
+        return get_species_by_id(selected)
+
+    def apply_species_to_generated_data(self, species):
+        if not species:
+            return
+
+        species_name = species.get("name", "Especie desconocida")
+
+        self.generated_data["Raza"] = species_name
+        self.generated_data["Especie"] = species_name
+        self.generated_data["species"] = {
+            "id": species.get("id"),
+            "name": species_name,
+            "type": "species"
+        }
+
+        species_data = species.get("data", {})
+
+        if species_data:
+            self.generated_data["Datos de especie"] = species_data
+
+        species_effects = species.get("effects", {})
+
+        if species_effects:
+            self.generated_data["Efectos de especie"] = species_effects
+
+    def append_species_to_result(self, species):
+        if not species:
+            return
+
+        self.result.append("\n🧬 RAZA / ESPECIE")
+        self.result.append(f"Nombre: {species.get('name', 'Especie desconocida')}")
+
+        data = species.get("data", {})
+
+        for key in ["Origen", "Cabeza", "Torso", "Piernas", "Brazos", "Características"]:
+            value = data.get(key)
+
+            if value:
+                self.result.append(f"{key}: {value}")
+
+        effects = species.get("effects", {})
+
+        if effects:
+            self.result.append("Efectos inferidos:")
+
+            for key, value in effects.items():
+                sign = "+" if value >= 0 else ""
+                self.result.append(f"- {key}: {sign}{value}")
+
+    # =====================================
+    # Generar
+    # =====================================
+
     def generate_entity(self):
         super().generate_entity()
 
         self.generated_meta = self.generate_default_npc_meta()
+        self.generated_species = self.resolve_species_for_npc()
 
         selected_gender = self.generated_meta.get(
             "gender",
@@ -131,6 +248,9 @@ class NPCWidget(BaseGeneratorWidget):
         self.generated_data["Género"] = selected_gender
         self.generated_data["Genero"] = selected_gender
         self.generated_data["gender"] = selected_gender
+
+        self.apply_species_to_generated_data(self.generated_species)
+        self.append_species_to_result(self.generated_species)
 
         if self.hero_checkbox.isChecked():
             heroic_gift = weighted_choice([
@@ -203,10 +323,14 @@ class NPCWidget(BaseGeneratorWidget):
         else:
             self.result.append("Magia/Poderes: No conoce")
 
+    # =====================================
+    # Metadata
+    # =====================================
+
     def generate_default_npc_meta(self):
         age = self.generate_age()
 
-        return {
+        meta = {
             "importance": self.importance_combo.currentText(),
             "role": self.role_combo.currentText(),
             "power_rank": self.power_rank_combo.currentText(),
@@ -217,6 +341,15 @@ class NPCWidget(BaseGeneratorWidget):
             "gender": self.generate_gender(),
             "traits": []
         }
+
+        if self.generated_species:
+            meta["species"] = {
+                "id": self.generated_species.get("id"),
+                "name": self.generated_species.get("name"),
+                "type": "species"
+            }
+
+        return meta
 
     def generate_age(self):
         import random
@@ -234,6 +367,10 @@ class NPCWidget(BaseGeneratorWidget):
 
         return "Vejez"
 
+    # =====================================
+    # Guardar
+    # =====================================
+
     def save_entity_data(self):
         if not self.generated_data:
             return
@@ -242,6 +379,10 @@ class NPCWidget(BaseGeneratorWidget):
             self.name_input.text().strip()
             or "NPC Sin Nombre"
         )
+
+        if not self.generated_species:
+            self.generated_species = self.resolve_species_for_npc()
+            self.apply_species_to_generated_data(self.generated_species)
 
         meta = (
             self.generated_meta
@@ -257,6 +398,13 @@ class NPCWidget(BaseGeneratorWidget):
         self.generated_data["Género"] = selected_gender
         self.generated_data["Genero"] = selected_gender
         self.generated_data["gender"] = selected_gender
+
+        if self.generated_species:
+            meta["species"] = {
+                "id": self.generated_species.get("id"),
+                "name": self.generated_species.get("name"),
+                "type": "species"
+            }
 
         entity = {
             "name": name,
@@ -281,6 +429,12 @@ class NPCWidget(BaseGeneratorWidget):
         if world_id:
             add_entity_to_world(world_id, entity)
 
+        species_name = (
+            self.generated_species.get("name")
+            if self.generated_species
+            else self.generated_data.get("Raza", "Sin especie")
+        )
+
         self.result.append(
             "\n"
             "💾 NPC GUARDADO\n"
@@ -292,6 +446,7 @@ class NPCWidget(BaseGeneratorWidget):
             f"Edad: {entity['meta']['age']}\n"
             f"Etapa: {entity['meta']['life_stage']}\n"
             f"Género: {entity['meta']['gender']}\n"
+            f"Raza / Especie: {species_name}\n"
         )
 
         add_system_log(
@@ -301,6 +456,10 @@ class NPCWidget(BaseGeneratorWidget):
 
     def save_current_entity(self):
         self.save_entity_data()
+
+    # =====================================
+    # Género / nombre
+    # =====================================
 
     def generate_gender(self):
         if self.gender_combo.currentText() != "Aleatorio":

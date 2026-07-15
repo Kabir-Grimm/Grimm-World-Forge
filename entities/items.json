@@ -1,0 +1,23 @@
+[
+    {
+        "data": {
+            "Categoria": "Material",
+            "Complicacion": "No funciona como debería",
+            "Estado": "Buen estado",
+            "Forma-General": "Objeto resistente",
+            "Historia": "Fue recuperado varias veces",
+            "Origen": "Resultado de un error inesperado",
+            "Propiedad": "Su utilidad depende del usuario",
+            "Rareza": "Escaso"
+        },
+        "meta": {
+            "generated_at": "2026-07-11T13:05:17.653382",
+            "label": "Loot",
+            "module": "loot"
+        },
+        "name": "Libro de los Mil Ecos",
+        "type": "items",
+        "created_at": "2026-07-11T13:05:32.793278",
+        "id": "items_1"
+    }
+]

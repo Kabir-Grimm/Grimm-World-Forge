@@ -43,6 +43,11 @@
                 "id": "kingdoms_2",
                 "name": "Paranka",
                 "type": "kingdoms"
+            },
+            {
+                "id": "items_1",
+                "name": "Libro de los Mil Ecos",
+                "type": "items"
             }
         ],
         "id": "world_1",

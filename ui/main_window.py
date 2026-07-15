@@ -49,6 +49,7 @@ from widgets.maintenance_widget import MaintenanceWidget
 from widgets.loot_widget import LootWidget
 from widgets.spell_forge_widget import SpellForgeWidget
 from widgets.world_map_widget import WorldMapWidget
+from widgets.species_widget import SpeciesWidget
 
 
 class MainWindow(QMainWindow):
@@ -230,6 +231,7 @@ class MainWindow(QMainWindow):
             ("dice", "🎲 Lanzar Dados"),
             ("multiroll", "🎲 Tirada Múltiple"),
             ("characters", display_ui("characters")),
+            ("species", "🧬 Razas / Especies"),
             ("equipment", display_ui("equipment")),
             ("loot", "💎 Loot"),
             ("locations", display_ui("locations")),
@@ -366,6 +368,9 @@ class MainWindow(QMainWindow):
 
         if key == "characters":
             return NPCWidget(self.history)
+
+        if key == "species":
+            return SpeciesWidget(self.history)
 
         if key == "equipment":
             return EquipmentWidget(self.history)
